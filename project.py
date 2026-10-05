@@ -1,6 +1,5 @@
 import re
 
-
 input_string = input("adj meg egy SQL lekérdezést\n").strip()
 input_string_array = input_string.split()
 tables = ["A", "B", "C"]
@@ -9,30 +8,54 @@ bins = 10
 
 
 def check():
-    if len(input_string_array) >= 6:
-        if (input_string_array[0].upper() == "SELECT" and
-                input_string_array[1].upper() == "*" and
-                input_string_array[2].upper() == "FROM" and
-                input_string_array[4].upper() == "WHERE"):
-            return True
-    return False
+    words_array = []
+    for word in input_string_array:
+        words_array.append(word.upper())
+
+    if (words_array[0] == "SELECT"
+            and words_array[1] == "*"
+            and words_array[2] == "FROM"
+            and "WHERE" in words_array):
+        return True
+    else:
+        return False
 
 
-def wich_table():
+def cursor():
+    table_parts = []
+    where_parts = []
+
+    mode = ("")
+    for word in input_string_array:
+        if word.upper() == "FROM":
+            mode = "FROM"
+            continue
+        elif (word.upper() == "WHERE"):
+            mode = "WHERE"
+            continue
+        if mode == "FROM":
+            table_parts.append(word)
+        elif mode == "WHERE":
+            where_parts.append(word)
+
+    return table_parts, where_parts
+
+
+def wich_table(table_parts):
+    string = "".join(table_parts).upper()
     table_bits = []
     for table in tables:
-        if table == input_string_array[3].upper():
+        if table in string:
             table_bits.append(1)
-
         else:
             table_bits.append(0)
     return table_bits
 
-def restriction():
+
+def restriction(where_parts):
     restriction_bits = []
-    where = input_string_array[5:] #Gemini
-    where = "".join(where) #Gemini
-    where = re.split(r'(<=|>=|==|<|>)', where) #Gemini
+    where = "".join(where_parts)  # Gemini
+    where = re.split(r'(<=|>=|==|<|>)', where)  # Gemini
     for attribute in attributes:
         if attribute in where[0]:
             number = round(float(where[2]) / 100, 1)
@@ -42,7 +65,7 @@ def restriction():
                 restriction_bits.append(1 - number)
             elif where[1] == "==":
                 restriction_bits.append(round(1 / bins, 2))
-        elif attribute[0]==where[0][0] :
+        elif attribute[0] == where[0][0]:
             restriction_bits.append(1)
         else:
             restriction_bits.append(0)
@@ -52,6 +75,6 @@ def restriction():
 
 # SELECT * FROM A WHERE a1    <=       23
 
-if(check()):
-    whole_table = wich_table()+restriction()
+if (check()):
+    whole_table = wich_table() + restriction()
     print(whole_table)
