@@ -6,6 +6,10 @@ tables = ["A", "B", "C"]
 attributes = ["a1", "a2", "b1", "b2", "c1", "c2"]
 bins = 10
 
+table_parts = []
+restriction_parts = []
+join_parts = []
+
 
 def check():
     words_array = []
@@ -22,26 +26,27 @@ def check():
 
 
 def cursor():
-    table_parts = []
-    where_parts = []
-
     mode = ("")
     for word in input_string_array:
-        if word.upper() == "FROM":
-            mode = "FROM"
+        if word.upper() == "FROM" or word.upper() == "JOIN":
+            mode = "TABLES"
             continue
-        elif (word.upper() == "WHERE"):
+        elif word.upper() == "ON":
+            mode = "JOIN"
+            continue
+        elif word.upper() == "WHERE":
             mode = "WHERE"
             continue
-        if mode == "FROM":
+
+        if mode == "TABLES":
             table_parts.append(word)
+        elif mode == "JOIN":
+            join_parts.append(word)
         elif mode == "WHERE":
-            where_parts.append(word)
-
-    return table_parts, where_parts
+            restriction_parts.append(word)
 
 
-def wich_table(table_parts):
+def wich_table():
     string = "".join(table_parts).upper()
     table_bits = []
     for table in tables:
@@ -52,9 +57,9 @@ def wich_table(table_parts):
     return table_bits
 
 
-def restriction(where_parts):
+def restriction():
     restriction_bits = []
-    where = "".join(where_parts)  # Gemini
+    where = "".join(restriction_parts)  # Gemini
     where = re.split(r'(<=|>=|==|<|>)', where)  # Gemini
     for attribute in attributes:
         if attribute in where[0]:
@@ -73,8 +78,26 @@ def restriction(where_parts):
     return restriction_bits
 
 
-# SELECT * FROM A WHERE a1    <=       23
+def join():
+    join_bits = [0, 0]
+    join_str = "".join(join_parts).upper()
+
+    if "A." in join_str and "B." in join_str:
+        join_bits[0] = 1
+    if "B." in join_str and "C." in join_str:
+        join_bits[1] = 1
+
+    return join_bits
+
 
 if (check()):
-    whole_table = wich_table() + restriction()
+    cursor()
+    whole_table = wich_table() + restriction() + join()
     print(whole_table)
+
+# SELECT * FROM A WHERE a1    <=       23
+# SELECT * FROM A JOIN B ON A.id = B.id WHERE a1 <= 23
+# SELECT * FROM A JOIN B ON A.id = B.id WHERE a1 <= 50
+# SELECT * FROM B JOIN C ON B.id = C.id WHERE c1 == 25
+# SELECT * FROM A WHERE a2 >= 80
+# SELECT * FROM A JOIN B JOIN C ON A.id = B.id AND B.id = C.id WHERE b1 < 10
