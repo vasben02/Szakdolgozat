@@ -1,3 +1,4 @@
+import binascii
 import re
 
 input_string = input("adj meg egy SQL lekérdezést\n").strip()
@@ -5,7 +6,7 @@ input_string_array = input_string.split()
 tables = ["A", "B", "C"]
 attributes = ["a1", "a2", "b1", "b2", "c1", "c2"]
 bins = 10
-
+#a1 = price, a2 = size, b1=location, b2=district, c1 = heating, c2 = condition
 table_parts = []
 restriction_parts = []
 join_parts = []
@@ -63,13 +64,17 @@ def restriction():
     where = re.split(r'(<=|>=|==|<|>)', where)  # Gemini
     for attribute in attributes:
         if attribute in where[0]:
-            number = round(float(where[2]) / 100, 1)
+            value =  where[2].replace("'", "").replace('"', '')
+
+            number = hashing(value)
+
             if where[1] == "<=" or where[1] == "<":
                 restriction_bits.append(number)
             elif where[1] == ">=" or where[1] == ">":
-                restriction_bits.append(1 - number)
+                restriction_bits.append(round(1 - number,1))
             elif where[1] == "==":
-                restriction_bits.append(round(1 / bins, 2))
+                binning = round(number * bins) / bins
+                restriction_bits.append(binning)
         elif attribute[0] == where[0][0]:
             restriction_bits.append(1)
         else:
@@ -77,6 +82,9 @@ def restriction():
 
     return restriction_bits
 
+def hashing(inputval):
+    hash_val = binascii.crc32(inputval.encode('utf-8'))
+    return round(hash_val / 0xffffffff, 1)
 
 def join():
     join_bits = [0, 0]
@@ -95,9 +103,7 @@ if (check()):
     whole_table = wich_table() + restriction() + join()
     print(whole_table)
 
-# SELECT * FROM A WHERE a1    <=       23
-# SELECT * FROM A JOIN B ON A.id = B.id WHERE a1 <= 23
-# SELECT * FROM A JOIN B ON A.id = B.id WHERE a1 <= 50
-# SELECT * FROM B JOIN C ON B.id = C.id WHERE c1 == 25
-# SELECT * FROM A WHERE a2 >= 80
-# SELECT * FROM A JOIN B JOIN C ON A.id = B.id AND B.id = C.id WHERE b1 < 10
+#SELECT * FROM A JOIN C ON A.id = C.id WHERE c1 == gáz-cirkó
+#SELECT * FROM A WHERE a1 <= 200000
+#SELECT * FROM A WHERE a2 >= 65
+#SELECT * FROM A JOIN B ON A.id = B.id WHERE b2 == I

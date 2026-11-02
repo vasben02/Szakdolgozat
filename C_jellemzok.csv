@@ -1,0 +1,2728 @@
+property_id,heating_type,condition
+1,egyedi mérős központifűtés,új építésű
+2,gáz-cirkó,felújított
+3,gáz-cirkó,jó állapotú
+4,gáz-cirkó,jó állapotú
+5,gáz-cirkó,jó állapotú
+6,gáz-cirkó,jó állapotú
+7,központi fűtés,jó állapotú
+8,házközponti,jó állapotú
+9,gáz-cirkó,felújított
+10,gáz konvektor,jó állapotú
+11,gáz-cirkó,felújított
+12,gáz-cirkó,felújított
+13,gáz-cirkó,jó állapotú
+14,központi fűtés,jó állapotú
+15,gáz-cirkó,jó állapotú
+16,gáz-cirkó,felújított
+17,gáz konvektor,jó állapotú
+18,gáz-cirkó,felújított
+19,egyedi mérős központifűtés,új építésű
+20,gáz konvektor,felújított
+21,gáz-cirkó,újszerű
+22,házközponti,felújított
+23,gáz-cirkó,felújított
+24,gáz-cirkó,felújított
+25,házközponti,felújított
+26,távhő,felújított
+27,gáz-cirkó,felújított
+28,egyedi mérős központifűtés,újszerű
+29,gáz konvektor,felújított
+30,központi fűtés,felújított
+31,egyedi mérős központifűtés,felújított
+32,elektromos,jó állapotú
+33,egyedi mérős központifűtés,újszerű
+34,gáz konvektor,felújított
+35,kandalló-cserépkályha,jó állapotú
+36,egyedi mérős központifűtés,újszerű
+37,elektromos,jó állapotú
+38,gáz konvektor,jó állapotú
+39,házközponti,jó állapotú
+40,gáz konvektor,jó állapotú
+41,gáz-cirkó,jó állapotú
+42,gáz-cirkó,újszerű
+43,gáz-cirkó,felújított
+44,gáz-cirkó,felújított
+45,gáz konvektor,felújított
+46,egyedi mérős központifűtés,újszerű
+47,gáz-cirkó,felújított
+48,központi fűtés,felújított
+49,házközponti,felújított
+50,gáz-cirkó,jó állapotú
+51,gáz konvektor,felújított
+52,egyéb,felújított
+53,távhő,felújított
+54,egyéb,újszerű
+55,gáz konvektor,jó állapotú
+56,gáz konvektor,felújított
+57,egyedi mérős központifűtés,új építésű
+58,távhő,felújított
+59,gáz konvektor,jó állapotú
+60,gáz konvektor,felújított
+61,egyedi mérős központifűtés,új építésű
+62,gáz-cirkó,újszerű
+63,távhő,újszerű
+64,központi fűtés,jó állapotú
+65,elektromos,jó állapotú
+66,gáz-cirkó,újszerű
+67,központi fűtés,újszerű
+68,gáz-cirkó,felújított
+69,gáz konvektor,felújított
+70,távhő,felújított
+71,gáz konvektor,felújított
+72,központi fűtés,jó állapotú
+73,házközponti,újszerű
+74,gáz-cirkó,jó állapotú
+75,gáz-cirkó,jó állapotú
+76,gáz-cirkó,jó állapotú
+77,gáz konvektor,jó állapotú
+78,gáz-cirkó,felújított
+79,gáz-cirkó,jó állapotú
+80,gáz-cirkó,újszerű
+81,gáz-cirkó,jó állapotú
+82,gáz-cirkó,jó állapotú
+83,gáz-cirkó,felújított
+84,egyedi mérős központifűtés,újszerű
+85,házközponti,jó állapotú
+86,gáz-cirkó,újszerű
+87,gáz konvektor,jó állapotú
+88,gáz-cirkó,újszerű
+89,egyedi mérős központifűtés,felújított
+90,gáz konvektor,felújított
+91,távhő,felújított
+92,gáz-cirkó,jó állapotú
+93,egyedi mérős központifűtés,felújított
+94,egyedi mérős központifűtés,új építésű
+95,gáz-cirkó,jó állapotú
+96,távhő,felújított
+97,központi fűtés,jó állapotú
+98,gáz-cirkó,újszerű
+99,elektromos,újszerű
+100,elektromos,újszerű
+101,házközponti,felújított
+102,házközponti,újszerű
+103,gáz-cirkó,jó állapotú
+104,gáz-cirkó,jó állapotú
+105,egyedi mérős központifűtés,felújított
+106,gáz-cirkó,felújított
+107,gáz-cirkó,felújított
+108,távhő,felújított
+109,gáz konvektor,jó állapotú
+110,egyedi mérős központifűtés,újszerű
+111,gáz konvektor,jó állapotú
+112,távhő,jó állapotú
+113,házközponti,újszerű
+114,távhő,felújított
+115,egyedi mérős központifűtés,újszerű
+116,gáz-cirkó,felújított
+117,egyéb,felújított
+118,egyéb,felújított
+119,gáz-cirkó,jó állapotú
+120,gáz konvektor,jó állapotú
+121,gáz-cirkó,felújított
+122,gáz-cirkó,felújított
+123,távhő,újszerű
+124,távhő,újszerű
+125,házközponti,újszerű
+126,gáz-cirkó,felújított
+127,házközponti,új építésű
+128,egyedi mérős központifűtés,új építésű
+129,gáz konvektor,felújított
+130,gáz konvektor,felújított
+131,gáz konvektor,jó állapotú
+132,házközponti,felújított
+133,gáz konvektor,felújított
+134,házközponti,újszerű
+135,egyedi mérős központifűtés,felújított
+136,egyéb,felújított
+137,gáz-cirkó,felújított
+138,házközponti,felújított
+139,házközponti,jó állapotú
+140,egyedi mérős központifűtés,új építésű
+141,egyedi mérős központifűtés,újszerű
+142,központi fűtés,felújított
+143,egyéb,felújított
+144,házközponti,jó állapotú
+145,távhő,felújított
+146,gáz-cirkó,jó állapotú
+147,gáz-cirkó,jó állapotú
+148,gáz-cirkó,felújított
+149,gáz-cirkó,újszerű
+150,gáz-cirkó,felújított
+151,házközponti,jó állapotú
+152,távhő,jó állapotú
+153,egyéb,felújított
+154,központi fűtés,felújított
+155,gáz-cirkó,felújított
+156,gáz-cirkó,felújított
+157,gáz-cirkó,felújított
+158,gáz-cirkó,újszerű
+159,egyéb,felújított
+160,egyéb,felújított
+161,házközponti,jó állapotú
+162,gáz-cirkó,felújított
+163,egyedi mérős központifűtés,újszerű
+164,gáz-cirkó,új építésű
+165,gáz-cirkó,új építésű
+166,gáz-cirkó,felújított
+167,házközponti,felújított
+168,gáz-cirkó,felújított
+169,házközponti,jó állapotú
+170,gáz konvektor,felújított
+171,gáz konvektor,felújított
+172,egyéb,felújított
+173,gáz-cirkó,felújított
+174,gáz konvektor,felújított
+175,távhő,felújított
+176,gáz-cirkó,felújított
+177,gáz-cirkó,felújított
+178,gáz-cirkó,felújított
+179,gáz-cirkó,felújított
+180,gáz-cirkó,felújított
+181,gáz-cirkó,felújított
+182,egyéb,felújított
+183,gáz konvektor,felújított
+184,egyéb,felújított
+185,egyedi mérős központifűtés,felújított
+186,központi fűtés,felújított
+187,egyedi mérős központifűtés,felújított
+188,gáz-cirkó,felújított
+189,gáz-cirkó,felújított
+190,gáz-cirkó,felújított
+191,gáz-cirkó,új építésű
+192,gáz-cirkó,felújított
+193,gáz-cirkó,felújított
+194,gáz-cirkó,felújított
+195,gáz-cirkó,felújított
+196,házközponti,felújított
+197,gáz-cirkó,felújított
+198,gáz konvektor,felújított
+199,házközponti,felújított
+200,házközponti,jó állapotú
+201,gáz-cirkó,felújított
+202,központi fűtés,felújított
+203,házközponti,újszerű
+204,gáz konvektor,felújított
+205,gáz konvektor,felújított
+206,házközponti,felújított
+207,gáz-cirkó,újszerű
+208,elektromos,felújított
+209,gáz konvektor,felújított
+210,gáz konvektor,felújított
+211,gáz-cirkó,újszerű
+212,házközponti,jó állapotú
+213,gáz konvektor,jó állapotú
+214,gáz konvektor,felújított
+215,gáz konvektor,jó állapotú
+216,gáz konvektor,felújított
+217,gáz-cirkó,jó állapotú
+218,távhő,felújított
+219,gáz konvektor,felújított
+220,gáz konvektor,jó állapotú
+221,gáz konvektor,jó állapotú
+222,gáz konvektor,jó állapotú
+223,távhő,jó állapotú
+224,házközponti,felújított
+225,gáz konvektor,jó állapotú
+226,házközponti,jó állapotú
+227,gáz konvektor,jó állapotú
+228,gáz konvektor,jó állapotú
+229,gáz-cirkó,felújított
+230,gáz-cirkó,jó állapotú
+231,gáz-cirkó,újszerű
+232,gáz-cirkó,felújított
+233,gáz konvektor,jó állapotú
+234,távhő,felújított
+235,távhő,jó állapotú
+236,távhő,felújított
+237,gáz konvektor,jó állapotú
+238,gáz-cirkó,felújított
+239,gáz-cirkó,felújított
+240,házközponti,új építésű
+241,egyéb,jó állapotú
+242,központi fűtés,felújított
+243,gáz-cirkó,jó állapotú
+244,gáz-cirkó,felújított
+245,egyedi mérős központifűtés,új építésű
+246,gáz-cirkó,felújított
+247,gáz konvektor,jó állapotú
+248,elektromos,jó állapotú
+249,gáz-cirkó,újszerű
+250,központi fűtés,újszerű
+251,gáz konvektor,újszerű
+252,kandalló-cserépkályha,felújított
+253,egyéb,felújított
+254,távhő,jó állapotú
+255,gáz-cirkó,felújított
+256,elektromos,felújított
+257,távhő,jó állapotú
+258,gáz-cirkó,újszerű
+259,távhő,jó állapotú
+260,gáz-cirkó,jó állapotú
+261,gáz-cirkó,jó állapotú
+262,gáz konvektor,felújított
+263,gáz-cirkó,felújított
+264,gáz-cirkó,felújított
+265,gáz-cirkó,felújított
+266,házközponti,jó állapotú
+267,gáz-cirkó,felújított
+268,gáz-cirkó,új építésű
+269,házközponti,felújított
+270,gáz-cirkó,felújított
+271,gáz-cirkó,felújított
+272,gáz konvektor,felújított
+273,gáz-cirkó,jó állapotú
+274,gáz-cirkó,felújított
+275,gáz-cirkó,felújított
+276,gáz-cirkó,felújított
+277,házközponti,felújított
+278,egyéb,felújított
+279,gáz-cirkó,jó állapotú
+280,távhő,felújított
+281,gáz-cirkó,újszerű
+282,gáz-cirkó,felújított
+283,házközponti,jó állapotú
+284,egyéb,jó állapotú
+285,gáz konvektor,jó állapotú
+286,központi fűtés,felújított
+287,gáz-cirkó,jó állapotú
+288,gáz-cirkó,felújított
+289,gáz-cirkó,jó állapotú
+290,gáz konvektor,felújított
+291,gáz konvektor,felújított
+292,házközponti,új építésű
+293,gáz-cirkó,felújított
+294,gáz-cirkó,felújított
+295,gáz-cirkó,jó állapotú
+296,gáz-cirkó,felújított
+297,gáz-cirkó,felújított
+298,gáz-cirkó,újszerű
+299,gáz-cirkó,jó állapotú
+300,gáz-cirkó,jó állapotú
+301,gáz-cirkó,jó állapotú
+302,egyéb,jó állapotú
+303,házközponti,felújított
+304,házközponti,jó állapotú
+305,gáz-cirkó,jó állapotú
+306,házközponti,jó állapotú
+307,gáz-cirkó,jó állapotú
+308,távhő,felújított
+309,házközponti,új építésű
+310,házközponti,felújított
+311,gáz-cirkó,felújított
+312,gáz-cirkó,jó állapotú
+313,házközponti,felújított
+314,egyedi mérős központifűtés,újszerű
+315,gáz-cirkó,jó állapotú
+316,gáz-cirkó,felújított
+317,egyedi mérős központifűtés,jó állapotú
+318,gáz konvektor,jó állapotú
+319,gáz konvektor,felújított
+320,gáz-cirkó,jó állapotú
+321,gáz-cirkó,jó állapotú
+322,gáz-cirkó,jó állapotú
+323,gáz-cirkó,újszerű
+324,házközponti,felújított
+325,egyedi mérős központifűtés,jó állapotú
+326,gáz konvektor,felújított
+327,gáz konvektor,jó állapotú
+328,egyedi mérős központifűtés,felújított
+329,elektromos,felújított
+330,házközponti,jó állapotú
+331,gáz-cirkó,felújított
+332,gáz konvektor,jó állapotú
+333,gáz-cirkó,felújított
+334,gáz konvektor,jó állapotú
+335,gáz-cirkó,felújított
+336,elektromos,felújított
+337,gáz-cirkó,felújított
+338,gáz-cirkó,felújított
+339,gáz-cirkó,jó állapotú
+340,gáz-cirkó,jó állapotú
+341,gáz-cirkó,felújított
+342,gáz-cirkó,felújított
+343,egyedi mérős központifűtés,felújított
+344,távhő,felújított
+345,gáz konvektor,jó állapotú
+346,egyedi mérős központifűtés,felújított
+347,távhő,felújított
+348,távhő,felújított
+349,távhő,felújított
+350,gáz-cirkó,felújított
+351,gáz-cirkó,felújított
+352,elektromos,újszerű
+353,egyedi mérős központifűtés,felújított
+354,gáz konvektor,felújított
+355,távhő,felújított
+356,gáz-cirkó,jó állapotú
+357,házközponti,újszerű
+358,gáz-cirkó,felújított
+359,egyedi mérős központifűtés,jó állapotú
+360,központi fűtés,felújított
+361,egyedi mérős központifűtés,felújított
+362,távhő,felújított
+363,gáz konvektor,jó állapotú
+364,gáz-cirkó,felújított
+365,gáz konvektor,jó állapotú
+366,egyedi mérős központifűtés,újszerű
+367,egyedi mérős központifűtés,felújított
+368,gáz-cirkó,jó állapotú
+369,gáz konvektor,jó állapotú
+370,központi fűtés,jó állapotú
+371,gáz-cirkó,jó állapotú
+372,gáz-cirkó,újszerű
+373,gáz-cirkó,felújított
+374,házközponti,jó állapotú
+375,gáz-cirkó,újszerű
+376,gáz-cirkó,felújított
+377,gáz-cirkó,felújított
+378,gáz konvektor,felújított
+379,házközponti,felújított
+380,egyedi mérős központifűtés,új építésű
+381,elektromos,felújított
+382,elektromos,felújított
+383,egyedi mérős központifűtés,jó állapotú
+384,gáz konvektor,felújított
+385,gáz-cirkó,felújított
+386,gáz-cirkó,jó állapotú
+387,gáz-cirkó,felújított
+388,távhő,jó állapotú
+389,távhő,felújított
+390,gáz-cirkó,újszerű
+391,távhő,jó állapotú
+392,gáz-cirkó,jó állapotú
+393,gáz-cirkó,újszerű
+394,gáz-cirkó,újszerű
+395,gáz-cirkó,újszerű
+396,központi fűtés,újszerű
+397,házközponti,új építésű
+398,gáz konvektor,jó állapotú
+399,gáz-cirkó,újszerű
+400,gáz-cirkó,felújított
+401,gáz-cirkó,jó állapotú
+402,gáz-cirkó,újszerű
+403,gáz-cirkó,jó állapotú
+404,gáz-cirkó,jó állapotú
+405,gáz-cirkó,jó állapotú
+406,gáz konvektor,újszerű
+407,gáz-cirkó,újszerű
+408,központi fűtés,jó állapotú
+409,elektromos,jó állapotú
+410,elektromos,újszerű
+411,központi fűtés,jó állapotú
+412,központi fűtés,jó állapotú
+413,gáz-cirkó,újszerű
+414,gáz-cirkó,újszerű
+415,gáz-cirkó,újszerű
+416,gáz-cirkó,jó állapotú
+417,gáz-cirkó,jó állapotú
+418,gáz-cirkó,újszerű
+419,gáz-cirkó,jó állapotú
+420,gáz-cirkó,jó állapotú
+421,házközponti,új építésű
+422,gáz konvektor,felújított
+423,házközponti,újszerű
+424,gáz-cirkó,felújított
+425,gáz-cirkó,felújított
+426,gáz konvektor,jó állapotú
+427,egyedi mérős központifűtés,újszerű
+428,gáz-cirkó,felújított
+429,egyéb,új építésű
+430,gáz-cirkó,felújított
+431,házközponti,felújított
+432,házközponti,jó állapotú
+433,gáz-cirkó,felújított
+434,gáz-cirkó,felújított
+435,gáz-cirkó,felújított
+436,gáz konvektor,jó állapotú
+437,gáz-cirkó,felújított
+438,egyéb,felújított
+439,házközponti,jó állapotú
+440,központi fűtés,jó állapotú
+441,távhő,jó állapotú
+442,távhő,jó állapotú
+443,házközponti,újszerű
+444,gáz konvektor,jó állapotú
+445,gáz konvektor,jó állapotú
+446,gáz konvektor,felújított
+447,gáz-cirkó,jó állapotú
+448,gáz konvektor,jó állapotú
+449,központi fűtés,újszerű
+450,gáz-cirkó,felújított
+451,elektromos,felújított
+452,gáz konvektor,felújított
+453,házközponti,jó állapotú
+454,házközponti,jó állapotú
+455,gáz konvektor,újszerű
+456,gáz-cirkó,jó állapotú
+457,egyedi mérős központifűtés,újszerű
+458,gáz konvektor,felújított
+459,elektromos,jó állapotú
+460,gáz-cirkó,felújított
+461,gáz konvektor,újszerű
+462,távhő,felújított
+463,gáz-cirkó,felújított
+464,gáz-cirkó,felújított
+465,gáz konvektor,felújított
+466,gáz-cirkó,felújított
+467,gáz konvektor,újszerű
+468,távhő,felújított
+469,egyedi mérős központifűtés,jó állapotú
+470,gáz konvektor,jó állapotú
+471,egyéb,jó állapotú
+472,házközponti,újszerű
+473,házközponti,jó állapotú
+474,távhő,felújított
+475,házközponti,új építésű
+476,gáz konvektor,felújított
+477,házközponti,új építésű
+478,egyedi mérős központifűtés,újszerű
+479,egyedi mérős központifűtés,új építésű
+480,gáz konvektor,jó állapotú
+481,egyedi mérős központifűtés,felújított
+482,gáz konvektor,jó állapotú
+483,egyedi mérős központifűtés,felújított
+484,házközponti,felújított
+485,gáz-cirkó,felújított
+486,egyedi mérős központifűtés,felújított
+487,elektromos,újszerű
+488,távhő,felújított
+489,egyedi mérős központifűtés,felújított
+490,távhő,felújított
+491,gáz konvektor,jó állapotú
+492,gáz-cirkó,felújított
+493,gáz konvektor,jó állapotú
+494,gáz konvektor,jó állapotú
+495,távhő,felújított
+496,gáz-cirkó,jó állapotú
+497,gáz-cirkó,jó állapotú
+498,gáz-cirkó,újszerű
+499,házközponti,felújított
+500,központi fűtés,jó állapotú
+501,gáz-cirkó,felújított
+502,gáz-cirkó,felújított
+503,gáz-cirkó,felújított
+504,házközponti,felújított
+505,gáz-cirkó,jó állapotú
+506,gáz-cirkó,felújított
+507,egyedi mérős központifűtés,felújított
+508,gáz konvektor,jó állapotú
+509,házközponti,felújított
+510,távhő,felújított
+511,gáz konvektor,jó állapotú
+512,gáz konvektor,felújított
+513,távhő,felújított
+514,gáz konvektor,jó állapotú
+515,elektromos,felújított
+516,távhő,felújított
+517,távhő,jó állapotú
+518,gáz-cirkó,jó állapotú
+519,gáz-cirkó,felújított
+520,gáz konvektor,jó állapotú
+521,központi fűtés,jó állapotú
+522,gáz-cirkó,felújított
+523,gáz-cirkó,újszerű
+524,gáz-cirkó,felújított
+525,házközponti,újszerű
+526,gáz-cirkó,újszerű
+527,gáz-cirkó,felújított
+528,gáz-cirkó,jó állapotú
+529,elektromos,újszerű
+530,elektromos,újszerű
+531,elektromos,újszerű
+532,gáz-cirkó,újszerű
+533,házközponti,jó állapotú
+534,gáz konvektor,felújított
+535,elektromos,felújított
+536,házközponti,jó állapotú
+537,gáz-cirkó,jó állapotú
+538,gáz-cirkó,felújított
+539,házközponti,felújított
+540,központi fűtés,újszerű
+541,gáz-cirkó,felújított
+542,gáz-cirkó,újszerű
+543,gáz-cirkó,felújított
+544,házközponti,újszerű
+545,gáz konvektor,jó állapotú
+546,gáz-cirkó,felújított
+547,távhő,jó állapotú
+548,gáz-cirkó,felújított
+549,gáz-cirkó,újszerű
+550,gáz-cirkó,felújított
+551,egyéb,felújított
+552,házközponti,új építésű
+553,gáz-cirkó,felújított
+554,házközponti,felújított
+555,egyéb,felújítandó
+556,gáz konvektor,jó állapotú
+557,gáz-cirkó,felújított
+558,gáz konvektor,jó állapotú
+559,központi fűtés,felújított
+560,távhő,jó állapotú
+561,távhő,jó állapotú
+562,távhő,jó állapotú
+563,gáz-cirkó,újszerű
+564,házközponti,felújított
+565,gáz konvektor,felújított
+566,gáz-cirkó,felújított
+567,gáz-cirkó,felújított
+568,házközponti,felújított
+569,távhő,felújított
+570,távhő,felújított
+571,gáz-cirkó,jó állapotú
+572,gáz-cirkó,jó állapotú
+573,gáz-cirkó,újszerű
+574,távhő,jó állapotú
+575,gáz konvektor,felújított
+576,gáz-cirkó,újszerű
+577,gáz-cirkó,felújított
+578,gáz konvektor,felújított
+579,gáz konvektor,felújított
+580,gáz-cirkó,felújított
+581,gáz-cirkó,felújított
+582,egyéb,felújított
+583,távhő,felújított
+584,távhő,felújított
+585,gáz-cirkó,felújított
+586,egyedi mérős központifűtés,felújított
+587,távhő,felújított
+588,egyedi mérős központifűtés,felújított
+589,gáz-cirkó,felújított
+590,gáz-cirkó,felújított
+591,gáz konvektor,felújított
+592,gáz-cirkó,felújított
+593,gáz-cirkó,felújított
+594,gáz-cirkó,felújított
+595,elektromos,felújított
+596,gáz-cirkó,felújított
+597,gáz konvektor,felújított
+598,távhő,felújított
+599,elektromos,felújított
+600,gáz-cirkó,felújított
+601,egyedi mérős központifűtés,felújított
+602,távhő,felújított
+603,távhő,felújított
+604,gáz konvektor,jó állapotú
+605,gáz-cirkó,felújított
+606,gáz konvektor,jó állapotú
+607,gáz-cirkó,felújított
+608,gáz konvektor,felújított
+609,egyedi mérős központifűtés,új építésű
+610,gáz konvektor,jó állapotú
+611,gáz-cirkó,felújított
+612,gáz-cirkó,felújított
+613,gáz-cirkó,felújított
+614,gáz-cirkó,felújított
+615,gáz konvektor,jó állapotú
+616,gáz konvektor,jó állapotú
+617,gáz-cirkó,felújított
+618,gáz konvektor,felújított
+619,távhő,felújított
+620,távhő,jó állapotú
+621,távhő,jó állapotú
+622,távhő,jó állapotú
+623,gáz-cirkó,felújított
+624,gáz-cirkó,újszerű
+625,gáz konvektor,jó állapotú
+626,gáz-cirkó,újszerű
+627,házközponti,újszerű
+628,gáz konvektor,jó állapotú
+629,gáz-cirkó,felújított
+630,egyéb,felújított
+631,gáz-cirkó,felújított
+632,gáz-cirkó,felújított
+633,gáz-cirkó,újszerű
+634,házközponti,felújított
+635,gáz konvektor,újszerű
+636,egyedi mérős központifűtés,felújított
+637,távhő,felújított
+638,gáz-cirkó,felújított
+639,gáz konvektor,jó állapotú
+640,házközponti,újszerű
+641,távhő,felújított
+642,gáz-cirkó,újszerű
+643,gáz-cirkó,felújított
+644,gáz konvektor,felújított
+645,gáz-cirkó,újszerű
+646,távhő,jó állapotú
+647,házközponti,új építésű
+648,központi fűtés,felújított
+649,házközponti,új építésű
+650,gáz konvektor,jó állapotú
+651,gáz konvektor,felújított
+652,gáz konvektor,jó állapotú
+653,gáz-cirkó,felújított
+654,távhő,jó állapotú
+655,távhő,jó állapotú
+656,távhő,jó állapotú
+657,gáz-cirkó,felújított
+658,házközponti,újszerű
+659,gáz-cirkó,felújított
+660,kandalló-cserépkályha,jó állapotú
+661,egyéb,felújított
+662,gáz konvektor,felújított
+663,gáz-cirkó,felújított
+664,gáz-cirkó,felújított
+665,gáz-cirkó,felújított
+666,gáz-cirkó,felújított
+667,gáz-cirkó,felújított
+668,gáz-cirkó,felújított
+669,gáz-cirkó,felújított
+670,gáz konvektor,jó állapotú
+671,elektromos,újszerű
+672,házközponti,újszerű
+673,házközponti,újszerű
+674,házközponti,újszerű
+675,gáz-cirkó,felújított
+676,gáz-cirkó,felújított
+677,gáz-cirkó,jó állapotú
+678,gáz-cirkó,jó állapotú
+679,gáz konvektor,felújított
+680,egyéb,felújított
+681,gáz-cirkó,felújított
+682,gáz konvektor,felújított
+683,gáz-cirkó,újszerű
+684,házközponti,felújított
+685,gáz-cirkó,felújított
+686,házközponti,újszerű
+687,egyedi mérős központifűtés,felújított
+688,gáz-cirkó,felújított
+689,egyedi mérős központifűtés,jó állapotú
+690,elektromos,felújított
+691,gáz-cirkó,felújított
+692,gáz konvektor,jó állapotú
+693,gáz-cirkó,felújított
+694,házközponti,felújított
+695,távhő,jó állapotú
+696,távhő,felújított
+697,gáz-cirkó,felújított
+698,gáz-cirkó,felújított
+699,gáz-cirkó,felújított
+700,gáz-cirkó,felújított
+701,gáz-cirkó,felújított
+702,gáz-cirkó,felújított
+703,gáz-cirkó,jó állapotú
+704,gáz-cirkó,újszerű
+705,gáz-cirkó,újszerű
+706,gáz konvektor,felújított
+707,házközponti,újszerű
+708,házközponti,felújított
+709,egyéb,új építésű
+710,távhő,jó állapotú
+711,gáz konvektor,felújított
+712,házközponti,felújított
+713,gáz konvektor,felújított
+714,házközponti,új építésű
+715,egyedi mérős központifűtés,felújított
+716,egyedi mérős központifűtés,felújított
+717,egyedi mérős központifűtés,jó állapotú
+718,gáz konvektor,felújított
+719,egyedi mérős központifűtés,újszerű
+720,távhő,felújított
+721,házközponti,jó állapotú
+722,távhő,jó állapotú
+723,központi fűtés,felújított
+724,egyedi mérős központifűtés,jó állapotú
+725,gáz konvektor,jó állapotú
+726,gáz-cirkó,felújított
+727,gáz konvektor,jó állapotú
+728,elektromos,jó állapotú
+729,gáz-cirkó,új építésű
+730,gáz-cirkó,újszerű
+731,házközponti,jó állapotú
+732,házközponti,újszerű
+733,gáz-cirkó,újszerű
+734,távhő,jó állapotú
+735,gáz konvektor,felújított
+736,gáz-cirkó,felújított
+737,gáz-cirkó,új építésű
+738,házközponti,jó állapotú
+739,gáz-cirkó,felújított
+740,gáz-cirkó,felújított
+741,gáz-cirkó,újszerű
+742,gáz-cirkó,felújított
+743,gáz-cirkó,újszerű
+744,elektromos,jó állapotú
+745,házközponti,felújított
+746,gáz konvektor,felújított
+747,gáz-cirkó,felújított
+748,házközponti,felújított
+749,házközponti,újszerű
+750,házközponti,újszerű
+751,házközponti,újszerű
+752,gáz-cirkó,újszerű
+753,gáz-cirkó,újszerű
+754,gáz-cirkó,jó állapotú
+755,gáz-cirkó,újszerű
+756,gáz-cirkó,jó állapotú
+757,gáz-cirkó,jó állapotú
+758,gáz-cirkó,jó állapotú
+759,gáz-cirkó,újszerű
+760,gáz-cirkó,újszerű
+761,gáz-cirkó,újszerű
+762,gáz-cirkó,újszerű
+763,gáz-cirkó,újszerű
+764,gáz konvektor,felújított
+765,házközponti,felújított
+766,házközponti,felújított
+767,gáz konvektor,felújított
+768,gáz-cirkó,felújított
+769,gáz konvektor,felújított
+770,házközponti,újszerű
+771,gáz-cirkó,jó állapotú
+772,gáz konvektor,jó állapotú
+773,házközponti,jó állapotú
+774,gáz-cirkó,felújított
+775,házközponti,újszerű
+776,gáz-cirkó,jó állapotú
+777,gáz-cirkó,jó állapotú
+778,gáz-cirkó,újszerű
+779,házközponti,jó állapotú
+780,távhő,felújított
+781,egyéb,új építésű
+782,házközponti,újszerű
+783,egyedi mérős központifűtés,új építésű
+784,gáz konvektor,jó állapotú
+785,házközponti,újszerű
+786,házközponti,felújított
+787,egyedi mérős központifűtés,új építésű
+788,gáz-cirkó,felújított
+789,gáz-cirkó,jó állapotú
+790,gáz-cirkó,felújított
+791,távhő,jó állapotú
+792,gáz-cirkó,felújított
+793,egyéb,új építésű
+794,gáz-cirkó,felújított
+795,gáz-cirkó,felújított
+796,gáz-cirkó,felújított
+797,gáz konvektor,felújított
+798,gáz-cirkó,új építésű
+799,gáz konvektor,jó állapotú
+800,gáz konvektor,jó állapotú
+801,gáz-cirkó,jó állapotú
+802,gáz-cirkó,jó állapotú
+803,egyedi mérős központifűtés,új építésű
+804,gáz konvektor,felújított
+805,gáz konvektor,jó állapotú
+806,gáz konvektor,jó állapotú
+807,gáz-cirkó,felújított
+808,gáz-cirkó,felújított
+809,gáz-cirkó,felújított
+810,egyéb,újszerű
+811,egyéb,újszerű
+812,gáz-cirkó,újszerű
+813,kandalló-cserépkályha,jó állapotú
+814,gáz-cirkó,jó állapotú
+815,gáz-cirkó,jó állapotú
+816,gáz-cirkó,jó állapotú
+817,gáz konvektor,újszerű
+818,gáz-cirkó,jó állapotú
+819,házközponti,jó állapotú
+820,elektromos,felújított
+821,gáz konvektor,felújított
+822,gáz-cirkó,újszerű
+823,gáz-cirkó,felújított
+824,gáz-cirkó,újszerű
+825,gáz-cirkó,felújított
+826,gáz-cirkó,felújított
+827,gáz-cirkó,újszerű
+828,egyedi mérős központifűtés,felújított
+829,gáz konvektor,felújított
+830,egyedi mérős központifűtés,újszerű
+831,elektromos,felújított
+832,gáz konvektor,felújított
+833,távhő,felújított
+834,egyedi mérős központifűtés,újszerű
+835,távhő,felújított
+836,gáz-cirkó,felújított
+837,elektromos,felújított
+838,gáz konvektor,felújított
+839,gáz konvektor,jó állapotú
+840,házközponti,jó állapotú
+841,gáz-cirkó,jó állapotú
+842,gáz-cirkó,újszerű
+843,gáz konvektor,jó állapotú
+844,házközponti,jó állapotú
+845,gáz-cirkó,jó állapotú
+846,gáz-cirkó,jó állapotú
+847,gáz-cirkó,újszerű
+848,gáz-cirkó,felújított
+849,gáz konvektor,felújított
+850,gáz konvektor,felújított
+851,gáz konvektor,felújított
+852,távhő,felújított
+853,gáz-cirkó,felújított
+854,gáz-cirkó,jó állapotú
+855,gáz-cirkó,jó állapotú
+856,gáz-cirkó,jó állapotú
+857,gáz-cirkó,jó állapotú
+858,gáz-cirkó,felújított
+859,gáz konvektor,jó állapotú
+860,távhő,felújított
+861,egyedi mérős központifűtés,felújított
+862,házközponti,jó állapotú
+863,gáz konvektor,jó állapotú
+864,gáz-cirkó,felújított
+865,gáz konvektor,felújított
+866,gáz-cirkó,újszerű
+867,gáz-cirkó,felújított
+868,gáz-cirkó,jó állapotú
+869,gáz-cirkó,újszerű
+870,gáz-cirkó,felújított
+871,gáz-cirkó,felújított
+872,gáz-cirkó,újszerű
+873,gáz konvektor,újszerű
+874,kandalló-cserépkályha,jó állapotú
+875,kandalló-cserépkályha,jó állapotú
+876,gáz-cirkó,felújított
+877,gáz konvektor,felújított
+878,házközponti,jó állapotú
+879,házközponti,felújított
+880,házközponti,felújított
+881,gáz-cirkó,felújított
+882,gáz konvektor,jó állapotú
+883,házközponti,felújítandó
+884,távhő,jó állapotú
+885,távhő,felújított
+886,gáz-cirkó,felújított
+887,egyéb,új építésű
+888,gáz-cirkó,újszerű
+889,gáz-cirkó,új építésű
+890,egyéb,felújított
+891,távhő,jó állapotú
+892,gáz-cirkó,újszerű
+893,gáz-cirkó,felújított
+894,távhő,felújított
+895,házközponti,jó állapotú
+896,házközponti,jó állapotú
+897,gáz konvektor,jó állapotú
+898,gáz konvektor,felújított
+899,központi fűtés,jó állapotú
+900,gáz-cirkó,jó állapotú
+901,elektromos,jó állapotú
+902,egyedi mérős központifűtés,újszerű
+903,gáz-cirkó,felújított
+904,gáz konvektor,felújított
+905,gáz-cirkó,újszerű
+906,gáz-cirkó,felújított
+907,gáz-cirkó,jó állapotú
+908,gáz-cirkó,újszerű
+909,gáz konvektor,újszerű
+910,gáz konvektor,jó állapotú
+911,gáz konvektor,felújított
+912,házközponti,felújított
+913,házközponti,felújított
+914,házközponti,felújított
+915,házközponti,felújított
+916,gáz konvektor,jó állapotú
+917,gáz konvektor,jó állapotú
+918,gáz konvektor,felújított
+919,gáz-cirkó,felújított
+920,gáz-cirkó,felújított
+921,gáz-cirkó,felújított
+922,házközponti,felújított
+923,gáz konvektor,felújított
+924,házközponti,új építésű
+925,központi fűtés,új építésű
+926,gáz-cirkó,jó állapotú
+927,gáz konvektor,felújított
+928,gáz konvektor,felújított
+929,egyedi mérős központifűtés,jó állapotú
+930,gáz-cirkó,felújított
+931,egyedi mérős központifűtés,jó állapotú
+932,egyedi mérős központifűtés,jó állapotú
+933,gáz-cirkó,jó állapotú
+934,házközponti,újszerű
+935,gáz konvektor,felújított
+936,házközponti,újszerű
+937,gáz-cirkó,újszerű
+938,gáz-cirkó,jó állapotú
+939,házközponti,felújított
+940,gáz konvektor,felújított
+941,gáz-cirkó,jó állapotú
+942,gáz-cirkó,új építésű
+943,gáz konvektor,felújított
+944,egyedi mérős központifűtés,felújított
+945,házközponti,újszerű
+946,gáz konvektor,felújított
+947,távhő,jó állapotú
+948,egyedi mérős központifűtés,felújított
+949,távhő,felújított
+950,házközponti,jó állapotú
+951,gáz konvektor,jó állapotú
+952,gáz konvektor,jó állapotú
+953,házközponti,felújított
+954,gáz-cirkó,jó állapotú
+955,házközponti,felújított
+956,központi fűtés,újszerű
+957,távhő,felújított
+958,házközponti,újszerű
+959,távhő,jó állapotú
+960,egyedi mérős központifűtés,újszerű
+961,központi fűtés,felújított
+962,gáz-cirkó,felújított
+963,távhő,felújított
+964,gáz-cirkó,felújított
+965,távhő,jó állapotú
+966,távhő,jó állapotú
+967,gáz-cirkó,felújított
+968,házközponti,felújított
+969,gáz konvektor,felújított
+970,gáz konvektor,felújított
+971,gáz-cirkó,felújított
+972,gáz-cirkó,jó állapotú
+973,gáz-cirkó,felújított
+974,gáz konvektor,jó állapotú
+975,egyedi mérős központifűtés,felújított
+976,gáz konvektor,jó állapotú
+977,házközponti,új építésű
+978,egyedi mérős központifűtés,jó állapotú
+979,egyedi mérős központifűtés,felújított
+980,gáz-cirkó,felújított
+981,egyedi mérős központifűtés,jó állapotú
+982,gáz-cirkó,újszerű
+983,gáz-cirkó,új építésű
+984,házközponti,felújított
+985,távhő,jó állapotú
+986,központi fűtés,újszerű
+987,gáz konvektor,felújított
+988,gáz konvektor,felújított
+989,egyedi mérős központifűtés,újszerű
+990,távhő,jó állapotú
+991,gáz konvektor,jó állapotú
+992,házközponti,felújított
+993,gáz-cirkó,felújított
+994,távhő,újszerű
+995,gáz-cirkó,felújított
+996,gáz-cirkó,felújított
+997,távhő,felújított
+998,gáz konvektor,felújított
+999,elektromos,újszerű
+1000,gáz-cirkó,újszerű
+1001,gáz-cirkó,felújított
+1002,távhő,felújított
+1003,házközponti,jó állapotú
+1004,központi fűtés,jó állapotú
+1005,egyedi mérős központifűtés,felújított
+1006,gáz-cirkó,felújított
+1007,gáz-cirkó,újszerű
+1008,házközponti,jó állapotú
+1009,központi fűtés,jó állapotú
+1010,egyedi mérős központifűtés,jó állapotú
+1011,gáz konvektor,újszerű
+1012,gáz-cirkó,újszerű
+1013,gáz-cirkó,újszerű
+1014,gáz-cirkó,jó állapotú
+1015,gáz-cirkó,jó állapotú
+1016,egyedi mérős központifűtés,újszerű
+1017,távhő,újszerű
+1018,elektromos,újszerű
+1019,központi fűtés,jó állapotú
+1020,egyéb,újszerű
+1021,gáz-cirkó,felújított
+1022,gáz-cirkó,jó állapotú
+1023,gáz-cirkó,újszerű
+1024,gáz-cirkó,felújított
+1025,gáz-cirkó,jó állapotú
+1026,gáz konvektor,felújított
+1027,gáz-cirkó,felújított
+1028,házközponti,felújított
+1029,gáz-cirkó,felújított
+1030,gáz konvektor,jó állapotú
+1031,házközponti,jó állapotú
+1032,házközponti,felújított
+1033,gáz-cirkó,felújított
+1034,gáz-cirkó,új építésű
+1035,gáz-cirkó,felújított
+1036,távhő,felújított
+1037,gáz-cirkó,újszerű
+1038,távhő,jó állapotú
+1039,gáz-cirkó,felújított
+1040,egyedi mérős központifűtés,felújított
+1041,gáz-cirkó,jó állapotú
+1042,központi fűtés,új építésű
+1043,gáz-cirkó,felújított
+1044,egyedi mérős központifűtés,felújított
+1045,gáz-cirkó,felújított
+1046,gáz-cirkó,újszerű
+1047,gáz-cirkó,jó állapotú
+1048,egyedi mérős központifűtés,jó állapotú
+1049,gáz-cirkó,felújított
+1050,központi fűtés,felújított
+1051,egyedi mérős központifűtés,új építésű
+1052,egyedi mérős központifűtés,újszerű
+1053,egyedi mérős központifűtés,új építésű
+1054,távhő,jó állapotú
+1055,egyedi mérős központifűtés,újszerű
+1056,gáz-cirkó,jó állapotú
+1057,gáz-cirkó,újszerű
+1058,gáz-cirkó,újszerű
+1059,központi fűtés,újszerű
+1060,központi fűtés,újszerű
+1061,központi fűtés,újszerű
+1062,központi fűtés,újszerű
+1063,központi fűtés,újszerű
+1064,központi fűtés,újszerű
+1065,gáz-cirkó,újszerű
+1066,kandalló-cserépkályha,újszerű
+1067,központi fűtés,újszerű
+1068,központi fűtés,jó állapotú
+1069,központi fűtés,újszerű
+1070,központi fűtés,újszerű
+1071,központi fűtés,újszerű
+1072,központi fűtés,újszerű
+1073,elektromos,újszerű
+1074,elektromos,újszerű
+1075,elektromos,újszerű
+1076,elektromos,újszerű
+1077,távhő,jó állapotú
+1078,gáz-cirkó,újszerű
+1079,elektromos,újszerű
+1080,központi fűtés,jó állapotú
+1081,elektromos,újszerű
+1082,gáz-cirkó,jó állapotú
+1083,gáz-cirkó,újszerű
+1084,gáz-cirkó,újszerű
+1085,gáz-cirkó,újszerű
+1086,gáz-cirkó,újszerű
+1087,gáz-cirkó,újszerű
+1088,házközponti,felújított
+1089,gáz-cirkó,felújított
+1090,távhő,felújított
+1091,gáz-cirkó,felújított
+1092,gáz-cirkó,újszerű
+1093,központi fűtés,újszerű
+1094,központi fűtés,újszerű
+1095,gáz-cirkó,újszerű
+1096,elektromos,újszerű
+1097,gáz-cirkó,felújított
+1098,gáz-cirkó,felújított
+1099,elektromos,felújított
+1100,gáz-cirkó,újszerű
+1101,gáz-cirkó,felújított
+1102,gáz-cirkó,felújított
+1103,központi fűtés,újszerű
+1104,központi fűtés,jó állapotú
+1105,központi fűtés,jó állapotú
+1106,gáz-cirkó,jó állapotú
+1107,házközponti,újszerű
+1108,gáz-cirkó,jó állapotú
+1109,központi fűtés,felújított
+1110,távhő,felújított
+1111,gáz-cirkó,újszerű
+1112,házközponti,új építésű
+1113,gáz-cirkó,új építésű
+1114,gáz-cirkó,felújított
+1115,házközponti,új építésű
+1116,gáz-cirkó,új építésű
+1117,házközponti,új építésű
+1118,gáz konvektor,felújított
+1119,házközponti,jó állapotú
+1120,házközponti,jó állapotú
+1121,házközponti,felújított
+1122,gáz-cirkó,felújított
+1123,gáz-cirkó,felújított
+1124,házközponti,felújított
+1125,házközponti,felújított
+1126,gáz-cirkó,felújított
+1127,gáz-cirkó,felújított
+1128,gáz-cirkó,felújított
+1129,egyéb,jó állapotú
+1130,gáz-cirkó,felújított
+1131,gáz-cirkó,új építésű
+1132,gáz-cirkó,új építésű
+1133,gáz-cirkó,újszerű
+1134,házközponti,új építésű
+1135,egyéb,újszerű
+1136,egyéb,újszerű
+1137,egyéb,jó állapotú
+1138,távhő,jó állapotú
+1139,gáz konvektor,jó állapotú
+1140,házközponti,új építésű
+1141,házközponti,új építésű
+1142,gáz-cirkó,felújított
+1143,egyéb,felújított
+1144,egyéb,felújított
+1145,gáz-cirkó,felújított
+1146,gáz-cirkó,felújított
+1147,gáz-cirkó,felújított
+1148,egyéb,felújított
+1149,egyéb,jó állapotú
+1150,házközponti,jó állapotú
+1151,gáz-cirkó,felújított
+1152,gáz-cirkó,felújított
+1153,gáz-cirkó,jó állapotú
+1154,gáz-cirkó,felújított
+1155,egyéb,új építésű
+1156,gáz-cirkó,jó állapotú
+1157,gáz konvektor,felújított
+1158,házközponti,újszerű
+1159,egyéb,felújított
+1160,gáz-cirkó,felújított
+1161,gáz-cirkó,felújított
+1162,gáz-cirkó,felújított
+1163,házközponti,felújított
+1164,gáz konvektor,jó állapotú
+1165,gáz-cirkó,felújított
+1166,gáz-cirkó,felújított
+1167,gáz konvektor,felújított
+1168,gáz-cirkó,felújított
+1169,gáz-cirkó,felújított
+1170,gáz konvektor,felújított
+1171,gáz konvektor,felújított
+1172,házközponti,felújított
+1173,házközponti,jó állapotú
+1174,gáz konvektor,felújított
+1175,gáz konvektor,felújított
+1176,gáz-cirkó,felújított
+1177,gáz-cirkó,felújított
+1178,gáz-cirkó,felújított
+1179,elektromos,felújított
+1180,gáz konvektor,felújított
+1181,távhő,jó állapotú
+1182,gáz-cirkó,felújított
+1183,gáz-cirkó,felújított
+1184,gáz-cirkó,újszerű
+1185,gáz-cirkó,felújított
+1186,házközponti,új építésű
+1187,házközponti,jó állapotú
+1188,gáz-cirkó,újszerű
+1189,elektromos,felújított
+1190,gáz-cirkó,felújított
+1191,egyéb,új építésű
+1192,gáz-cirkó,felújított
+1193,gáz-cirkó,felújított
+1194,gáz-cirkó,felújított
+1195,gáz-cirkó,új építésű
+1196,házközponti,felújított
+1197,házközponti,jó állapotú
+1198,gáz-cirkó,felújított
+1199,házközponti,újszerű
+1200,egyéb,felújított
+1201,gáz-cirkó,felújított
+1202,házközponti,felújított
+1203,gáz-cirkó,újszerű
+1204,házközponti,felújított
+1205,gáz-cirkó,felújított
+1206,házközponti,felújított
+1207,gáz-cirkó,felújított
+1208,házközponti,jó állapotú
+1209,házközponti,felújított
+1210,gáz konvektor,felújított
+1211,gáz-cirkó,felújított
+1212,házközponti,felújított
+1213,gáz-cirkó,újszerű
+1214,házközponti,felújított
+1215,gáz-cirkó,felújított
+1216,elektromos,felújított
+1217,gáz konvektor,jó állapotú
+1218,gáz-cirkó,újszerű
+1219,gáz-cirkó,jó állapotú
+1220,egyéb,jó állapotú
+1221,gáz-cirkó,jó állapotú
+1222,gáz-cirkó,felújított
+1223,gáz-cirkó,felújított
+1224,gáz-cirkó,felújított
+1225,gáz-cirkó,felújított
+1226,házközponti,felújított
+1227,házközponti,felújított
+1228,gáz-cirkó,felújított
+1229,egyéb,felújított
+1230,gáz-cirkó,újszerű
+1231,gáz-cirkó,felújított
+1232,központi fűtés,felújított
+1233,gáz-cirkó,felújított
+1234,egyéb,újszerű
+1235,gáz-cirkó,felújított
+1236,házközponti,újszerű
+1237,gáz-cirkó,felújított
+1238,egyéb,felújított
+1239,gáz-cirkó,felújított
+1240,gáz-cirkó,jó állapotú
+1241,házközponti,felújított
+1242,gáz konvektor,felújított
+1243,gáz-cirkó,új építésű
+1244,gáz-cirkó,jó állapotú
+1245,távhő,jó állapotú
+1246,házközponti,új építésű
+1247,házközponti,új építésű
+1248,gáz konvektor,felújított
+1249,házközponti,újszerű
+1250,házközponti,felújított
+1251,gáz-cirkó,felújított
+1252,házközponti,új építésű
+1253,gáz-cirkó,új építésű
+1254,egyedi mérős központifűtés,újszerű
+1255,egyéb,felújított
+1256,egyéb,felújított
+1257,gáz-cirkó,újszerű
+1258,gáz-cirkó,felújított
+1259,gáz konvektor,felújított
+1260,gáz-cirkó,újszerű
+1261,gáz-cirkó,felújított
+1262,gáz-cirkó,felújított
+1263,gáz-cirkó,felújított
+1264,egyéb,új építésű
+1265,gáz-cirkó,új építésű
+1266,gáz-cirkó,jó állapotú
+1267,gáz-cirkó,felújított
+1268,házközponti,új építésű
+1269,gáz konvektor,jó állapotú
+1270,távhő,felújított
+1271,gáz-cirkó,új építésű
+1272,gáz-cirkó,felújított
+1273,házközponti,új építésű
+1274,házközponti,jó állapotú
+1275,egyéb,újszerű
+1276,házközponti,jó állapotú
+1277,gáz konvektor,felújított
+1278,távhő,felújított
+1279,egyedi mérős központifűtés,jó állapotú
+1280,gáz konvektor,felújított
+1281,gáz-cirkó,felújított
+1282,központi fűtés,felújított
+1283,házközponti,újszerű
+1284,gáz-cirkó,felújított
+1285,gáz-cirkó,jó állapotú
+1286,házközponti,felújított
+1287,házközponti,újszerű
+1288,egyéb,felújított
+1289,egyedi mérős központifűtés,felújított
+1290,házközponti,újszerű
+1291,házközponti,jó állapotú
+1292,egyedi mérős központifűtés,új építésű
+1293,egyedi mérős központifűtés,jó állapotú
+1294,gáz-cirkó,felújított
+1295,gáz-cirkó,felújított
+1296,gáz-cirkó,új építésű
+1297,gáz-cirkó,felújított
+1298,egyedi mérős központifűtés,jó állapotú
+1299,gáz konvektor,jó állapotú
+1300,távhő,felújított
+1301,egyedi mérős központifűtés,új építésű
+1302,gáz konvektor,felújított
+1303,egyedi mérős központifűtés,jó állapotú
+1304,házközponti,új építésű
+1305,házközponti,jó állapotú
+1306,központi fűtés,jó állapotú
+1307,távhő,jó állapotú
+1308,távhő,jó állapotú
+1309,elektromos,felújított
+1310,házközponti,jó állapotú
+1311,házközponti,felújított
+1312,gáz-cirkó,felújított
+1313,egyedi mérős központifűtés,jó állapotú
+1314,egyedi mérős központifűtés,felújított
+1315,egyedi mérős központifűtés,felújított
+1316,gáz konvektor,felújított
+1317,elektromos,felújított
+1318,gáz-cirkó,újszerű
+1319,házközponti,újszerű
+1320,házközponti,felújított
+1321,egyéb,jó állapotú
+1322,egyedi mérős központifűtés,új építésű
+1323,egyedi mérős központifűtés,újszerű
+1324,távhő,felújított
+1325,házközponti,újszerű
+1326,házközponti,jó állapotú
+1327,házközponti,felújított
+1328,házközponti,új építésű
+1329,házközponti,újszerű
+1330,házközponti,felújított
+1331,gáz konvektor,felújított
+1332,gáz konvektor,felújított
+1333,távhő,felújított
+1334,távhő,jó állapotú
+1335,gáz konvektor,felújított
+1336,gáz-cirkó,felújított
+1337,egyéb,felújított
+1338,gáz konvektor,felújított
+1339,gáz-cirkó,felújított
+1340,gáz konvektor,felújított
+1341,gáz-cirkó,felújított
+1342,gáz-cirkó,jó állapotú
+1343,gáz-cirkó,felújított
+1344,házközponti,újszerű
+1345,gáz-cirkó,jó állapotú
+1346,házközponti,új építésű
+1347,házközponti,jó állapotú
+1348,házközponti,jó állapotú
+1349,házközponti,felújított
+1350,házközponti,felújított
+1351,házközponti,felújított
+1352,házközponti,új építésű
+1353,gáz konvektor,felújított
+1354,gáz konvektor,felújított
+1355,házközponti,jó állapotú
+1356,távhő,jó állapotú
+1357,elektromos,felújított
+1358,gáz konvektor,jó állapotú
+1359,egyedi mérős központifűtés,új építésű
+1360,központi fűtés,felújított
+1361,házközponti,felújított
+1362,házközponti,felújított
+1363,házközponti,felújított
+1364,gáz-cirkó,felújított
+1365,távhő,jó állapotú
+1366,gáz-cirkó,jó állapotú
+1367,gáz konvektor,jó állapotú
+1368,gáz konvektor,felújított
+1369,gáz-cirkó,felújított
+1370,gáz-cirkó,felújított
+1371,gáz-cirkó,felújított
+1372,gáz-cirkó,jó állapotú
+1373,gáz-cirkó,jó állapotú
+1374,gáz-cirkó,felújított
+1375,gáz-cirkó,felújított
+1376,gáz konvektor,jó állapotú
+1377,gáz-cirkó,felújított
+1378,gáz-cirkó,felújított
+1379,gáz-cirkó,felújított
+1380,gáz-cirkó,felújított
+1381,gáz-cirkó,felújított
+1382,gáz-cirkó,felújított
+1383,gáz-cirkó,újszerű
+1384,gáz-cirkó,újszerű
+1385,elektromos,jó állapotú
+1386,gáz konvektor,felújított
+1387,egyedi mérős központifűtés,jó állapotú
+1388,távhő,jó állapotú
+1389,gáz konvektor,felújított
+1390,egyéb,jó állapotú
+1391,központi fűtés,felújított
+1392,gáz-cirkó,újszerű
+1393,házközponti,jó állapotú
+1394,központi fűtés,jó állapotú
+1395,gáz-cirkó,felújított
+1396,gáz-cirkó,felújított
+1397,gáz konvektor,felújított
+1398,gáz-cirkó,jó állapotú
+1399,egyedi mérős központifűtés,jó állapotú
+1400,gáz-cirkó,újszerű
+1401,gáz-cirkó,felújított
+1402,egyéb,felújított
+1403,gáz-cirkó,újszerű
+1404,gáz-cirkó,jó állapotú
+1405,elektromos,jó állapotú
+1406,elektromos,jó állapotú
+1407,elektromos,felújított
+1408,házközponti,újszerű
+1409,gáz-cirkó,jó állapotú
+1410,gáz-cirkó,új építésű
+1411,gáz konvektor,jó állapotú
+1412,gáz konvektor,jó állapotú
+1413,egyéb,újszerű
+1414,gáz konvektor,felújított
+1415,gáz konvektor,felújított
+1416,gáz-cirkó,felújított
+1417,gáz konvektor,felújított
+1418,gáz konvektor,felújított
+1419,gáz konvektor,felújított
+1420,elektromos,felújított
+1421,gáz-cirkó,jó állapotú
+1422,egyedi mérős központifűtés,újszerű
+1423,házközponti,újszerű
+1424,gáz konvektor,újszerű
+1425,gáz konvektor,újszerű
+1426,gáz konvektor,felújított
+1427,házközponti,jó állapotú
+1428,gáz konvektor,jó állapotú
+1429,távhő,jó állapotú
+1430,házközponti,jó állapotú
+1431,gáz konvektor,felújított
+1432,gáz konvektor,jó állapotú
+1433,elektromos,jó állapotú
+1434,gáz konvektor,jó állapotú
+1435,gáz konvektor,felújított
+1436,házközponti,új építésű
+1437,gáz konvektor,jó állapotú
+1438,gáz konvektor,újszerű
+1439,központi fűtés,jó állapotú
+1440,gáz-cirkó,jó állapotú
+1441,távhő,jó állapotú
+1442,központi fűtés,felújított
+1443,központi fűtés,új építésű
+1444,egyéb,felújított
+1445,központi fűtés,felújított
+1446,egyedi mérős központifűtés,jó állapotú
+1447,házközponti,felújított
+1448,gáz-cirkó,felújított
+1449,egyedi mérős központifűtés,újszerű
+1450,gáz konvektor,jó állapotú
+1451,gáz konvektor,felújított
+1452,gáz-cirkó,jó állapotú
+1453,elektromos,felújított
+1454,gáz-cirkó,újszerű
+1455,távhő,felújított
+1456,gáz konvektor,jó állapotú
+1457,gáz konvektor,jó állapotú
+1458,elektromos,felújított
+1459,gáz-cirkó,felújított
+1460,távhő,felújított
+1461,gáz-cirkó,jó állapotú
+1462,gáz konvektor,felújított
+1463,házközponti,felújított
+1464,gáz konvektor,felújított
+1465,távhő,jó állapotú
+1466,gáz konvektor,jó állapotú
+1467,gáz-cirkó,felújított
+1468,gáz-cirkó,jó állapotú
+1469,távhő,jó állapotú
+1470,távhő,jó állapotú
+1471,gáz konvektor,újszerű
+1472,gáz-cirkó,felújított
+1473,gáz-cirkó,felújított
+1474,távhő,jó állapotú
+1475,gáz-cirkó,felújított
+1476,gáz konvektor,jó állapotú
+1477,gáz-cirkó,felújított
+1478,gáz-cirkó,felújított
+1479,gáz-cirkó,felújított
+1480,házközponti,újszerű
+1481,egyedi mérős központifűtés,felújított
+1482,gáz konvektor,jó állapotú
+1483,gáz konvektor,felújított
+1484,gáz konvektor,felújított
+1485,gáz-cirkó,újszerű
+1486,gáz konvektor,felújítandó
+1487,gáz konvektor,jó állapotú
+1488,távhő,jó állapotú
+1489,gáz-cirkó,jó állapotú
+1490,távhő,jó állapotú
+1491,elektromos,jó állapotú
+1492,egyéb,újszerű
+1493,gáz-cirkó,jó állapotú
+1494,távhő,jó állapotú
+1495,gáz-cirkó,jó állapotú
+1496,elektromos,újszerű
+1497,gáz-cirkó,újszerű
+1498,központi fűtés,újszerű
+1499,egyéb,újszerű
+1500,egyedi mérős központifűtés,jó állapotú
+1501,távhő,jó állapotú
+1502,gáz konvektor,jó állapotú
+1503,gáz konvektor,jó állapotú
+1504,gáz-cirkó,újszerű
+1505,egyedi mérős központifűtés,újszerű
+1506,elektromos,felújított
+1507,egyedi mérős központifűtés,új építésű
+1508,házközponti,felújított
+1509,távhő,felújított
+1510,távhő,felújított
+1511,egyedi mérős központifűtés,felújított
+1512,távhő,felújított
+1513,házközponti,felújított
+1514,házközponti,jó állapotú
+1515,házközponti,újszerű
+1516,távhő,felújított
+1517,gáz-cirkó,jó állapotú
+1518,gáz konvektor,felújított
+1519,gáz-cirkó,jó állapotú
+1520,gáz konvektor,jó állapotú
+1521,gáz-cirkó,felújított
+1522,gáz-cirkó,jó állapotú
+1523,egyedi mérős központifűtés,felújított
+1524,gáz konvektor,jó állapotú
+1525,gáz konvektor,jó állapotú
+1526,központi fűtés,felújítandó
+1527,házközponti,új építésű
+1528,gáz konvektor,jó állapotú
+1529,távhő,jó állapotú
+1530,házközponti,felújított
+1531,egyedi mérős központifűtés,újszerű
+1532,egyedi mérős központifűtés,új építésű
+1533,gáz konvektor,jó állapotú
+1534,gáz konvektor,felújított
+1535,gáz-cirkó,jó állapotú
+1536,távhő,jó állapotú
+1537,elektromos,újszerű
+1538,távhő,jó állapotú
+1539,központi fűtés,jó állapotú
+1540,gáz konvektor,felújított
+1541,gáz konvektor,jó állapotú
+1542,házközponti,felújított
+1543,gáz konvektor,jó állapotú
+1544,gáz-cirkó,jó állapotú
+1545,távhő,felújított
+1546,gáz-cirkó,felújított
+1547,házközponti,újszerű
+1548,elektromos,jó állapotú
+1549,egyedi mérős központifűtés,felújított
+1550,házközponti,újszerű
+1551,gáz konvektor,jó állapotú
+1552,házközponti,felújított
+1553,házközponti,jó állapotú
+1554,távhő,felújított
+1555,távhő,felújított
+1556,távhő,jó állapotú
+1557,távhő,felújított
+1558,egyedi mérős központifűtés,új építésű
+1559,egyéb,felújított
+1560,gáz-cirkó,újszerű
+1561,gáz-cirkó,jó állapotú
+1562,gáz-cirkó,felújított
+1563,egyedi mérős központifűtés,új építésű
+1564,gáz konvektor,jó állapotú
+1565,házközponti,új építésű
+1566,gáz-cirkó,felújított
+1567,egyedi mérős központifűtés,új építésű
+1568,kandalló-cserépkályha,felújított
+1569,gáz konvektor,felújított
+1570,házközponti,jó állapotú
+1571,gáz konvektor,felújított
+1572,központi fűtés,újszerű
+1573,központi fűtés,felújított
+1574,gáz-cirkó,felújított
+1575,házközponti,új építésű
+1576,egyéb,jó állapotú
+1577,gáz-cirkó,jó állapotú
+1578,gáz konvektor,jó állapotú
+1579,gáz konvektor,jó állapotú
+1580,gáz-cirkó,jó állapotú
+1581,gáz konvektor,felújított
+1582,egyedi mérős központifűtés,felújított
+1583,gáz-cirkó,újszerű
+1584,gáz konvektor,jó állapotú
+1585,gáz-cirkó,újszerű
+1586,gáz konvektor,jó állapotú
+1587,távhő,felújított
+1588,gáz-cirkó,újszerű
+1589,gáz-cirkó,újszerű
+1590,gáz-cirkó,jó állapotú
+1591,gáz-cirkó,felújított
+1592,gáz-cirkó,újszerű
+1593,gáz-cirkó,jó állapotú
+1594,gáz-cirkó,újszerű
+1595,gáz-cirkó,felújított
+1596,gáz-cirkó,jó állapotú
+1597,gáz-cirkó,újszerű
+1598,gáz-cirkó,felújított
+1599,gáz-cirkó,felújított
+1600,gáz-cirkó,jó állapotú
+1601,gáz-cirkó,jó állapotú
+1602,gáz-cirkó,felújított
+1603,gáz-cirkó,jó állapotú
+1604,házközponti,újszerű
+1605,gáz-cirkó,felújított
+1606,gáz konvektor,jó állapotú
+1607,gáz-cirkó,újszerű
+1608,elektromos,felújított
+1609,gáz-cirkó,felújított
+1610,gáz-cirkó,felújított
+1611,gáz-cirkó,jó állapotú
+1612,házközponti,felújított
+1613,gáz-cirkó,felújított
+1614,házközponti,felújított
+1615,elektromos,jó állapotú
+1616,házközponti,felújított
+1617,házközponti,felújított
+1618,gáz-cirkó,felújított
+1619,gáz-cirkó,felújított
+1620,gáz-cirkó,felújított
+1621,házközponti,felújított
+1622,gáz-cirkó,felújított
+1623,gáz-cirkó,felújított
+1624,házközponti,újszerű
+1625,gáz-cirkó,jó állapotú
+1626,gáz-cirkó,felújított
+1627,gáz-cirkó,felújított
+1628,gáz-cirkó,felújított
+1629,gáz-cirkó,jó állapotú
+1630,házközponti,újszerű
+1631,gáz-cirkó,jó állapotú
+1632,gáz konvektor,jó állapotú
+1633,gáz-cirkó,jó állapotú
+1634,egyedi mérős központifűtés,újszerű
+1635,gáz-cirkó,jó állapotú
+1636,gáz-cirkó,jó állapotú
+1637,egyedi mérős központifűtés,felújított
+1638,gáz-cirkó,újszerű
+1639,távhő,jó állapotú
+1640,gáz-cirkó,jó állapotú
+1641,gáz-cirkó,jó állapotú
+1642,gáz-cirkó,jó állapotú
+1643,gáz-cirkó,jó állapotú
+1644,központi fűtés,jó állapotú
+1645,egyedi mérős központifűtés,újszerű
+1646,gáz-cirkó,jó állapotú
+1647,gáz-cirkó,jó állapotú
+1648,gáz-cirkó,jó állapotú
+1649,gáz-cirkó,jó állapotú
+1650,gáz-cirkó,jó állapotú
+1651,egyedi mérős központifűtés,jó állapotú
+1652,gáz-cirkó,jó állapotú
+1653,gáz-cirkó,felújított
+1654,egyedi mérős központifűtés,újszerű
+1655,távhő,felújított
+1656,egyéb,jó állapotú
+1657,gáz konvektor,jó állapotú
+1658,központi fűtés,felújított
+1659,gáz-cirkó,felújított
+1660,gáz konvektor,felújított
+1661,gáz-cirkó,jó állapotú
+1662,gáz konvektor,felújított
+1663,gáz-cirkó,jó állapotú
+1664,gáz-cirkó,jó állapotú
+1665,központi fűtés,felújított
+1666,egyedi mérős központifűtés,jó állapotú
+1667,központi fűtés,jó állapotú
+1668,gáz-cirkó,jó állapotú
+1669,gáz-cirkó,jó állapotú
+1670,távhő,felújított
+1671,gáz-cirkó,jó állapotú
+1672,gáz-cirkó,jó állapotú
+1673,gáz-cirkó,jó állapotú
+1674,gáz-cirkó,felújított
+1675,gáz-cirkó,újszerű
+1676,központi fűtés,felújított
+1677,gáz-cirkó,jó állapotú
+1678,távhő,felújított
+1679,központi fűtés,jó állapotú
+1680,központi fűtés,jó állapotú
+1681,gáz-cirkó,jó állapotú
+1682,központi fűtés,jó állapotú
+1683,gáz-cirkó,jó állapotú
+1684,gáz-cirkó,jó állapotú
+1685,gáz-cirkó,jó állapotú
+1686,gáz-cirkó,felújított
+1687,gáz-cirkó,jó állapotú
+1688,egyedi mérős központifűtés,jó állapotú
+1689,egyedi mérős központifűtés,jó állapotú
+1690,gáz-cirkó,felújított
+1691,gáz-cirkó,jó állapotú
+1692,gáz-cirkó,felújított
+1693,gáz-cirkó,újszerű
+1694,távhő,jó állapotú
+1695,gáz-cirkó,újszerű
+1696,gáz-cirkó,felújított
+1697,gáz-cirkó,újszerű
+1698,gáz-cirkó,jó állapotú
+1699,gáz-cirkó,jó állapotú
+1700,gáz-cirkó,felújított
+1701,központi fűtés,felújított
+1702,gáz-cirkó,felújított
+1703,gáz-cirkó,felújított
+1704,gáz-cirkó,felújított
+1705,távhő,jó állapotú
+1706,gáz-cirkó,jó állapotú
+1707,egyéb,jó állapotú
+1708,egyéb,jó állapotú
+1709,központi fűtés,felújított
+1710,távhő,jó állapotú
+1711,egyedi mérős központifűtés,felújított
+1712,egyedi mérős központifűtés,jó állapotú
+1713,gáz-cirkó,jó állapotú
+1714,gáz-cirkó,jó állapotú
+1715,központi fűtés,jó állapotú
+1716,központi fűtés,jó állapotú
+1717,központi fűtés,jó állapotú
+1718,gáz-cirkó,jó állapotú
+1719,központi fűtés,jó állapotú
+1720,gáz-cirkó,jó állapotú
+1721,gáz-cirkó,újszerű
+1722,gáz konvektor,felújított
+1723,gáz konvektor,újszerű
+1724,központi fűtés,jó állapotú
+1725,gáz-cirkó,felújított
+1726,gáz-cirkó,jó állapotú
+1727,központi fűtés,jó állapotú
+1728,központi fűtés,felújított
+1729,gáz konvektor,jó állapotú
+1730,gáz-cirkó,jó állapotú
+1731,gáz konvektor,jó állapotú
+1732,gáz-cirkó,felújított
+1733,gáz-cirkó,jó állapotú
+1734,központi fűtés,jó állapotú
+1735,gáz-cirkó,jó állapotú
+1736,gáz-cirkó,felújított
+1737,egyéb,jó állapotú
+1738,központi fűtés,jó állapotú
+1739,gáz-cirkó,jó állapotú
+1740,gáz-cirkó,felújított
+1741,gáz-cirkó,jó állapotú
+1742,központi fűtés,jó állapotú
+1743,gáz-cirkó,jó állapotú
+1744,elektromos,jó állapotú
+1745,gáz-cirkó,jó állapotú
+1746,gáz-cirkó,jó állapotú
+1747,gáz-cirkó,jó állapotú
+1748,gáz-cirkó,felújított
+1749,elektromos,felújított
+1750,gáz-cirkó,jó állapotú
+1751,központi fűtés,jó állapotú
+1752,gáz-cirkó,felújított
+1753,gáz-cirkó,jó állapotú
+1754,gáz-cirkó,jó állapotú
+1755,gáz konvektor,jó állapotú
+1756,gáz-cirkó,felújított
+1757,gáz-cirkó,felújított
+1758,gáz konvektor,jó állapotú
+1759,gáz-cirkó,jó állapotú
+1760,egyéb,jó állapotú
+1761,gáz-cirkó,jó állapotú
+1762,gáz-cirkó,felújított
+1763,gáz-cirkó,felújított
+1764,egyedi mérős központifűtés,új építésű
+1765,egyedi mérős központifűtés,új építésű
+1766,gáz-cirkó,felújított
+1767,gáz-cirkó,jó állapotú
+1768,gáz-cirkó,felújított
+1769,egyedi mérős központifűtés,felújított
+1770,gáz-cirkó,jó állapotú
+1771,gáz-cirkó,jó állapotú
+1772,gáz konvektor,jó állapotú
+1773,egyedi mérős központifűtés,jó állapotú
+1774,gáz-cirkó,jó állapotú
+1775,egyedi mérős központifűtés,jó állapotú
+1776,egyéb,felújított
+1777,gáz-cirkó,felújított
+1778,házközponti,felújított
+1779,gáz konvektor,felújított
+1780,gáz-cirkó,felújított
+1781,távhő,felújított
+1782,gáz-cirkó,újszerű
+1783,egyéb,jó állapotú
+1784,gáz-cirkó,felújítandó
+1785,gáz konvektor,felújított
+1786,gáz-cirkó,felújított
+1787,gáz-cirkó,felújított
+1788,gáz konvektor,jó állapotú
+1789,gáz konvektor,jó állapotú
+1790,központi fűtés,jó állapotú
+1791,központi fűtés,jó állapotú
+1792,gáz-cirkó,felújított
+1793,gáz-cirkó,felújított
+1794,gáz-cirkó,jó állapotú
+1795,gáz-cirkó,felújított
+1796,gáz-cirkó,felújított
+1797,gáz konvektor,felújított
+1798,gáz-cirkó,jó állapotú
+1799,egyedi mérős központifűtés,újszerű
+1800,egyéb,felújított
+1801,elektromos,jó állapotú
+1802,gáz-cirkó,felújított
+1803,gáz-cirkó,felújított
+1804,egyedi mérős központifűtés,újszerű
+1805,távhő,jó állapotú
+1806,gáz konvektor,jó állapotú
+1807,gáz konvektor,felújított
+1808,egyedi mérős központifűtés,jó állapotú
+1809,gáz-cirkó,felújított
+1810,gáz-cirkó,felújított
+1811,gáz konvektor,felújított
+1812,gáz konvektor,felújított
+1813,gáz konvektor,jó állapotú
+1814,gáz-cirkó,felújított
+1815,távhő,felújított
+1816,egyedi mérős központifűtés,felújított
+1817,gáz-cirkó,felújított
+1818,gáz konvektor,jó állapotú
+1819,gáz-cirkó,felújított
+1820,gáz-cirkó,felújított
+1821,egyéb,újszerű
+1822,egyéb,újszerű
+1823,gáz-cirkó,újszerű
+1824,gáz konvektor,felújított
+1825,távhő,felújított
+1826,gáz-cirkó,jó állapotú
+1827,gáz-cirkó,felújított
+1828,gáz konvektor,jó állapotú
+1829,távhő,felújított
+1830,egyéb,felújított
+1831,távhő,felújított
+1832,gáz konvektor,felújított
+1833,házközponti,felújított
+1834,gáz-cirkó,felújított
+1835,gáz-cirkó,felújított
+1836,házközponti,újszerű
+1837,gáz konvektor,jó állapotú
+1838,gáz konvektor,jó állapotú
+1839,távhő,felújított
+1840,gáz-cirkó,jó állapotú
+1841,egyedi mérős központifűtés,új építésű
+1842,házközponti,újszerű
+1843,egyedi mérős központifűtés,új építésű
+1844,gáz-cirkó,felújított
+1845,távhő,felújítandó
+1846,gáz konvektor,felújított
+1847,gáz-cirkó,jó állapotú
+1848,gáz-cirkó,jó állapotú
+1849,gáz-cirkó,jó állapotú
+1850,egyedi mérős központifűtés,újszerű
+1851,egyedi mérős központifűtés,új építésű
+1852,gáz konvektor,jó állapotú
+1853,gáz-cirkó,jó állapotú
+1854,gáz-cirkó,jó állapotú
+1855,egyedi mérős központifűtés,újszerű
+1856,házközponti,újszerű
+1857,gáz-cirkó,jó állapotú
+1858,gáz-cirkó,felújított
+1859,gáz-cirkó,jó állapotú
+1860,házközponti,újszerű
+1861,kandalló-cserépkályha,jó állapotú
+1862,gáz-cirkó,jó állapotú
+1863,központi fűtés,újszerű
+1864,házközponti,felújított
+1865,gáz-cirkó,újszerű
+1866,egyedi mérős központifűtés,jó állapotú
+1867,távhő,felújított
+1868,elektromos,felújított
+1869,gáz konvektor,jó állapotú
+1870,gáz-cirkó,felújított
+1871,távhő,felújított
+1872,gáz-cirkó,jó állapotú
+1873,egyedi mérős központifűtés,felújított
+1874,távhő,jó állapotú
+1875,egyedi mérős központifűtés,felújított
+1876,gáz-cirkó,felújított
+1877,házközponti,felújított
+1878,gáz konvektor,jó állapotú
+1879,házközponti,jó állapotú
+1880,kandalló-cserépkályha,jó állapotú
+1881,gáz-cirkó,felújított
+1882,elektromos,felújított
+1883,gáz konvektor,jó állapotú
+1884,gáz konvektor,jó állapotú
+1885,gáz konvektor,felújított
+1886,gáz konvektor,felújított
+1887,távhő,jó állapotú
+1888,gáz-cirkó,újszerű
+1889,gáz-cirkó,újszerű
+1890,egyedi mérős központifűtés,újszerű
+1891,gáz-cirkó,jó állapotú
+1892,gáz-cirkó,felújított
+1893,gáz-cirkó,jó állapotú
+1894,távhő,felújított
+1895,egyedi mérős központifűtés,felújított
+1896,gáz-cirkó,jó állapotú
+1897,távhő,felújított
+1898,távhő,jó állapotú
+1899,gáz konvektor,jó állapotú
+1900,házközponti,felújított
+1901,egyedi mérős központifűtés,új építésű
+1902,gáz konvektor,felújított
+1903,házközponti,új építésű
+1904,kandalló-cserépkályha,felújított
+1905,kandalló-cserépkályha,felújított
+1906,kandalló-cserépkályha,felújított
+1907,kandalló-cserépkályha,felújított
+1908,házközponti,újszerű
+1909,gáz-cirkó,új építésű
+1910,egyedi mérős központifűtés,felújított
+1911,gáz konvektor,jó állapotú
+1912,távhő,jó állapotú
+1913,gáz-cirkó,újszerű
+1914,elektromos,jó állapotú
+1915,gáz-cirkó,jó állapotú
+1916,gáz konvektor,felújított
+1917,egyéb,felújított
+1918,gáz-cirkó,jó állapotú
+1919,gáz konvektor,felújított
+1920,távhő,jó állapotú
+1921,gáz-cirkó,felújított
+1922,egyedi mérős központifűtés,jó állapotú
+1923,gáz-cirkó,felújított
+1924,gáz konvektor,jó állapotú
+1925,gáz-cirkó,jó állapotú
+1926,gáz-cirkó,felújított
+1927,egyéb,új építésű
+1928,gáz-cirkó,újszerű
+1929,gáz-cirkó,új építésű
+1930,gáz-cirkó,új építésű
+1931,gáz-cirkó,új építésű
+1932,gáz-cirkó,új építésű
+1933,egyedi mérős központifűtés,újszerű
+1934,távhő,felújított
+1935,egyedi mérős központifűtés,jó állapotú
+1936,házközponti,új építésű
+1937,gáz-cirkó,újszerű
+1938,gáz-cirkó,felújított
+1939,távhő,jó állapotú
+1940,gáz-cirkó,jó állapotú
+1941,egyéb,újszerű
+1942,központi fűtés,újszerű
+1943,távhő,jó állapotú
+1944,egyedi mérős központifűtés,jó állapotú
+1945,házközponti,jó állapotú
+1946,gáz-cirkó,újszerű
+1947,gáz-cirkó,felújított
+1948,távhő,felújított
+1949,gáz konvektor,felújított
+1950,gáz-cirkó,felújított
+1951,házközponti,újszerű
+1952,gáz-cirkó,felújított
+1953,gáz konvektor,felújított
+1954,egyedi mérős központifűtés,újszerű
+1955,gáz-cirkó,újszerű
+1956,házközponti,felújított
+1957,gáz konvektor,jó állapotú
+1958,gáz-cirkó,felújított
+1959,gáz-cirkó,felújított
+1960,gáz konvektor,felújított
+1961,gáz-cirkó,felújítandó
+1962,gáz konvektor,felújított
+1963,gáz konvektor,jó állapotú
+1964,gáz-cirkó,felújított
+1965,gáz konvektor,felújított
+1966,gáz-cirkó,jó állapotú
+1967,gáz-cirkó,jó állapotú
+1968,gáz-cirkó,felújított
+1969,gáz konvektor,felújított
+1970,gáz-cirkó,felújított
+1971,elektromos,jó állapotú
+1972,házközponti,újszerű
+1973,elektromos,jó állapotú
+1974,házközponti,újszerű
+1975,gáz-cirkó,felújított
+1976,házközponti,újszerű
+1977,gáz-cirkó,felújított
+1978,egyedi mérős központifűtés,új építésű
+1979,gáz-cirkó,jó állapotú
+1980,gáz-cirkó,jó állapotú
+1981,házközponti,újszerű
+1982,távhő,felújított
+1983,gáz-cirkó,felújított
+1984,házközponti,új építésű
+1985,egyedi mérős központifűtés,új építésű
+1986,egyedi mérős központifűtés,új építésű
+1987,egyedi mérős központifűtés,új építésű
+1988,gáz-cirkó,új építésű
+1989,egyedi mérős központifűtés,újszerű
+1990,egyéb,felújított
+1991,gáz konvektor,felújított
+1992,házközponti,újszerű
+1993,gáz-cirkó,jó állapotú
+1994,gáz konvektor,felújított
+1995,gáz konvektor,felújított
+1996,gáz-cirkó,újszerű
+1997,házközponti,újszerű
+1998,elektromos,újszerű
+1999,házközponti,újszerű
+2000,gáz-cirkó,jó állapotú
+2001,elektromos,jó állapotú
+2002,gáz konvektor,felújított
+2003,gáz-cirkó,felújított
+2004,elektromos,jó állapotú
+2005,elektromos,felújítandó
+2006,házközponti,jó állapotú
+2007,egyedi mérős központifűtés,felújított
+2008,gáz-cirkó,jó állapotú
+2009,gáz-cirkó,felújított
+2010,gáz-cirkó,jó állapotú
+2011,gáz konvektor,jó állapotú
+2012,gáz-cirkó,újszerű
+2013,egyedi mérős központifűtés,jó állapotú
+2014,gáz-cirkó,újszerű
+2015,egyedi mérős központifűtés,felújított
+2016,gáz konvektor,felújított
+2017,gáz konvektor,felújított
+2018,gáz-cirkó,felújított
+2019,házközponti,új építésű
+2020,házközponti,új építésű
+2021,távhő,felújított
+2022,gáz-cirkó,új építésű
+2023,gáz konvektor,jó állapotú
+2024,elektromos,újszerű
+2025,gáz-cirkó,újszerű
+2026,gáz-cirkó,felújított
+2027,gáz konvektor,felújított
+2028,egyéb,újszerű
+2029,gáz-cirkó,újszerű
+2030,gáz-cirkó,újszerű
+2031,gáz-cirkó,újszerű
+2032,egyedi mérős központifűtés,jó állapotú
+2033,gáz konvektor,jó állapotú
+2034,gáz-cirkó,újszerű
+2035,gáz-cirkó,felújított
+2036,gáz konvektor,felújított
+2037,gáz-cirkó,jó állapotú
+2038,gáz-cirkó,újszerű
+2039,gáz-cirkó,új építésű
+2040,házközponti,jó állapotú
+2041,gáz-cirkó,felújított
+2042,távhő,felújított
+2043,kandalló-cserépkályha,felújított
+2044,gáz konvektor,jó állapotú
+2045,házközponti,jó állapotú
+2046,gáz konvektor,jó állapotú
+2047,egyedi mérős központifűtés,felújított
+2048,gáz-cirkó,jó állapotú
+2049,gáz-cirkó,felújított
+2050,gáz konvektor,jó állapotú
+2051,távhő,felújított
+2052,házközponti,felújított
+2053,gáz konvektor,újszerű
+2054,gáz konvektor,jó állapotú
+2055,gáz konvektor,felújított
+2056,távhő,jó állapotú
+2057,házközponti,jó állapotú
+2058,gáz konvektor,jó állapotú
+2059,gáz konvektor,jó állapotú
+2060,gáz-cirkó,jó állapotú
+2061,gáz konvektor,felújított
+2062,gáz-cirkó,jó állapotú
+2063,gáz konvektor,felújított
+2064,elektromos,jó állapotú
+2065,házközponti,jó állapotú
+2066,egyedi mérős központifűtés,jó állapotú
+2067,egyedi mérős központifűtés,új építésű
+2068,gáz-cirkó,jó állapotú
+2069,egyéb,felújított
+2070,egyéb,új építésű
+2071,gáz konvektor,újszerű
+2072,gáz konvektor,felújított
+2073,házközponti,új építésű
+2074,gáz konvektor,újszerű
+2075,gáz-cirkó,felújított
+2076,gáz-cirkó,felújított
+2077,gáz-cirkó,újszerű
+2078,egyedi mérős központifűtés,újszerű
+2079,gáz-cirkó,felújított
+2080,egyedi mérős központifűtés,újszerű
+2081,gáz-cirkó,újszerű
+2082,központi fűtés,újszerű
+2083,gáz-cirkó,újszerű
+2084,gáz-cirkó,felújított
+2085,gáz-cirkó,új építésű
+2086,gáz-cirkó,újszerű
+2087,házközponti,újszerű
+2088,egyéb,új építésű
+2089,gáz-cirkó,felújított
+2090,házközponti,jó állapotú
+2091,gáz-cirkó,felújított
+2092,gáz-cirkó,jó állapotú
+2093,távhő,felújított
+2094,központi fűtés,felújított
+2095,gáz-cirkó,jó állapotú
+2096,gáz-cirkó,jó állapotú
+2097,gáz-cirkó,felújított
+2098,gáz konvektor,jó állapotú
+2099,gáz-cirkó,újszerű
+2100,központi fűtés,újszerű
+2101,házközponti,újszerű
+2102,gáz-cirkó,felújított
+2103,gáz konvektor,felújított
+2104,házközponti,jó állapotú
+2105,házközponti,újszerű
+2106,egyedi mérős központifűtés,újszerű
+2107,egyedi mérős központifűtés,újszerű
+2108,elektromos,felújított
+2109,gáz-cirkó,felújított
+2110,egyedi mérős központifűtés,új építésű
+2111,gáz-cirkó,újszerű
+2112,gáz-cirkó,jó állapotú
+2113,gáz konvektor,jó állapotú
+2114,gáz-cirkó,jó állapotú
+2115,egyedi mérős központifűtés,újszerű
+2116,házközponti,újszerű
+2117,házközponti,felújított
+2118,gáz konvektor,felújított
+2119,gáz konvektor,felújított
+2120,távhő,felújított
+2121,házközponti,jó állapotú
+2122,elektromos,felújított
+2123,házközponti,újszerű
+2124,elektromos,felújított
+2125,központi fűtés,újszerű
+2126,gáz konvektor,jó állapotú
+2127,gáz-cirkó,felújított
+2128,egyéb,felújított
+2129,gáz-cirkó,újszerű
+2130,távhő,felújított
+2131,elektromos,jó állapotú
+2132,központi fűtés,felújított
+2133,gáz-cirkó,jó állapotú
+2134,gáz konvektor,felújított
+2135,gáz-cirkó,újszerű
+2136,gáz-cirkó,felújított
+2137,távhő,jó állapotú
+2138,házközponti,felújított
+2139,egyedi mérős központifűtés,újszerű
+2140,gáz konvektor,felújított
+2141,házközponti,jó állapotú
+2142,központi fűtés,új építésű
+2143,egyedi mérős központifűtés,jó állapotú
+2144,gáz konvektor,jó állapotú
+2145,gáz konvektor,felújított
+2146,gáz-cirkó,újszerű
+2147,házközponti,felújított
+2148,egyedi mérős központifűtés,jó állapotú
+2149,gáz konvektor,újszerű
+2150,egyedi mérős központifűtés,jó állapotú
+2151,gáz-cirkó,felújított
+2152,házközponti,újszerű
+2153,gáz-cirkó,felújított
+2154,gáz konvektor,felújított
+2155,házközponti,jó állapotú
+2156,házközponti,jó állapotú
+2157,gáz-cirkó,jó állapotú
+2158,egyéb,új építésű
+2159,gáz-cirkó,újszerű
+2160,gáz-cirkó,felújított
+2161,kandalló-cserépkályha,újszerű
+2162,gáz-cirkó,felújított
+2163,egyéb,felújított
+2164,gáz-cirkó,újszerű
+2165,gáz-cirkó,felújított
+2166,gáz-cirkó,felújított
+2167,házközponti,felújított
+2168,házközponti,felújított
+2169,távhő,jó állapotú
+2170,távhő,felújított
+2171,házközponti,felújított
+2172,gáz-cirkó,felújított
+2173,elektromos,felújított
+2174,házközponti,felújított
+2175,házközponti,jó állapotú
+2176,gáz-cirkó,felújított
+2177,gáz-cirkó,felújított
+2178,házközponti,felújított
+2179,gáz-cirkó,jó állapotú
+2180,gáz konvektor,jó állapotú
+2181,központi fűtés,újszerű
+2182,gáz-cirkó,új építésű
+2183,gáz-cirkó,új építésű
+2184,távhő,felújított
+2185,gáz-cirkó,újszerű
+2186,egyedi mérős központifűtés,jó állapotú
+2187,távhő,jó állapotú
+2188,gáz-cirkó,új építésű
+2189,egyéb,újszerű
+2190,egyéb,újszerű
+2191,egyéb,újszerű
+2192,egyéb,felújított
+2193,gáz-cirkó,jó állapotú
+2194,gáz konvektor,jó állapotú
+2195,gáz konvektor,jó állapotú
+2196,gáz-cirkó,felújított
+2197,gáz-cirkó,felújított
+2198,gáz-cirkó,felújított
+2199,gáz-cirkó,jó állapotú
+2200,gáz-cirkó,felújított
+2201,elektromos,felújított
+2202,egyedi mérős központifűtés,felújított
+2203,távhő,jó állapotú
+2204,gáz-cirkó,jó állapotú
+2205,gáz konvektor,jó állapotú
+2206,gáz-cirkó,felújított
+2207,gáz konvektor,felújított
+2208,házközponti,új építésű
+2209,gáz-cirkó,felújított
+2210,egyedi mérős központifűtés,új építésű
+2211,gáz-cirkó,újszerű
+2212,távhő,felújított
+2213,egyedi mérős központifűtés,felújított
+2214,távhő,felújított
+2215,házközponti,felújított
+2216,távhő,felújított
+2217,központi fűtés,felújított
+2218,gáz-cirkó,jó állapotú
+2219,házközponti,jó állapotú
+2220,gáz-cirkó,felújított
+2221,gáz-cirkó,felújított
+2222,gáz-cirkó,új építésű
+2223,gáz-cirkó,felújított
+2224,házközponti,felújított
+2225,házközponti,felújított
+2226,házközponti,felújított
+2227,házközponti,újszerű
+2228,távhő,jó állapotú
+2229,házközponti,újszerű
+2230,gáz konvektor,jó állapotú
+2231,gáz-cirkó,felújított
+2232,gáz-cirkó,jó állapotú
+2233,gáz konvektor,új építésű
+2234,gáz konvektor,jó állapotú
+2235,gáz-cirkó,új építésű
+2236,távhő,jó állapotú
+2237,távhő,jó állapotú
+2238,egyedi mérős központifűtés,új építésű
+2239,gáz-cirkó,felújított
+2240,házközponti,felújított
+2241,házközponti,felújított
+2242,gáz-cirkó,újszerű
+2243,egyedi mérős központifűtés,újszerű
+2244,gáz-cirkó,jó állapotú
+2245,gáz-cirkó,új építésű
+2246,távhő,jó állapotú
+2247,gáz-cirkó,újszerű
+2248,távhő,felújított
+2249,gáz-cirkó,újszerű
+2250,egyedi mérős központifűtés,jó állapotú
+2251,házközponti,felújított
+2252,egyéb,újszerű
+2253,egyedi mérős központifűtés,felújított
+2254,házközponti,felújított
+2255,gáz-cirkó,újszerű
+2256,gáz konvektor,felújított
+2257,távhő,jó állapotú
+2258,elektromos,felújított
+2259,gáz-cirkó,jó állapotú
+2260,házközponti,felújított
+2261,házközponti,újszerű
+2262,gáz-cirkó,újszerű
+2263,gáz konvektor,jó állapotú
+2264,gáz-cirkó,jó állapotú
+2265,házközponti,jó állapotú
+2266,központi fűtés,jó állapotú
+2267,egyedi mérős központifűtés,jó állapotú
+2268,távhő,felújított
+2269,távhő,jó állapotú
+2270,gáz-cirkó,jó állapotú
+2271,gáz konvektor,felújított
+2272,gáz konvektor,felújított
+2273,házközponti,újszerű
+2274,gáz-cirkó,újszerű
+2275,házközponti,jó állapotú
+2276,gáz-cirkó,felújított
+2277,gáz-cirkó,felújított
+2278,gáz konvektor,felújított
+2279,gáz konvektor,jó állapotú
+2280,központi fűtés,jó állapotú
+2281,házközponti,jó állapotú
+2282,gáz-cirkó,jó állapotú
+2283,házközponti,felújított
+2284,egyedi mérős központifűtés,újszerű
+2285,gáz konvektor,felújított
+2286,gáz konvektor,jó állapotú
+2287,gáz konvektor,jó állapotú
+2288,gáz konvektor,jó állapotú
+2289,házközponti,újszerű
+2290,gáz konvektor,jó állapotú
+2291,egyedi mérős központifűtés,felújított
+2292,házközponti,új építésű
+2293,egyedi mérős központifűtés,újszerű
+2294,egyedi mérős központifűtés,új építésű
+2295,házközponti,újszerű
+2296,házközponti,újszerű
+2297,egyedi mérős központifűtés,újszerű
+2298,egyedi mérős központifűtés,új építésű
+2299,központi fűtés,jó állapotú
+2300,egyedi mérős központifűtés,újszerű
+2301,gáz-cirkó,felújított
+2302,gáz-cirkó,felújított
+2303,egyedi mérős központifűtés,új építésű
+2304,gáz-cirkó,felújított
+2305,házközponti,újszerű
+2306,gáz-cirkó,felújított
+2307,egyéb,felújított
+2308,házközponti,felújított
+2309,távhő,felújított
+2310,gáz konvektor,felújított
+2311,gáz-cirkó,újszerű
+2312,házközponti,felújított
+2313,házközponti,felújított
+2314,gáz-cirkó,újszerű
+2315,gáz konvektor,felújított
+2316,gáz-cirkó,felújított
+2317,gáz konvektor,felújított
+2318,gáz-cirkó,felújított
+2319,gáz konvektor,jó állapotú
+2320,gáz konvektor,felújított
+2321,gáz konvektor,felújított
+2322,gáz-cirkó,újszerű
+2323,egyedi mérős központifűtés,új építésű
+2324,gáz-cirkó,felújított
+2325,gáz konvektor,felújított
+2326,gáz konvektor,felújított
+2327,házközponti,jó állapotú
+2328,gáz konvektor,újszerű
+2329,házközponti,jó állapotú
+2330,gáz konvektor,újszerű
+2331,egyedi mérős központifűtés,új építésű
+2332,gáz-cirkó,újszerű
+2333,távhő,felújított
+2334,központi fűtés,jó állapotú
+2335,gáz-cirkó,jó állapotú
+2336,gáz-cirkó,jó állapotú
+2337,távhő,jó állapotú
+2338,távhő,felújított
+2339,gáz konvektor,felújított
+2340,gáz-cirkó,felújított
+2341,elektromos,felújított
+2342,gáz konvektor,felújított
+2343,házközponti,jó állapotú
+2344,gáz-cirkó,felújított
+2345,gáz konvektor,újszerű
+2346,házközponti,új építésű
+2347,gáz-cirkó,újszerű
+2348,gáz-cirkó,jó állapotú
+2349,központi fűtés,jó állapotú
+2350,távhő,jó állapotú
+2351,házközponti,új építésű
+2352,gáz-cirkó,felújított
+2353,egyéb,felújított
+2354,házközponti,felújított
+2355,egyéb,felújított
+2356,gáz konvektor,felújított
+2357,gáz konvektor,jó állapotú
+2358,házközponti,újszerű
+2359,házközponti,újszerű
+2360,elektromos,újszerű
+2361,elektromos,újszerű
+2362,elektromos,újszerű
+2363,távhő,felújított
+2364,távhő,felújított
+2365,gáz-cirkó,felújított
+2366,gáz-cirkó,felújított
+2367,gáz-cirkó,újszerű
+2368,gáz-cirkó,jó állapotú
+2369,kandalló-cserépkályha,jó állapotú
+2370,gáz-cirkó,jó állapotú
+2371,távhő,felújított
+2372,távhő,felújított
+2373,házközponti,jó állapotú
+2374,gáz konvektor,jó állapotú
+2375,távhő,jó állapotú
+2376,elektromos,felújított
+2377,gáz konvektor,jó állapotú
+2378,gáz-cirkó,jó állapotú
+2379,egyéb,felújított
+2380,gáz-cirkó,új építésű
+2381,egyedi mérős központifűtés,új építésű
+2382,gáz-cirkó,új építésű
+2383,házközponti,új építésű
+2384,egyedi mérős központifűtés,új építésű
+2385,egyedi mérős központifűtés,újszerű
+2386,egyéb,újszerű
+2387,házközponti,új építésű
+2388,egyedi mérős központifűtés,új építésű
+2389,egyéb,új építésű
+2390,gáz-cirkó,új építésű
+2391,gáz-cirkó,új építésű
+2392,egyedi mérős központifűtés,új építésű
+2393,távhő,felújított
+2394,gáz-cirkó,felújított
+2395,egyedi mérős központifűtés,újszerű
+2396,távhő,jó állapotú
+2397,távhő,felújított
+2398,egyedi mérős központifűtés,felújított
+2399,gáz konvektor,felújított
+2400,gáz konvektor,újszerű
+2401,távhő,jó állapotú
+2402,egyedi mérős központifűtés,felújított
+2403,távhő,jó állapotú
+2404,gáz-cirkó,jó állapotú
+2405,egyedi mérős központifűtés,felújított
+2406,gáz-cirkó,jó állapotú
+2407,távhő,jó állapotú
+2408,távhő,jó állapotú
+2409,távhő,jó állapotú
+2410,távhő,jó állapotú
+2411,távhő,felújított
+2412,gáz-cirkó,új építésű
+2413,gáz konvektor,jó állapotú
+2414,egyéb,újszerű
+2415,gáz konvektor,jó állapotú
+2416,gáz-cirkó,jó állapotú
+2417,központi fűtés,új építésű
+2418,egyedi mérős központifűtés,újszerű
+2419,gáz-cirkó,újszerű
+2420,egyedi mérős központifűtés,újszerű
+2421,gáz-cirkó,újszerű
+2422,gáz-cirkó,újszerű
+2423,gáz konvektor,felújított
+2424,gáz-cirkó,felújított
+2425,házközponti,jó állapotú
+2426,gáz-cirkó,jó állapotú
+2427,gáz konvektor,felújított
+2428,gáz-cirkó,felújított
+2429,gáz-cirkó,felújított
+2430,házközponti,jó állapotú
+2431,gáz-cirkó,jó állapotú
+2432,gáz-cirkó,új építésű
+2433,gáz-cirkó,újszerű
+2434,gáz konvektor,jó állapotú
+2435,gáz-cirkó,újszerű
+2436,gáz-cirkó,újszerű
+2437,egyéb,újszerű
+2438,gáz konvektor,felújított
+2439,gáz-cirkó,felújított
+2440,házközponti,jó állapotú
+2441,gáz konvektor,felújított
+2442,gáz konvektor,felújított
+2443,gáz-cirkó,felújított
+2444,gáz-cirkó,újszerű
+2445,gáz konvektor,jó állapotú
+2446,gáz-cirkó,újszerű
+2447,gáz-cirkó,jó állapotú
+2448,gáz-cirkó,felújított
+2449,gáz-cirkó,felújított
+2450,házközponti,felújított
+2451,gáz konvektor,felújított
+2452,gáz konvektor,felújított
+2453,gáz konvektor,jó állapotú
+2454,gáz konvektor,jó állapotú
+2455,gáz konvektor,jó állapotú
+2456,házközponti,új építésű
+2457,gáz-cirkó,felújított
+2458,házközponti,felújított
+2459,egyedi mérős központifűtés,új építésű
+2460,házközponti,jó állapotú
+2461,házközponti,jó állapotú
+2462,gáz-cirkó,újszerű
+2463,házközponti,újszerű
+2464,gáz konvektor,felújított
+2465,házközponti,újszerű
+2466,házközponti,jó állapotú
+2467,gáz konvektor,jó állapotú
+2468,házközponti,újszerű
+2469,gáz-cirkó,felújított
+2470,gáz-cirkó,felújított
+2471,gáz-cirkó,felújított
+2472,gáz-cirkó,felújított
+2473,egyedi mérős központifűtés,jó állapotú
+2474,gáz-cirkó,felújított
+2475,gáz konvektor,felújított
+2476,gáz-cirkó,jó állapotú
+2477,gáz-cirkó,újszerű
+2478,gáz-cirkó,felújított
+2479,gáz konvektor,jó állapotú
+2480,gáz-cirkó,felújított
+2481,gáz-cirkó,újszerű
+2482,gáz-cirkó,jó állapotú
+2483,gáz-cirkó,újszerű
+2484,gáz-cirkó,újszerű
+2485,gáz-cirkó,jó állapotú
+2486,gáz-cirkó,jó állapotú
+2487,gáz konvektor,felújított
+2488,gáz-cirkó,felújított
+2489,központi fűtés,felújított
+2490,házközponti,újszerű
+2491,egyedi mérős központifűtés,felújított
+2492,gáz-cirkó,jó állapotú
+2493,egyéb,felújított
+2494,gáz-cirkó,felújított
+2495,házközponti,jó állapotú
+2496,házközponti,jó állapotú
+2497,házközponti,jó állapotú
+2498,házközponti,felújított
+2499,gáz konvektor,felújított
+2500,gáz konvektor,felújított
+2501,gáz konvektor,felújított
+2502,gáz konvektor,felújított
+2503,gáz-cirkó,felújított
+2504,gáz-cirkó,felújított
+2505,gáz-cirkó,jó állapotú
+2506,gáz-cirkó,felújított
+2507,házközponti,újszerű
+2508,gáz konvektor,jó állapotú
+2509,gáz konvektor,felújított
+2510,gáz-cirkó,jó állapotú
+2511,gáz-cirkó,jó állapotú
+2512,gáz-cirkó,felújított
+2513,gáz konvektor,jó állapotú
+2514,házközponti,újszerű
+2515,elektromos,újszerű
+2516,gáz-cirkó,jó állapotú
+2517,gáz-cirkó,jó állapotú
+2518,elektromos,újszerű
+2519,házközponti,újszerű
+2520,házközponti,újszerű
+2521,gáz-cirkó,jó állapotú
+2522,házközponti,jó állapotú
+2523,gáz konvektor,jó állapotú
+2524,gáz-cirkó,felújított
+2525,gáz-cirkó,felújított
+2526,gáz-cirkó,jó állapotú
+2527,távhő,felújított
+2528,gáz-cirkó,jó állapotú
+2529,gáz-cirkó,újszerű
+2530,elektromos,újszerű
+2531,gáz konvektor,jó állapotú
+2532,gáz-cirkó,felújított
+2533,gáz konvektor,felújított
+2534,gáz konvektor,jó állapotú
+2535,gáz-cirkó,jó állapotú
+2536,távhő,jó állapotú
+2537,gáz-cirkó,jó állapotú
+2538,gáz-cirkó,jó állapotú
+2539,gáz-cirkó,felújított
+2540,egyedi mérős központifűtés,új építésű
+2541,egyéb,jó állapotú
+2542,gáz konvektor,jó állapotú
+2543,gáz-cirkó,újszerű
+2544,távhő,felújított
+2545,távhő,felújított
+2546,távhő,felújított
+2547,egyedi mérős központifűtés,újszerű
+2548,házközponti,újszerű
+2549,gáz-cirkó,felújított
+2550,gáz-cirkó,felújított
+2551,gáz-cirkó,felújított
+2552,gáz-cirkó,felújított
+2553,gáz-cirkó,jó állapotú
+2554,egyedi mérős központifűtés,felújított
+2555,egyedi mérős központifűtés,új építésű
+2556,gáz-cirkó,felújítandó
+2557,egyedi mérős központifűtés,új építésű
+2558,gáz-cirkó,felújított
+2559,egyedi mérős központifűtés,új építésű
+2560,egyedi mérős központifűtés,új építésű
+2561,egyedi mérős központifűtés,új építésű
+2562,egyedi mérős központifűtés,jó állapotú
+2563,egyedi mérős központifűtés,újszerű
+2564,gáz-cirkó,felújított
+2565,távhő,felújított
+2566,egyedi mérős központifűtés,újszerű
+2567,gáz konvektor,jó állapotú
+2568,egyéb,felújított
+2569,gáz-cirkó,felújított
+2570,egyedi mérős központifűtés,új építésű
+2571,házközponti,felújított
+2572,egyedi mérős központifűtés,jó állapotú
+2573,házközponti,felújított
+2574,házközponti,jó állapotú
+2575,egyedi mérős központifűtés,újszerű
+2576,egyedi mérős központifűtés,újszerű
+2577,gáz konvektor,felújított
+2578,központi fűtés,újszerű
+2579,központi fűtés,felújított
+2580,gáz konvektor,felújított
+2581,gáz konvektor,felújított
+2582,egyedi mérős központifűtés,újszerű
+2583,egyedi mérős központifűtés,újszerű
+2584,távhő,jó állapotú
+2585,egyedi mérős központifűtés,felújított
+2586,központi fűtés,felújított
+2587,távhő,újszerű
+2588,gáz konvektor,újszerű
+2589,házközponti,újszerű
+2590,házközponti,újszerű
+2591,házközponti,újszerű
+2592,házközponti,jó állapotú
+2593,gáz-cirkó,jó állapotú
+2594,távhő,felújított
+2595,gáz konvektor,jó állapotú
+2596,gáz-cirkó,felújított
+2597,gáz-cirkó,újszerű
+2598,egyedi mérős központifűtés,újszerű
+2599,gáz-cirkó,felújított
+2600,gáz-cirkó,felújított
+2601,gáz-cirkó,felújított
+2602,gáz-cirkó,felújított
+2603,házközponti,felújított
+2604,gáz-cirkó,felújított
+2605,gáz-cirkó,felújított
+2606,gáz-cirkó,felújított
+2607,házközponti,újszerű
+2608,gáz-cirkó,felújított
+2609,egyéb,felújított
+2610,gáz-cirkó,jó állapotú
+2611,gáz-cirkó,jó állapotú
+2612,gáz-cirkó,felújított
+2613,házközponti,újszerű
+2614,gáz-cirkó,új építésű
+2615,gáz-cirkó,új építésű
+2616,gáz-cirkó,jó állapotú
+2617,gáz-cirkó,jó állapotú
+2618,gáz-cirkó,jó állapotú
+2619,gáz-cirkó,jó állapotú
+2620,gáz-cirkó,felújított
+2621,gáz-cirkó,felújítandó
+2622,gáz-cirkó,újszerű
+2623,gáz-cirkó,jó állapotú
+2624,központi fűtés,újszerű
+2625,gáz-cirkó,felújított
+2626,egyedi mérős központifűtés,új építésű
+2627,házközponti,jó állapotú
+2628,gáz konvektor,jó állapotú
+2629,egyedi mérős központifűtés,új építésű
+2630,gáz-cirkó,felújított
+2631,gáz-cirkó,felújított
+2632,gáz-cirkó,felújított
+2633,gáz-cirkó,jó állapotú
+2634,házközponti,újszerű
+2635,elektromos,jó állapotú
+2636,gáz-cirkó,jó állapotú
+2637,gáz-cirkó,újszerű
+2638,gáz-cirkó,felújított
+2639,távhő,felújított
+2640,gáz konvektor,jó állapotú
+2641,gáz konvektor,felújított
+2642,távhő,felújított
+2643,egyéb,új építésű
+2644,egyedi mérős központifűtés,új építésű
+2645,egyedi mérős központifűtés,új építésű
+2646,gáz konvektor,jó állapotú
+2647,egyedi mérős központifűtés,új építésű
+2648,távhő,jó állapotú
+2649,gáz-cirkó,újszerű
+2650,egyéb,jó állapotú
+2651,távhő,újszerű
+2652,kandalló-cserépkályha,felújított
+2653,gáz konvektor,jó állapotú
+2654,házközponti,újszerű
+2655,távhő,jó állapotú
+2656,egyéb,jó állapotú
+2657,távhő,jó állapotú
+2658,távhő,jó állapotú
+2659,gáz-cirkó,felújított
+2660,gáz konvektor,jó állapotú
+2661,házközponti,jó állapotú
+2662,központi fűtés,jó állapotú
+2663,házközponti,felújított
+2664,házközponti,újszerű
+2665,gáz-cirkó,új építésű
+2666,gáz-cirkó,újszerű
+2667,gáz-cirkó,újszerű
+2668,gáz konvektor,jó állapotú
+2669,gáz-cirkó,újszerű
+2670,házközponti,jó állapotú
+2671,gáz-cirkó,újszerű
+2672,házközponti,újszerű
+2673,egyedi mérős központifűtés,újszerű
+2674,gáz konvektor,jó állapotú
+2675,gáz-cirkó,jó állapotú
+2676,gáz konvektor,jó állapotú
+2677,gáz-cirkó,jó állapotú
+2678,egyedi mérős központifűtés,újszerű
+2679,gáz-cirkó,felújított
+2680,egyedi mérős központifűtés,jó állapotú
+2681,gáz-cirkó,jó állapotú
+2682,gáz-cirkó,újszerű
+2683,házközponti,felújított
+2684,gáz-cirkó,jó állapotú
+2685,egyéb,jó állapotú
+2686,házközponti,jó állapotú
+2687,egyéb,újszerű
+2688,egyedi mérős központifűtés,felújított
+2689,gáz konvektor,felújított
+2690,egyedi mérős központifűtés,felújított
+2691,távhő,felújított
+2692,gáz konvektor,felújított
+2693,gáz konvektor,jó állapotú
+2694,házközponti,felújított
+2695,gáz konvektor,jó állapotú
+2696,gáz-cirkó,felújított
+2697,gáz-cirkó,felújított
+2698,gáz-cirkó,újszerű
+2699,gáz konvektor,jó állapotú
+2700,gáz-cirkó,felújított
+2701,gáz-cirkó,újszerű
+2702,gáz-cirkó,újszerű
+2703,házközponti,új építésű
+2704,távhő,jó állapotú
+2705,gáz-cirkó,felújított
+2706,gáz-cirkó,újszerű
+2707,gáz-cirkó,újszerű
+2708,gáz konvektor,jó állapotú
+2709,házközponti,újszerű
+2710,gáz konvektor,felújított
+2711,gáz-cirkó,újszerű
+2712,házközponti,jó állapotú
+2713,távhő,felújított
+2714,házközponti,jó állapotú
+2715,gáz-cirkó,felújított
+2716,gáz-cirkó,felújított
+2717,gáz-cirkó,felújított
+2718,gáz konvektor,felújított
+2719,gáz-cirkó,jó állapotú
+2720,gáz konvektor,jó állapotú
+2721,gáz-cirkó,jó állapotú
+2722,gáz-cirkó,jó állapotú
+2723,távhő,jó állapotú
+2724,gáz konvektor,felújított
+2725,gáz-cirkó,újszerű
+2726,egyéb,jó állapotú
+2727,gáz-cirkó,újszerű

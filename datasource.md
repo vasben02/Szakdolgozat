@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/gaborvecsei/flats-to-rent-at-budapest?resource=download

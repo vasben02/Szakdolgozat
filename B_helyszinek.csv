@@ -1,0 +1,1548 @@
+location_id,location_str,district
+1,"Budapest, Istvánmező, Thököly út",XIV
+2,"Budapest, Rákospalota, Dessewffy A. u",XV
+3,Budapest,VII
+4,Budapest,V
+5,"Budapest, Népszínház negyed, Rákóczi út",VIII
+6,Budapest,XIII
+7,Budapest,III
+8,"Budapest, Újpalota, utca",XV
+9,"Budapest, Mátyásföld, Szent Korona u",XVI
+10,"Budapest, Szentimreváros, Karolina",XI
+11,"Budapest, Kelenföld, Csorbai utca",XI
+12,"Budapest, Sasad",XI
+13,"Budapest, Budafok, Háros utca",XXII
+14,Budapest,II
+15,"Budapest, Krisztinaváros, Városmajor utca",XII
+16,"Budapest, Németvölgy, táltos",XII
+17,"Budapest, Kútvölgy, Kútvölgyi út",XII
+18,"Budapest, Angyalföld, Kisgömb",XIII
+19,"Budapest, Újlipótváros, Pozsonyi út",XIII
+20,"Budapest, Angyalföld, Csata utca",XIII
+21,"Budapest, Újlipótváros, Váci út",XIII
+22,"Budapest, Angyalföld, Béke utca",XIII
+23,"Budapest, Alsórákos, Deés utca",XIV
+24,"Budapest, Rákospalota, Kossuth",XV
+25,"Budapest, Újpalota, Kontyfa utca",XV
+26,"Budapest, Rákospalota",XV
+27,"Budapest, Mátyásföld, Rezgőfű",XVI
+28,"Budapest, Sashalom",XVI
+29,"Budapest, Erzsébetváros, Madách Imre út",VII
+30,"Budapest, Havanna-lakótelep, Havanna utca",XVIII
+31,"Budapest, Rendessytelep, Reviczky",XVIII
+32,"Budapest, Törökőr, Egressy út",XIV
+33,"Budapest, Belső-Ferencváros, Ferenc krt",IX
+34,"Budapest, Belváros, Belgrád Rakpart",V
+35,"Budapest, Belváros, Molnár utca",V
+36,"Budapest, Angyalföld, Tatai ut",XIII
+37,"Budapest, Palotanegyed, Vas",VIII
+38,"Budapest, Orbánhegy, kiss j altb",XII
+39,"Budapest, Lipótváros",V
+40,"Budapest, Terézváros, Izabella",VI
+41,"Budapest, Testvérhegy",III
+42,"Budapest, Erzsébetváros, Osvát utca",VII
+43,"Budapest, Németvölgy",XII
+44,"Budapest, Magdolna negyed, Dankó utca",VIII
+45,"Budapest, Zöldmál, Zöldlomb utca",II
+46,"Budapest, Rózsadomb, Török utca",II
+47,"Budapest, Erzsébetfalva",XX
+48,"Budapest, Víziváros, Ho",II
+49,"Budapest, Erzsébetváros, Erzsébet körút",VII
+50,"Budapest, Törökőr, Handzsár",XIV
+51,"Budapest, Hárshegy, Hárshegyi út",II
+52,"Budapest, Terézváros, Rózsa utca",VI
+53,"Budapest, Megyer",IV
+54,"Budapest, Erzsébetváros, Hársfa utca",VII
+55,"Budapest, Losonci negyed, Jázmin",VIII
+56,"Budapest, Újlipótváros",XIII
+57,"Budapest, Újlipótváros, Visegradi utca",XIII
+58,"Budapest, Terézváros",VI
+59,"Budapest, Középső-Ferencváros, Ernő utca",IX
+60,"Budapest, Corvin negyed, Harminckettesek tere",VIII
+61,"Budapest, Óbuda, Ágoston",III
+62,"Budapest, Belső-Ferencváros, Tompa utca",IX
+63,"Budapest, Újlak, ii",II
+64,"Budapest, Középső-Ferencváros, Fehér Holló",IX
+65,"Budapest, Terézváros, Szív utca",VI
+66,"Budapest, Óbuda, Bogdáni út",III
+67,"Budapest, Békásmegyer, Zsirai Miklós u",III
+68,"Budapest, Óbuda",III
+69,"Budapest, Óbuda, Vörösvári út",III
+70,"Budapest, Erzsébetváros, Nagy Diófa",VII
+71,"Budapest, Belváros, Arany János utca",V
+72,"Budapest, Tisztviselőtelep",VIII
+73,"Budapest, Gloriett telep, Margó Tivadar utca",XVIII
+74,"Budapest, Corvin negyed, József körút",VIII
+75,"Budapest, Középső-Ferencváros",IX
+76,"Budapest, Népszínház negyed, II. Janos Pal papa ter kozeleben",VIII
+77,"Budapest, Vizafogó, Bodor",XIII
+78,"Budapest, Békásmegyer, Ezüsthegy u",III
+79,"Budapest, Terézváros, Káldy Gyula",VI
+80,"Budapest, Herminamező",XIV
+81,"Budapest, Terézváros, Teréz körút",VI
+82,"Budapest, Corvin negyed, Corvin",VIII
+83,"Budapest, Újlipótváros, Szent István krt",XIII
+84,"Budapest, Újpest",IV
+85,"Budapest, Terézváros, Nagymező utca",VI
+86,"Budapest, Rákosfalva, Vezér",XIV
+87,"Budapest, Magdolna negyed, Mátyás tér",VIII
+88,"Budapest, Óbuda, Folyamőr utca",III
+89,"Budapest, Istenhegy",XII
+90,Budapest,VII
+91,"Budapest, Gazdagrét, Torbágy",XI
+92,"Budapest, Belváros, Vaci utca",V
+93,"Budapest, Tátra",XIII
+94,Budapest,XIII
+95,"Budapest, Orczy negyed, Kőris utca",VIII
+96,"Budapest, Gellérthegy, Otthon utca",XI
+97,"Budapest, Svábhegy, Városkúti út",XII
+98,"Budapest, Erzsébetfalva, Török Flóris",XX
+99,Budapest,XIV
+100,"Budapest, Újlipótváros, Radnóti",XIII
+101,"Budapest, Herminamező, Róna utca",XIV
+102,"Budapest, Óhegy, Kelemen utca",X
+103,"Budapest, Terézváros, Szinyei Merse Pál utca",VI
+104,"Budapest, Nagykörúton kívüli terület, Bajza utca",VI
+105,Budapest,VI
+106,"Budapest, Belső-Terézváros, Teréz",VI
+107,"Budapest, Belső-Ferencváros, Lónyay",IX
+108,"Budapest, Szentimreváros, Bartók Béla",XI
+109,"Budapest, Újpest, Nyár utca",IV
+110,Budapest,IV
+111,"Budapest, Angyalföld, Teve utca",XIII
+112,"Budapest, Alsórákos, Szilágysomlyó",XIV
+113,"Budapest, Erzsébetváros, Jobbágy utca",VII
+114,"Budapest, Erzsébetváros",VII
+115,"Budapest, Terézváros, Király",VI
+116,"Budapest, Középső-Ferencváros, Ferenc körút",IX
+117,"Budapest, Középső-Ferencváros, Ráday utca",IX
+118,"Budapest, József Attila-lakótelep, Csengettyű utca",IX
+119,Budapest,XI
+120,"Budapest, Kispest, Zrinyi utca",XIX
+121,"Budapest, Külső-Terézváros - Diplomatanegyed, Jókai",VI
+122,"Budapest, Belső-Terézváros, Eötvös",VI
+123,"Budapest, Terézváros, Bajza utca",VI
+124,"Budapest, Belváros, Vadász utca",V
+125,"Budapest, Corvin negyed, Futó utca",VIII
+126,"Budapest, Budafok - Leányka utcai lakótelep, Leányka",XXII
+127,"Budapest, Józsefváros - Corvinnegyed, Futó",VIII
+128,"Budapest, Víziváros",II
+129,"Budapest, Belváros, Ferenciek tere",V
+130,"Budapest, Víziváros",I
+131,"Budapest, Óbuda-Óváros, Szomolnok",III
+132,"Budapest, Aranyhegy-Ürömhegy-Péterhegy",III
+133,"Budapest, Csatárka, Nagybányai út",II
+134,"Budapest, Víziváros, Horvát utca",II
+135,"Budapest, Kelenföld, Bartók Béla",XI
+136,"Budapest, Krisztinaváros, Krisztina",I
+137,"Budapest, Felhévíz, Margit",II
+138,"Budapest, Lágymányos, Bercsényi utca",XI
+139,"Budapest, Külső-Terézváros, Izabella",VI
+140,"Budapest, Józsefváros - Palotanegyed, Szentkirályi",VIII
+141,"Budapest, Rómaifürdő, Sulyok",III
+142,"Budapest, Csarnok negyed, Rákóczi tér",VIII
+143,"Budapest, Vizafogó, víza",XIII
+144,"Budapest, Rómaifürdő, Királyok útja",III
+145,"Budapest, Lipótváros, Zoltán",V
+146,"Budapest, Lipótváros, Szentistván körút",V
+147,"Budapest, Külső-Erzsébetváros - Ligetváros, Peterdy",VII
+148,"Budapest, Belső-Erzsébetváros, Peterdy",VII
+149,"Budapest, Józsefváros - Csarnoknegyed, Fecske",VIII
+150,"Budapest, Külső-Erzsébetváros - Ligetváros, Sajó",VII
+151,"Budapest, Erzsébetváros, Nefelejcs utca",VII
+152,"Budapest, Erzsébetváros, Wesselényi utca",VII
+153,"Budapest, Terézváros, Rippl-róna",VI
+154,"Budapest, Belső-Terézváros, Mozsár",VI
+155,"Budapest, Belső-Terézváros, Nagymező",VI
+156,"Budapest, Külső-Erzsébetváros - Ligetváros, István",VII
+157,"Budapest, Terézváros, Jókai tér",VI
+158,"Budapest, Vizafogó, Turóc",XIII
+159,"Budapest, Újlipótváros, Szent István",XIII
+160,"Budapest, Újlipótváros, Balzac",XIII
+161,"Budapest, Újlipótváros, Kárpát",XIII
+162,"Budapest, Újlipótváros, Bessenyei",XIII
+163,"Budapest, Újlipótváros, Herzen",XIII
+164,Budapest,XII
+165,"Budapest, Németvölgy, Böszörményi út",XII
+166,"Budapest, Virányos, Dániel út",XII
+167,"Budapest, Kútvölgy, György Aladár",XII
+168,"Budapest, Krisztinaváros, Márvány",XII
+169,"Budapest, Krisztinaváros - Városmajor, Városmajor",XII
+170,"Budapest, Istenhegy, Istenhegyi",XII
+171,"Budapest, Alsórákos, Répásy Mihály",XIV
+172,"Budapest, Kelenföld, Rozsnyó",XI
+173,"Budapest, Gyárdűlő, Balkán utca",X
+174,"Budapest, Belső-Ferencváros, Gát utca",IX
+175,"Budapest, Gyárdűlő, Kékvirág utca",X
+176,"Budapest, Lőportárdűlő",XIII
+177,"Budapest, Belső-Ferencváros, Üllői út",IX
+178,"Budapest, Belváros, Városház u",V
+179,"Budapest, Alsórákos",XIV
+180,"Budapest, Herminamező, Erzsébet királyné útja",XIV
+181,"Budapest, Erzsébetváros, Dohány utca",VII
+182,"Budapest, Erzsébetváros, Marek József",VII
+183,"Budapest, Palotanegyed, Baross utca",VIII
+184,"Budapest, Belső-Ferencváros, Drégely utca",IX
+185,"Budapest, Népszínház negyed, Nagy Fuvaros utca",VIII
+186,"Budapest, Corvin negyed",VIII
+187,"Budapest, Kelenföld",XI
+188,"Budapest, Kiszugló",XIV
+189,"Budapest, Óbuda, Kenyeres utca",III
+190,"Budapest, Újlipótváros, Visegrádi utca",XIII
+191,"Budapest, Mátyásföld, Koronafürt",XVI
+192,"Budapest, Erzsébetváros, Akácfa",VII
+193,"Budapest, Lágymányos, bolcso",XI
+194,"Budapest, Belső-Ferencváros, Corvin negyed /Üllői út",IX
+195,"Budapest, Rákoskeresztúr",XVII
+196,"Budapest, Erzsébetváros, Király utca Izabella utca sarok",VII
+197,"Budapest, Téglagyárdűlő, Kőér utca",X
+198,"Budapest, Széphalom, Hidegkúti út",II
+199,"Budapest, Aranyhegy-Ürömhegy-Péterhegy, Bécsi",III
+200,"Budapest, Újpalota, arany jános",XV
+201,"Budapest, Lipótváros, alkotmÁny utca",V
+202,"Budapest, Erzsébetváros, Rottenbiller",VII
+203,"Budapest, Lágymányos, Bölcső utca",XI
+204,"Budapest, Lágymányos, Egry József utca",XI
+205,"Budapest, Lágymányos",XI
+206,"Budapest, Kelenföld, Andor utca",XI
+207,"Budapest, Terézváros, Andrássy",VI
+208,"Budapest, Terézváros, Andrássy út",VI
+209,"Budapest, Terézváros, Vasvári P. u",VI
+210,"Budapest, Külső-Terézváros, Aradi",VI
+211,"Budapest, Angyalföld, Csángó utca",XIII
+212,"Budapest, Angyalföld, Kartács",XIII
+213,"Budapest, Angyalföld",XIII
+214,"Budapest, Angyalföld, Övezet utca",XIII
+215,"Budapest, Angyalföld, Üteg utca",XIII
+216,"Budapest, Bank negyed, Apáczai Csere János utca",V
+217,"Budapest, Törökőr, Fogarasi",XIV
+218,"Budapest, Erzsébetváros, Thököly út",VII
+219,"Budapest, Aquincum, Amfiteátrum",III
+220,"Budapest, Terézváros, Bajcsy Zsilinszky út",VI
+221,"Budapest, Angyalföld, Angyalföldi út",XIII
+222,"Budapest, Angyalföld, Róbert Károly körút",XIII
+223,"Budapest, Vizafogó, Párkány utca",XIII
+224,"Budapest, Árpádföld",XVI
+225,"Budapest, Belváros",V
+226,"Budapest, Palotanegyed, Szentkirályi utca",VIII
+227,"Budapest, Wekerletelep, Zoltán utca",XIX
+228,"Budapest, Gellérthegy, Gellérthegy",I
+229,"Budapest, Belváros, Zoltán utca",V
+230,"Budapest, Belső-Terézváros, Szív",VI
+231,"Budapest, Óbuda hegyvidéke, Perényi út",III
+232,"Budapest, Krisztinaváros, Mészáros utca",I
+233,"Budapest, Víziváros, Batthyány",I
+234,"Budapest, Krisztinaváros - Naphegy, Csap",I
+235,"Budapest, Angyalföld, Váci Út",XIII
+236,"Budapest, Óbuda, Laktanya utca",III
+237,"Budapest, Belső-Terézváros, Jókai",VI
+238,"Budapest, Lipótváros, Kálmán Imre utca",V
+239,"Budapest, Belváros, Honvéd",V
+240,"Budapest, Belváros, Nagysándor József",V
+241,"Budapest, Orczy negyed",VIII
+242,"Budapest, Csepel-Belváros, Kossuth Lajos utca",XXI
+243,"Budapest, Belbuda -Krisztinaváros, Márvány utca",XII
+244,"Budapest, Középső-Ferencváros, Angyal utca",IX
+245,"Budapest, Budafok",XXII
+246,"Budapest, Tabán, Zsolt utca",I
+247,"Budapest, Istenhegy, Sólyom",XII
+248,"Budapest, Lágymányos, Erőmű utca",XI
+249,"Budapest, Belső-Ferencváros, Ráday",IX
+250,Budapest,VIII
+251,"Budapest, Németvölgy, bán utca",XII
+252,"Budapest, Orczy negyed, Köris utca",VIII
+253,"Budapest, Németvölgy, Táltos utva",XII
+254,"Budapest, Szépilona",II
+255,Budapest,IX
+256,"Budapest, Pasarét, Lotz Károly utca",II
+257,"Budapest, Belső-Ferencváros, Bakáts tér",IX
+258,"Budapest, Újlipótváros, Balzac u",XIII
+259,"Budapest, Víziváros, Batthyány utca",I
+260,"Budapest, Terézváros, Révay utca",VI
+261,"Budapest, Békásmegyer, Hollós Korvin",III
+262,"Budapest, Angyalföld, Reitter Ferenc utca",XIII
+263,"Budapest, Víziváros, Toldy utca",I
+264,"Budapest, Palotanegyed, Kölcsey utca",VIII
+265,"Budapest, Belváros, Belgrád rakpart",V
+266,"Budapest, Belső-Ferencváros, Viola",IX
+267,"Budapest, Terézváros, munkÁcsy m. utca",VI
+268,"Budapest, Belső-Terézváros, Weiner Leó",VI
+269,"Budapest, Belső-Ferencváros, Haller",IX
+270,"Budapest, Belváros, Váci utca",V
+271,"Budapest, Magdolna negyed, Nagyfuvaros utca",VIII
+272,Budapest,V
+273,"Budapest, Lipótváros, Kálmán imre",V
+274,"Budapest, Erzsébetváros, Nagy diófa utca",VII
+275,"Budapest, Népszínház negyed, Kiss József utca",VIII
+276,"Budapest, Lágymányos, Budafoki út",XI
+277,"Budapest, Belváros, Károly krt",V
+278,"Budapest, Corvin negyed, Baross utca",VIII
+279,"Budapest, Terézváros, Szondi",VI
+280,"Budapest, Terézváros, Weiner Leo",VI
+281,"Budapest, Belváros, Városház",V
+282,"Budapest, Palotanegyed, Krúdy",VIII
+283,"Budapest, Erzsébetváros, Rózsa utca",VII
+284,"Budapest, Erzsébetváros, Rákóczi út",VII
+285,"Budapest, Belváros, Podmaniczky Frigyes tér",V
+286,"Budapest, Lipótváros, Bajcsy Zsilinszky utca",V
+287,"Budapest, Terézváros, Podmaniczky u",VI
+288,"Budapest, Víziváros I. ker, Bem rkp",I
+289,"Budapest, Terézváros, Benczúr utca",VI
+290,"Budapest, Lipótváros, Szomory Dezső",V
+291,"Budapest, Újpalota, Erdőkerülő",XV
+292,"Budapest, Erzsébetváros, Dembinszky",VII
+293,"Budapest, Kispest",XIX
+294,"Budapest, Lágymányos, Bertalan Lajos utca",XI
+295,"Budapest, Kelenföld, Bocskai ut",XI
+296,"Budapest, Kelenföld, Etele út",XI
+297,"Budapest, Törökvész, Bimbó út",II
+298,"Budapest, Erzsébetváros, Dózsa György",VII
+299,"Budapest, Palotanegyed, József körút",VIII
+300,"Budapest, Erzsébetváros, Hársfa",VII
+301,"Budapest, Alsórákos, Komócsy u",XIV
+302,"Budapest, Budatétény, Tűzliliom utca",XXII
+303,"Budapest, Lágymányos, Fehérvári út",XI
+304,"Budapest, Rákosfalva, Füredi",XIV
+305,"Budapest, Óbuda, Szőlő utca",III
+306,"Budapest, Pasarét, Szilágyi E. Fasor",II
+307,"Budapest, Középső-Ferencváros, Mester",IX
+308,"Budapest, József Attila-lakótelep, Ifjúmunkás",IX
+309,"Budapest, Terézváros, VI. Ker. Izabella",VI
+310,"Budapest, Angyalföld, Botond u",XIII
+311,"Budapest, Mártonhegy, Bürök utca",XII
+312,"Budapest, Kiszugló, Wass Albert tér",XIV
+313,"Budapest, Nagyzugló",XIV
+314,"Budapest, Kispest, Zrinyi u",XIX
+315,"Budapest, Palotanegyed, Bródy Sándor utca",VIII
+316,"Budapest, Felhévíz, Frankel Leó út",II
+317,"Budapest, Krisztinaváros",I
+318,"Budapest, Krisztinaváros",XII
+319,"Budapest, Lágymányos, Bornemissza tér",XI
+320,"Budapest, Budafok, Vihar utca",XXII
+321,"Budapest, Baross Gábor-telep",XXII
+322,"Budapest, Kelenföld, Alíz utca",XI
+323,"Budapest, Felhévíz",II
+324,"Budapest, Rózsadomb, Ferenchegyi út",II
+325,"Budapest, Kurucles, Budakeszi",II
+326,"Budapest, Virányos, Zalai",XII
+327,"Budapest, Kelenvölgy, Hunyadi Mátyás út",XI
+328,"Budapest, Sasad, Beregszász út",XI
+329,Budapest,X
+330,"Budapest, Vizafogó, Pannonia utca",XIII
+331,"Budapest, Nagyzugló, Fischer István utca",XIV
+332,"Budapest, Budakeszierdő, Lejtő útca",XII
+333,"Budapest, Angyalföld, Csongor utca 5",XIII
+334,"Budapest, Újlipótváros, Lehel u",XIII
+335,"Budapest, Alsórákos, Telepes utca",XIV
+336,"Budapest, Erzsébettelep, Örs utca",XVIII
+337,"Budapest, Rózsadomb, Vérhalom",II
+338,"Budapest, Belváros, Nyugati tér",V
+339,"Budapest, Erzsébetváros, Alsó erdősor utca",VII
+340,"Budapest, Palotanegyed, Mária utca",VIII
+341,"Budapest, Szent Imre kertváros, Kappel Emília",XVIII
+342,"Budapest, Angyalföld, Frangepán",XIII
+343,"Budapest, Óbuda, Bécsi út",III
+344,"Budapest, Víziváros, Bajvívó utca",II
+345,"Budapest, Belső-Ferencváros, Telepy u",IX
+346,"Budapest, Belső-Ferencváros, Tompa",IX
+347,"Budapest, Középső-Ferencváros, Márton",IX
+348,"Budapest, Középső-Ferencváros, Márton út",IX
+349,"Budapest, Gellérthegy, Budapest",I
+350,"Budapest, Vizafogó, Róbert Károly krt",XIII
+351,"Budapest, Erzsébetváros, Madács Imre út",VII
+352,Budapest,VI
+353,"Budapest, Terézváros, Podmaniczky utca",VI
+354,"Budapest, Belváros, Sas",V
+355,"Budapest, Svábhegy, Kikelet",XII
+356,"Budapest, Nagyzugló, Budapest Róna u",XIV
+357,"Budapest, Sasad, Raho",XI
+358,"Budapest, Sasad, Pannonhalmi út",XI
+359,"Budapest, Pacsirtatelep",XX
+360,"Budapest, Óbuda, Selmeci",III
+361,"Budapest, Törökvész, Endrődi Sándor utca",II
+362,"Budapest, Erzsébetváros, Csányi utca",VII
+363,"Budapest, Csarnok negyed, Fecske utca",VIII
+364,"Budapest, Krisztinaváros, Attila út",I
+365,"Budapest, Nagykörúton belüli terület, Nagymező utca",VI
+366,"Budapest, Belváros, Veres Pálné",V
+367,"Budapest, Corvin negyed, Szigony",VIII
+368,"Budapest, Nagykörúton belüli terület, Dohány utca",VII
+369,"Budapest, Nagykörúton kívüli terület, Damjanich utca",VII
+370,"Budapest, Kelenföld, Hamzsabégi út",XI
+371,"Budapest, Angyalföld, Lehel",XIII
+372,"Budapest, Felsőrákos, Gyakorló utca",X
+373,"Budapest, Káposztásmegyer, Farkaserdő",IV
+374,"Budapest, Felsőrákos",X
+375,"Budapest, Pösingermajor",XI
+376,"Budapest, Újlipótváros, Bessenyei u",XIII
+377,"Budapest, Népszínház negyed, Teleki tér",VIII
+378,"Budapest, Újlipótváros, Tutaj",XIII
+379,"Budapest, Corvin negyed, Nap utca",VIII
+380,"Budapest, Orczy negyed, Kálvária tér",VIII
+381,"Budapest, Corvin negyed, Práter utca",VIII
+382,"Budapest, Losonci negyed, Szigony u",VIII
+383,"Budapest, Losonci negyed, Szigony utca",VIII
+384,"Budapest, Corvin negyed, Nap",VIII
+385,"Budapest, Belső-Ferencváros",IX
+386,"Budapest, Belső-Ferencváros, Közraktár utca",IX
+387,"Budapest, Újlak, Harcsa utca",II
+388,"Budapest, Nagyzugló, Bagolyvár utca",XIV
+389,"Budapest, Orbánhegy - Mártonhegy - Farkasrét, Dobsinai utca",XII
+390,"Budapest, Albertfalva, Sáfrány",XI
+391,"Budapest, Kaszásdűlő, Gyógyszergyár",III
+392,"Budapest, Kaszásdűlő, Gyógyszergyár u",III
+393,"Budapest, Békásmegyer, Óbor utca",III
+394,"Budapest, Víziváros II. ker",II
+395,"Budapest, Országút, Margit körút",II
+396,"Budapest, Erzsébetliget, Erőd utca",II
+397,"Budapest, Mátyásföld, Kolozs u",XVI
+398,"Budapest, Őrmező, Kérő utca",XI
+399,"Budapest, Kelenföld, Bartók Béla út",XI
+400,"Budapest, Krisztinaváros, Pálya u",I
+401,"Budapest, Lágymányos, Baranyai",XI
+402,"Budapest, Csepel-Gyártelep, II. Rákóczi Ferenc utca",XXI
+403,"Budapest, Csepel-Királymajor, Dunadűlő",XXI
+404,"Budapest, Csepel-Csillagtelep, Akácfa u",XXI
+405,"Budapest, Csepel-Belváros, Tanműhely köz",XXI
+406,"Budapest, Csillaghegy",III
+407,"Budapest, Víziváros, Kapás u",II
+408,"Budapest, Orbánhegy, Csorna utca",XII
+409,"Budapest, Terézváros, Káldy Gyula utca",VI
+410,"Budapest, Krisztinaváros, Böszörményi út",XII
+411,"Budapest, Belváros, Hercegprímás utca",V
+412,"Budapest, Bank negyed, Hercegprímás utca",V
+413,"Budapest, Bel-Buda, Csalogány utca",II
+414,"Budapest, Kútvölgy, Diós árok",XII
+415,"Budapest, Orczy negyed, Diószegi utca",VIII
+416,"Budapest, Erzsébetváros, Dob utca",VII
+417,"Budapest, Külső-Erzsébetváros - Ligetváros, Dózsa György",VII
+418,"Budapest, Víziváros, Fő",II
+419,"Budapest, Bank negyed, Belgrád rakpart",V
+420,"Budapest, Erzsébetváros, Bethlen Gábor tér",VII
+421,"Budapest, Újlipótváros, Visegradi",XIII
+422,"Budapest, Pacsirtatelep, kuruc",XX
+423,"Budapest, Lágymányos, Irinyi József utca",XI
+424,"Budapest, Pesthidegkút-Ófalu, Gercse u",II
+425,"Budapest, Lipótváros, Bihari János utca",V
+426,"Budapest, Gazdagrét",XI
+427,"Budapest, Józsefváros - Csarnoknegyed, József",VIII
+428,"Budapest, Óbuda, Kiscelli köz",III
+429,"Budapest, Lipótváros, Nagy Ignác utca",V
+430,"Budapest, Erzsébetváros, Erzsébet krt",VII
+431,"Budapest, Szentimreváros",XI
+432,"Budapest, Kelenföld, Etele",XI
+433,"Budapest, Bel-Buda",II
+434,Budapest,I
+435,"Budapest, Belváros, Havas",V
+436,"Budapest, Belváros, Falk Miksa",V
+437,"Budapest, Lipótváros, Falk Miksa utca",V
+438,"Budapest, Középső Erzsébetváros, Király utca",VII
+439,"Budapest, Újlipótváros, Tátra utca",XIII
+440,"Budapest, Angyalföld, Mosoly",XIII
+441,"Budapest, Rózsadomb, Felvinci utca",II
+442,"Budapest, Víziváros, Varsányi",II
+443,"Budapest, Istvánmező, Ilka utca",XIV
+444,"Budapest, Óbuda, Kerék utca",III
+445,"Budapest, Középső-Erzsébetváros, Erzsébet",VII
+446,"Budapest, Szemlőhegy, szeréna u",II
+447,"Budapest, Kelenföld, Hadak útja",XI
+448,"Budapest, Újpest, Árpád út",IV
+449,"Budapest, Palotanegyed, jozsef korut",VIII
+450,"Budapest, Városliget, Dózsa György út",XIV
+451,"Budapest, Népszínház negyed, Brauer Sándor",VIII
+452,"Budapest, Kispest, Zrínyi u",XIX
+453,"Budapest, Rákoskeresztúr, Pesti út",XVII
+454,"Budapest, Szentimreváros, Vincellér utca",XI
+455,"Budapest, Szentimreváros, Edömér utca",XI
+456,"Budapest, Belső-Ferencváros, Ráday utca",IX
+457,"Budapest, Belső-Ferencváros, Ferenc körút",IX
+458,"Budapest, Terézváros, Székely Bertalan",VI
+459,"Budapest, Terézváros, Felső Erdősor",VI
+460,"Budapest, Szemlőhegy, Szemlőhegy utca",II
+461,"Budapest, Nagyzugló, Bolgárkertész u",XIV
+462,"Budapest, József Attila-lakótelep",IX
+463,"Budapest, Óbuda, Szőlő köz",III
+464,"Budapest, Orbánhegy, Fodor utca",XII
+465,"Budapest, Újlak, Folyondár utca",III
+466,"Budapest, Kelenföld, Forrás utca",XI
+467,"Budapest, Újpest, Fóti út",IV
+468,"Budapest, Víziváros, kapás utca",II
+469,"Budapest, Gellérthegy, Villányi út",XI
+470,"Budapest, Külső-Ferencváros, Viola",IX
+471,"Budapest, Istenhegy, Rőzse",XII
+472,"Budapest, Palotanegyed, Rökk Szilárd utca",VIII
+473,"Budapest, Magdolna negyed, Teleki László tér",VIII
+474,"Budapest, Rehabilitációs terület",IX
+475,"Budapest, Rákosfalva, Füredi utca",XIV
+476,"Budapest, Rózsadomb, Palánta",II
+477,"Budapest, Józsefváros",VIII
+478,"Budapest, Külső VI",VI
+479,"Budapest, Erzsébetváros, Garay tér",VII
+480,"Budapest, Törökvész, Gárdonyi Géza út",II
+481,"Budapest, Péterhegy, Kapolcs",XI
+482,"Budapest, Óbuda, Lajos utca",III
+483,"Budapest, Belső-Ferencváros, Kálvin tér",IX
+484,"Budapest, Országút, Lövôház utca",II
+485,"Budapest, Újpest, Berda József utca",IV
+486,"Budapest, Gellérthegy, Ménesi út",XI
+487,"Budapest, Újhegy",X
+488,"Budapest, Krisztinaváros, Greguss utca",XII
+489,"Budapest, Nagyzugló, Kaffka Margit",XIV
+490,"Budapest, Rákosfalva, Ond vezér útja",XIV
+491,"Budapest, Krisztinaváros, Pálya",I
+492,Budapest,IX
+493,"Budapest, Orbánhegy, Gyimes utca",XII
+494,"Budapest, Nagyzugló, Mogyoródi út",XIV
+495,"Budapest, Várnegyed, Hunyadi János út",I
+496,"Budapest, Lágymányos, Karinthy Frigyes út",XI
+497,"Budapest, József Attila-lakótelep, Aranyvirág sétány",IX
+498,"Budapest, Műegyetem környéke",XI
+499,"Budapest, Belső-Ferencváros, Haller utca",IX
+500,"Budapest, Terézváros, Székely Bertalan u",VI
+501,"Budapest, Sashegy",XII
+502,"Budapest, Törökőr, Bároczy",XIV
+503,"Budapest, Csarnok negyed, Harminckettesek tere",VIII
+504,"Budapest, Kelenföld, Tétényi",XI
+505,"Budapest, Rómaifürdő",III
+506,"Budapest, Kissvábhegy, Határőr út",XII
+507,"Budapest, Alsórákos, Komócsy",XIV
+508,"Budapest, Erzsébetváros, Hernád",VII
+509,"Budapest, Nagykörúton belüli terület, Holló utca 9",VII
+510,"Budapest, Lipótváros, Szemere utca",V
+511,"Budapest, Kispest, kispest",XIX
+512,"Budapest, Szépilona, Hűvösvölgyi",II
+513,"Budapest, Külső-Terézváros - Diplomatanegyed, Rippl Rónai",VI
+514,"Budapest, Józsefváros - Magdolnanegyed, Mátyás",VIII
+515,"Budapest, Középső-Ferencváros, Haller utca",IX
+516,"Budapest, Budatétény, Tűzliliom u",XXII
+517,"Budapest, Budatétény, Rózsakert lakótelep",XXII
+518,"Budapest, Kelenvölgy, Hunyadi Mátyás utca",XI
+519,"Budapest, Aquincum",III
+520,"Budapest, Óbuda, Tímár u",III
+521,"Budapest, Újlak, Seregély",III
+522,"Budapest, Budaliget",II
+523,"Budapest, Orczy negyed, illés",VIII
+524,"Budapest, Csillaghegy, Kiscsillag u",III
+525,"Budapest, Kurucles, Tárogató út",II
+526,"Budapest, Pálvölgy, Pálvölgyben",II
+527,"Budapest, Józsefváros - Népszínháznegyed, Népszínház",VIII
+528,"Budapest, Népszínház negyed, II. János Pál pápa tér",VIII
+529,"Budapest, Csatárka, Ruthén utca",II
+530,"Budapest, Országút, Nyúl utca",II
+531,"Budapest, Zöldmál, Szépvölgyi út",II
+532,"Budapest, Újlak, Felhévízi utca",II
+533,"Budapest, Országút, Garas utca",II
+534,"Budapest, Országút, Lövőház utca",II
+535,"Budapest, Rózsadomb, Eszter utca",II
+536,"Budapest, Rózsadomb, Szeréna út",II
+537,"Budapest, Törökvész",II
+538,"Budapest, Országút",II
+539,"Budapest, Vérhalom",II
+540,"Budapest, Máriaremete",II
+541,"Budapest, Remetekertváros",II
+542,"Budapest, Pasarét",II
+543,"Budapest, Hárshegy",II
+544,"Budapest, Országút, Frankel Leó út",II
+545,"Budapest, Országút, Szilágyi Erzsébet fasor",II
+546,"Budapest, Víziváros, Horvát",II
+547,"Budapest, Újpest, Attila utca",IV
+548,"Budapest, Újpest, Károlyi István",IV
+549,"Budapest, Külső-Ferencváros",IX
+550,"Budapest, Belső-Ferencváros, Bokréta",IX
+551,"Budapest, József Attila-lakótelep, Epreserdő u",IX
+552,"Budapest, Középső-Ferencváros, Haller",IX
+553,"Budapest, Belső-Ferencváros, Ipar utca",IX
+554,"Budapest, Középső-Ferencváros, Márton u",IX
+555,"Budapest, Középső-Ferencváros, Mihálkovics",IX
+556,"Budapest, Középső-Ferencváros, Nagyvárad tér",IX
+557,"Budapest, József Attila-lakótelep, Napfény",IX
+558,"Budapest, Középső-Ferencváros, Sobieski",IX
+559,"Budapest, Belső-Ferencváros, Üllői út - Kálvin tér",IX
+560,"Budapest, Középső-Ferencváros, Thally",IX
+561,"Budapest, Belső-Ferencváros, Bokréta utca",IX
+562,"Budapest, Belső-Ferencváros, Mester utca",IX
+563,"Budapest, Belső Ferencváros, Bakáts tér",IX
+564,"Budapest, Belső-Ferencváros, Vágóhíd utca",IX
+565,"Budapest, Belső-Ferencváros, Vaskapu utca",IX
+566,"Budapest, Krisztinaváros I. ker, Kuny Domokos u",I
+567,"Budapest, Gellérthegy, Mihály",I
+568,"Budapest, Vár, Várfok utca",I
+569,"Budapest, Vár, Országház utca",I
+570,"Budapest, Vár, hunyadi",I
+571,"Budapest, Vár",I
+572,"Budapest, Vár, Tárnok utca",I
+573,"Budapest, Naphegy",I
+574,"Budapest, Krisztinaváros, Csap utca",I
+575,"Budapest, Víziváros, attila út",I
+576,"Budapest, Belső Erzsébetváros, Wesselényi utca",VII
+577,"Budapest, Rózsadomb, Apostol",II
+578,"Budapest, Belső Erzsébetváros, Erzsébet körút",VII
+579,"Budapest, Orczy negyed, Szeszgyár utca",VIII
+580,"Budapest, Lipótváros, Szent István körút",V
+581,"Budapest, Nagyzugló, Szervián utca",XIV
+582,"Budapest, Óbuda, Pacsírta mező utca",III
+583,"Budapest, Belső-Ferencváros, Hőgyes Endre utca",IX
+584,"Budapest, Csepel-Belváros",XXI
+585,"Budapest, Rákosfalva, Csertő utca",XIV
+586,"Budapest, Óhegy, Szőlőhegy",X
+587,"Budapest, Újpest, Reviczky utca",IV
+588,"Budapest, Erzsébetváros, Verseny",VII
+589,"Budapest, Orczy negyed, Illés",VIII
+590,"Budapest, Újlipótváros, Lehel utca",XIII
+591,"Budapest, Németvölgy, Ugocsa utca",XII
+592,"Budapest, Belváros, Balassi Bálint utca",V
+593,"Budapest, Belső VI, Paulay Ede utca",VI
+594,"Budapest, Józsefváros - Palotanegyed, Krúdy",VIII
+595,"Budapest, Újlipótváros, Hollán Ernő",XIII
+596,Budapest,VIII
+597,"Budapest, Istenhegy, Rőzse utca",XII
+598,"Budapest, Csarnok negyed, József körút",VIII
+599,"Budapest, Törökőr",XIV
+600,"Budapest, Külső VI, Andrássy út",VI
+601,"Budapest, Középső-Erzsébetváros, Alsó erdősor",VII
+602,"Budapest, Belső-Terézváros, Oktogon",VI
+603,"Budapest, Belső Erzsébetváros, Rákóczi út",VII
+604,"Budapest, Vizafogó, Váci",XIII
+605,"Budapest, Középső-Ferencváros, Bokréta",IX
+606,"Budapest, Tabán",I
+607,"Budapest, Káposztásmegyer, Farkaserdő utca",IV
+608,"Budapest, Kiszugló, Kassai tér",XIV
+609,"Budapest, Kaszásdűlő, Szérűskert utca",III
+610,"Budapest, Országút, Keleti Károly utca",II
+611,"Budapest, Erzsébetváros, Nefelejcs",VII
+612,"Budapest, Törökőr, Újvilág utcában",XIV
+613,"Budapest, Erzsébetváros, Murányi",VII
+614,"Budapest, Belváros, Kecskeméti utca",V
+615,"Budapest, Terézváros, Vörösmarty",VI
+616,"Budapest, Sasad, Bodajk",XI
+617,Budapest,XX
+618,"Budapest, Kőbánya-Kertváros, Harmat utca",X
+619,"Budapest, Óbuda, Kecske u",III
+620,"Budapest, Terézváros, Mozsár utca",VI
+621,"Budapest, Nagyzugló, Róna utca",XIV
+622,"Budapest, Corvin negyed, Corvin sétány",VIII
+623,"Budapest, Terézváros, podmaniczki",VI
+624,"Budapest, Terézváros, andrÁssy Út",VI
+625,"Budapest, Nagyzugló, Padlizsán",XIV
+626,"Budapest, Erzsébetváros, Hernád utca",VII
+627,"Budapest, Angyalföld, Reitter Ferenc",XIII
+628,"Budapest, Krepuska Géza-telep, Nyárfás sor",XVIII
+629,"Budapest, Angyalföld, Roppentyu",XIII
+630,"Budapest, Alsórákos, Szatmár utca",XIV
+631,"Budapest, Belső-Ferencváros, Lónyai utca",IX
+632,"Budapest, Terézváros, Bajcsy-Zsilinszky út",VI
+633,"Budapest, Mártonhegy",XII
+634,"Budapest, Terézváros, Sziv utca",VI
+635,"Budapest, Lónyaytelep, Mikszáth Kálmán utca",XVIII
+636,"Budapest, Miklóstelep, Ráday Gedeon utca",XVIII
+637,"Budapest, Csarnok negyed, Német utca",VIII
+638,"Budapest, Rákosfalva, Ond vezér park",XIV
+639,"Budapest, Rákosszentmihály",XVI
+640,"Budapest, Szent Lőrinc-lakótelep",XVIII
+641,"Budapest, Erzsébetfalva, Helsinki",XX
+642,"Budapest, Újlipótváros, Radnóti Miklós utca",XIII
+643,"Budapest, Istenhegy, Óra út",XII
+644,"Budapest, Víziváros I. ker, Lánchíd utca",I
+645,"Budapest, Belváros, Nyáry Pál utca",V
+646,"Budapest, Angyalföld, Tomori köz",XIII
+647,"Budapest, Lágymányos, Irinyi József",XI
+648,"Budapest, Lágymányos, Szerémi út",XI
+649,"Budapest, Békásmegyer",III
+650,"Budapest, Törökőr, Tábornok utca",XIV
+651,"Budapest, Kelenföld, Pajkos",XI
+652,"Budapest, Kútvölgy",XII
+653,"Budapest, Angyalföld, Béke",XIII
+654,"Budapest, Középső-Ferencváros, Soroksári út",IX
+655,"Budapest, Erzsébetfalva, Bányász út",XX
+656,"Budapest, Vár, Donáti utca",I
+657,"Budapest, Terézváros, Szív u",VI
+658,"Budapest, Rózsadomb, Palánta utca",II
+659,"Budapest, Mátyásföld, Hunyadvár",XVI
+660,"Budapest, Újpest, Baross utca",IV
+661,"Budapest, Újlipótváros, Kresz Géza utca",XIII
+662,"Budapest, Losonci negyed, Leonardo da vinci köz",VIII
+663,"Budapest, Lágymányos, Bartok Bela ut",XI
+664,"Budapest, Középső-Ferencváros, Tompa",IX
+665,"Budapest, Erzsébetváros, Izabella utca",VII
+666,"Budapest, Víziváros, Margit Krt",II
+667,"Budapest, Laposdűlő, állomás utca",X
+668,"Budapest, Lipótváros, Kálmán Imre utca 25",V
+669,"Budapest, Magdolna negyed, Lujza utca",VIII
+670,"Budapest, Albertfalva, Kondorosi út",XI
+671,"Budapest, Aquincum, Vízimolnár köz",III
+672,"Budapest, Törökőr, Hungária krt",XIV
+673,"Budapest, Óbuda, Bécsi u",III
+674,"Budapest, Angyalföld, József Attila tér",XIII
+675,"Budapest, Újpest, Deák Ferenc utca",IV
+676,"Budapest, Széchenyihegy, Pipiske utca",XII
+677,"Budapest, Újlipótváros, Pannónia utca",XIII
+678,"Budapest, Békásmegyer, Lukács György",III
+679,"Budapest, Árpádföld, Bóbitás út",XVI
+680,"Budapest, Rózsadomb, Kitaibel Pál Utca",II
+681,"Budapest, Vár, Hunyadi János út",I
+682,"Budapest, Gyárdűlő, Balkán u",X
+683,"Budapest, Gubacs, Téglagyártó",XX
+684,"Budapest, Terézváros, Aradi utca",VI
+685,"Budapest, Víziváros, Erőd utca",II
+686,"Budapest, Lipótváros, Honvéd utca",V
+687,"Budapest, Lipótváros, Hold utca",V
+688,"Budapest, Belváros, Bajcsy-Zsilinszky út",V
+689,"Budapest, Törökvész, Törökvész út",II
+690,"Budapest, Víziváros, Kandó Kálmán",II
+691,"Budapest, Krisztinaváros, Magyar Jakobinusok tere",XII
+692,"Budapest, Erzsébetváros, Wesselényi",VII
+693,"Budapest, Erzsébetváros, Rumbach Sebestyén tca",VII
+694,"Budapest, Víziváros, Vám utca",I
+695,"Budapest, Terézváros, Lehel utca",VI
+696,"Budapest, Rózsadomb, Rómer Flóris",II
+697,"Budapest, Sasad, Rahó utca",XI
+698,"Budapest, Felhévíz, Harcsa",II
+699,"Budapest, Újpest, Irányi Dániel utca",IV
+700,"Budapest, Újpest, Virág",IV
+701,"Budapest, Víziváros, CSalogány",II
+702,"Budapest, Kispest, Csokonai utca",XIX
+703,"Budapest, Újlipótváros, Újpeszi rakpart",XIII
+704,"Budapest, Albertfalva, Fehérvári út",XI
+705,"Budapest, Palotanegyed, Krúdy utca",VIII
+706,"Budapest, Erzsébetváros, Rákóczi út",VII
+707,"Budapest, Lipótváros, Bajcsy-Zsilinszky út",V
+708,"Budapest, Németvölgy, Koszta József u",XII
+709,"Budapest, Erzsébetváros, Király",VII
+710,"Budapest, Csepel-Királymajor, Katona Jozsef utca",XXI
+711,"Budapest, Angyalföld, Pap Károly utca",XIII
+712,"Budapest, Angyalföld, Jász utca",XIII
+713,"Budapest, Rákosfalva, Gvadanyi Utca",XIV
+714,"Budapest, Újlipótváros, Hegedűs Gyula utca",XIII
+715,"Budapest, Vizafogó, Viza utca",XIII
+716,"Budapest, Istvánmező",XIV
+717,Budapest,XVIII
+718,"Budapest, Táborhegy, Laborc utca",III
+719,"Budapest, Belváros, Alkotmány utca",V
+720,"Budapest, Lipótváros, Szent István tér",V
+721,"Budapest, Belváros, Fővám tér",V
+722,"Budapest, Nagykörúton belüli terület, Liszt Ferenc tér",VI
+723,"Budapest, Diplomatanegyed",VI
+724,"Budapest, Nagykörúton belüli terület",VI
+725,"Budapest, Terézváros, Lovag",VI
+726,"Budapest, Belső Ferencváros, Köztelek utca",IX
+727,"Budapest, Rehabilitációs terület IX. ker",IX
+728,"Budapest, Békásmegyer, Pünkösdfürdő utca",III
+729,"Budapest, Budapest III. kerület, Kiscelli köz",III
+730,"Budapest, Óbuda, Raktár utca",III
+731,"Budapest, Budapest III. kerület, Vörösvári út",III
+732,"Budapest, Remetehegy, Remetehegyi út",III
+733,"Budapest, Budapest III. kerület, Óbor utca",III
+734,"Budapest, Csillaghegy, Pusztakúti út",III
+735,"Budapest, Táborhegy, Királylaki út",III
+736,"Budapest, Budapest II. kerület, Hárshegyi út",II
+737,"Budapest, Budapest II. kerület, Kelemen László utca",II
+738,"Budapest, Budapest II. kerület, Kacsa utca",II
+739,"Budapest, Budapest II. kerület, Margit körút",II
+740,"Budapest, Budapest II. kerület, Zöldmáli lejtő",II
+741,"Budapest, Budapest II. kerület, Pusztaszeri út",II
+742,"Budapest, Országút, Kitaibel Pál utca",II
+743,"Budapest, Budapest II. kerület, Szeréna út",II
+744,"Budapest, Budapest II. kerület, Varsányi Irén utca",II
+745,"Budapest, Budapest II. kerület, Eszter utca",II
+746,"Budapest, Budapest II. kerület, Labanc út",II
+747,"Budapest, Budapest II. kerület, Gárdonyi Géza út",II
+748,"Budapest, Budapest II. kerület, Zuhany utca",II
+749,"Budapest, Pálvölgy, Pálvölgyi út",II
+750,"Budapest, Felhévíz, Margit körút",II
+751,"Budapest, Kurucles, Hárshegyi út",II
+752,"Budapest, Újpest-Központ, Berda József utca",IV
+753,"Budapest, Budapest IX. kerület, Napfény utca",IX
+754,"Budapest, Ferencváros, Ráday utca",IX
+755,"Budapest, Budapest IX. kerület, Ipar utca",IX
+756,"Budapest, Rehabilitációs terület, Bokréta utca",IX
+757,"Budapest, Budapest IX. kerület, Nagyvárad tér",IX
+758,"Budapest, Budapest IX. kerület, Ferenc körút",IX
+759,"Budapest, Ferencváros-Belváros, Ráday utca",IX
+760,"Budapest, Budapest IX. kerület, Bakáts tér",IX
+761,"Budapest, Rehabilitációs terület, Angyal utca",IX
+762,"Budapest, Budapest IX. kerület, Ráday utca",IX
+763,"Budapest, Budapest I. kerület, Mészáros utca",I
+764,"Budapest, Budapest I. kerület, Várkert rakpart",I
+765,"Budapest, Váralja, Logodi utca",I
+766,"Budapest, Budapest I. kerület, Toldy Ferenc utca",I
+767,"Budapest, Budapest I. kerület, Kuny Domokos utca",I
+768,"Budapest, Budapest I. kerület, Logodi utca",I
+769,"Budapest, Gellérthegy, Mihály utca",I
+770,"Budapest, Budapest VIII. kerület, Illés utca",VIII
+771,"Budapest, Józsefváros, Karácsony Sándor utca",VIII
+772,"Budapest, Budapest VIII. kerület, Fiumei út",VIII
+773,"Budapest, Budapest VIII. kerület, Vajda Péter utca",VIII
+774,"Budapest, Budapest VIII. kerület, Bródy Sándor utca",VIII
+775,"Budapest, Palotanegyed, Pál utca",VIII
+776,"Budapest, Budapest VIII. kerület, József körút",VIII
+777,"Budapest, Palotanegyed, Reviczky utca",VIII
+778,"Budapest, Budapest VII. kerület, Bethlen Gábor utca",VII
+779,"Budapest, Budapest VII. kerület, Akácfa utca",VII
+780,"Budapest, Budapest VII. kerület, Hársfa utca",VII
+781,"Budapest, Erzsébetváros, Asbóth utca",VII
+782,"Budapest, Budapest VII. kerület, Madách Imre út",VII
+783,"Budapest, Budapest VII. kerület, Rózsa utca",VII
+784,"Budapest, Budapest VII. kerület, Izabella utca",VII
+785,"Budapest, Erzsébetváros, Rottenbiller utca",VII
+786,"Budapest, Budapest VII. kerület, Rákóczi út",VII
+787,"Budapest, Erzsébetváros, Damjanich utca",VII
+788,"Budapest, Budapest VII. kerület, Wesselényi utca",VII
+789,"Budapest, Budapest VII. kerület, Síp utca",VII
+790,"Budapest, Budapest VI. kerület, Felső erdősor",VI
+791,"Budapest, Budapest VI. kerület, Munkácsy Mihály utca",VI
+792,"Budapest, Budapest VI. kerület, Teréz körút",VI
+793,"Budapest, Budapest VI. kerület, Király utca",VI
+794,"Budapest, Terézváros, Hunyadi tér",VI
+795,"Budapest, Budapest VI. kerület, Jókai tér",VI
+796,"Budapest, Terézváros, Izabella utca",VI
+797,"Budapest, Terézváros, Paulay Ede utca",VI
+798,"Budapest, Budapest VI. kerület, Bajcsy-Zsilinszky út",VI
+799,"Budapest, Budapest VI. kerület, Liszt Ferenc tér",VI
+800,"Budapest, Budapest VI. kerület, Andrássy út",VI
+801,"Budapest, Budapest VI. kerület, Szinyei Merse utca",VI
+802,"Budapest, Budapest VI. kerület, Paulay Ede utca",VI
+803,"Budapest, Budapest VI. kerület, Délibáb utca",VI
+804,"Budapest, Budapest VI. kerület, Anker köz",VI
+805,"Budapest, Terézváros, Kodály körönd",VI
+806,"Budapest, Budapest V. kerület, Molnár utca",V
+807,"Budapest, Budapest V. kerület, Reáltanoda utca",V
+808,"Budapest, Budapest V. kerület, Balaton utca",V
+809,"Budapest, Budapest V. kerület, Alkotmány utca",V
+810,"Budapest, Budapest V. kerület, Szent István körút",V
+811,"Budapest, Belváros, Veres Pálné utca",V
+812,"Budapest, Belváros, Ferenczy István utca",V
+813,"Budapest, Budapest V. kerület, Bajcsy-Zsilinszky út",V
+814,"Budapest, Belváros, Bécsi utca",V
+815,"Budapest, Budapest V. kerület, Mérleg utca",V
+816,"Budapest, Budapest V. kerület, Kálmán Imre utca",V
+817,"Budapest, Budapest V. kerület, Városház utca",V
+818,"Budapest, Budapest V. kerület, Ferenciek tere",V
+819,"Budapest, Belváros, József Attila utca",V
+820,"Budapest, Lipótváros, Sas utca",V
+821,"Budapest, Budapest V. kerület, Arany János utca",V
+822,"Budapest, Budapest V. kerület, Bécsi utca",V
+823,"Budapest, Lipótváros, Szalay utca",V
+824,"Budapest, Lipótváros, Nádor utca",V
+825,"Budapest, Budapest V. kerület, Nádor utca",V
+826,"Budapest, Budapest V. kerület, Balassi Bálint utca",V
+827,"Budapest, Belváros, Petőfi Sándor utca",V
+828,"Budapest, Budapest V. kerület, Dorottya utca",V
+829,"Budapest, Budapest V. kerület, Honvéd utca",V
+830,"Budapest, Budapest XIII. kerület, Tátra utca",XIII
+831,"Budapest, Budapest XIII. kerület, Szent László út",XIII
+832,"Budapest, Budapest XIII. kerület, Jászai Mari tér",XIII
+833,"Budapest, Angyalföld, Szent László út",XIII
+834,"Budapest, Budapest XIII. kerület, Kassák Lajos utca",XIII
+835,"Budapest, Budapest XIII. kerület, Hollán Ernő utca",XIII
+836,"Budapest, Angyalföld, Lehel utca",XIII
+837,"Budapest, Lőportárdűlő, Tüzér utca",XIII
+838,"Budapest, Budapest XIII. kerület, Szent István körút",XIII
+839,"Budapest, Vizafogó bővítés, Bessenyei utca",XIII
+840,"Budapest, Budapest XIII. kerület, Róbert Károly körút",XIII
+841,"Budapest, Budapest XIII. kerület, Lehel utca",XIII
+842,"Budapest, Vizafogó",XIII
+843,"Budapest, Vizafogó, Meder utca",XIII
+844,"Budapest, Vizafogó, Szabolcs utca",XIII
+845,"Budapest, Budapest XII. kerület, Márvány utca",XII
+846,"Budapest, Kútvölgy, György Aladár utca",XII
+847,"Budapest, Budapest XII. kerület, Költő utca",XII
+848,"Budapest, Budapest XII. kerület, György Aladár utca",XII
+849,"Budapest, Budapest XII. kerület, Tamási Áron utca",XII
+850,"Budapest, Farkasrét, Koszta József utca",XII
+851,"Budapest, Kútvölgy, Galgóczy utca",XII
+852,"Budapest, Budapest XIV. kerület, Répásy Mihály utca",XIV
+853,"Budapest, Zugló, Columbus utca",XIV
+854,"Budapest, Herminamező, Kacsóh Pongrác út",XIV
+855,"Budapest, Nagyzugló, Bíbor utca",XIV
+856,"Budapest, Budapest XI. kerület, Tas vezér utca",XI
+857,"Budapest, Budapest XI. kerület, Bercsényi utca",XI
+858,"Budapest, Budapest XI. kerület, Örkény István utca",XI
+859,"Budapest, Budapest XVIII. kerület, Krepuska Géza sétány",XVIII
+860,"Budapest, Budapest XVI. kerület, Ákos utca",XVI
+861,"Budapest, Budapest X. kerület, Dombtető utca",X
+862,"Budapest, Budapest X. kerület, Salgótarjáni utca",X
+863,"Budapest, Budapest X. kerület, Gépmadár utca",X
+864,"Budapest, Krisztinaváros, Krisztina krt",I
+865,"Budapest, Terézváros, Színyei Merse Pál utca",VI
+866,"Budapest, Aranyhegy-Ürömhegy-Péterhegy, Pusztakúti ut",III
+867,"Budapest, Nagyzugló, Francia út",XIV
+868,"Budapest, Víziváros, Margit körút",II
+869,"Budapest, Erzsébetváros, Izabella Utca",VII
+870,"Budapest, Angyalföld, Váci út",XIII
+871,"Budapest, Belváros, belgrád",V
+872,"Budapest, Terézváros, Székely Bertalan Utca",VI
+873,"Budapest, Palotanegyed, Múzeum körút",VIII
+874,"Budapest, Magdolna negyed, Lujza",VIII
+875,"Budapest, Őrmező",XI
+876,"Budapest, Alsórákos, vezér utca",XIV
+877,"Budapest, Lipótváros, Stollár Béla",V
+878,"Budapest, Nagyzugló, Rákos tér",XIV
+879,"Budapest, Corvin negyed, Tömő utca",VIII
+880,"Budapest, Népszínház negyed, Kőris",VIII
+881,"Budapest, Miklóstelep, Üllői út",XVIII
+882,"Budapest, Újpalota, páskomliget utca",XV
+883,"Budapest, Újpest, virág utca",IV
+884,"Budapest, Erzsébetváros, Kazinczy utca",VII
+885,"Budapest, Lipótváros, Markó",V
+886,"Budapest, Belváros, Szemere utca",V
+887,"Budapest, Lipótváros, bajcsy zsilinszky út",V
+888,"Budapest, Lakatos- lakótelep",XVIII
+889,"Budapest, Újpalota, Zsokavár utca",XV
+890,"Budapest, Rákosfalva, Szentmihályi út",XIV
+891,"Budapest, Istvánmező, Stefánia út",XIV
+892,"Budapest, Kiszugló, Újvilág",XIV
+893,"Budapest, Városliget",XIV
+894,"Budapest, Újlipótváros, Balzac utca",XIII
+895,"Budapest, Alsórákos, Szentes utca",XIV
+896,"Budapest, Külső-Ferencváros, Páva",IX
+897,"Budapest, Alsórákos, Tihany utca",XIV
+898,"Budapest, Angyalföld, Petneházy",XIII
+899,"Budapest, Belső-Terézváros, Bajcsy-Zsilinszky",VI
+900,"Budapest, Corvin negyed, Kisfaludy utca",VIII
+901,"Budapest, Belső-Ferencváros, Ferenc",IX
+902,"Budapest, Belső-Ferencváros, Üllői",IX
+903,"Budapest, Rákosfalva, Szentmihályi",XIV
+904,"Budapest, Belső-Erzsébetváros, Dohány",VII
+905,"Budapest, Tisztviselőtelep, Vajda Péter",VIII
+906,"Budapest, Herminamező, Nagy Lajos Király útja",XIV
+907,"Budapest, Vizafogó, Népfürdő utca",XIII
+908,"Budapest, Pasarét, Kelemen László",II
+909,"Budapest, Aquincum, kalap",III
+910,"Budapest, Budafok, Leányka utca",XXII
+911,"Budapest, Százados negyed, Hungária krt",VIII
+912,"Budapest, Erzsébetváros, Baross tér",VII
+913,"Budapest, Erzsébetfalva, Török Flóris utca",XX
+914,"Budapest, Kiszugló, Hungária Krt",XIV
+915,"Budapest, Sashalom, Enikő utca",XVI
+916,"Budapest, Angyalföld, Kartács utca",XIII
+917,"Budapest, Havanna-lakótelep, havanna",XVIII
+918,"Budapest, Kispest, Jahn Ferenc",XIX
+919,"Budapest, Terézváros, Weiner Leo utca",VI
+920,"Budapest, Lágymányos, Bercsényi uca",XI
+921,"Budapest, Krisztinaváros, Pauler",I
+922,"Budapest, Víziváros - Váralja, Toldy Ferenc",I
+923,"Budapest, Víziváros, Batthiányi",I
+924,"Budapest, Középső-Erzsébetváros, Wesselényi",VII
+925,"Budapest, Belváros, Reáltanoda",V
+926,"Budapest, Csarnok negyed, tolnay lajos",VIII
+927,"Budapest, Terézváros, Csengery utca",VI
+928,"Budapest, Újhegy, Mélytó utca",X
+929,"Budapest, Rákosfalva, Zuglo",XIV
+930,"Budapest, Angyalföld, Taksony utca",XIII
+931,"Budapest, Orbánhegy - Mártonhegy - Farkasrét",XII
+932,"Budapest, Lipótváros, Széchenyi utca",V
+933,"Budapest, Krisztinaváros, Kék Golyó utca",XII
+934,"Budapest, Palotanegyed, Horváth Mihály tér",VIII
+935,"Budapest, Belső Erzsébetváros, Síp utca",VII
+936,"Budapest, Lágymányos, Bocskai út",XI
+937,"Budapest, Belváros, Magyar utca",V
+938,"Budapest, Alsórákos, Ilosvai selymes utca",XIV
+939,"Budapest, Magdolna negyed, Dobozi utca",VIII
+940,"Budapest, Lágymányos, Karinthy Frigyes ut",XI
+941,"Budapest, Pestújhely",XV
+942,"Budapest, Erzsébetváros, josika",VII
+943,"Budapest, Belső Erzsébetváros, Kazinczy utca",VII
+944,"Budapest, Alsórákos, Thököly út",XIV
+945,"Budapest, Krisztinaváros, Hajnóczy utca",XII
+946,"Budapest, Erzsébetváros, Marek József utca",VII
+947,"Budapest, Erzsébetváros, Murányi utca",VII
+948,"Budapest, Csepel-Erdősor",XXI
+949,"Budapest, Erzsébetváros, Verseny utca",VII
+950,"Budapest, Gloriett telep, Tövishát utca",XVIII
+951,"Budapest, Kiszugló, Kövér Lajos utca",XIV
+952,"Budapest, Belső Ferencváros, Hőgyes Endre utca",IX
+953,"Budapest, Kelenföld, Kanizsai utca",XI
+954,"Budapest, Szentimreváros, Karolina út",XI
+955,"Budapest, Újlipótváros, Tutaj utca",XIII
+956,"Budapest, Angyalföld, Róbert Károly krt.",XIII
+957,"Budapest, Terézváros, Zichy Jenő utca",VI
+958,"Budapest, Erzsébetváros, Jósika utca",VII
+959,"Budapest, Angyalföld, Tüzér u",XIII
+960,"Budapest, Vár, Mátray utca",I
+961,"Budapest, Erzsébetváros, Budapest Dob utca",VII
+962,"Budapest, Felsőrákos, gyakorló",X
+963,Budapest,XV
+964,"Budapest, Erzsébetváros, Akácfa u",VII
+965,"Budapest, Nagyzugló, Kövér Lajos",XIV
+966,"Budapest, Terézváros, Vasvári Pál utca",VI
+967,"Budapest, Krisztinaváros XII. ker, Krisztina körút",XII
+968,"Budapest, Belváros, Kossuth Lajos",V
+969,"Budapest, Lágymányos, Kende utca",XI
+970,"Budapest, Erzsébetváros, Marek József u",VII
+971,"Budapest, Újpalota, kontyfa",XV
+972,"Budapest, Albertfalva, Vegyész",XI
+973,"Budapest, Kelenföld, Rozsnyó tér",XI
+974,"Budapest, Németvölgy, Kiss János Alt. utca",XII
+975,"Budapest, Angyalföld, Balac u",XIII
+976,"Budapest, Kiszugló, Angol utca",XIV
+977,"Budapest, Havanna-lakótelep, Havanna",XVIII
+978,"Budapest, Mátyásföld, Margit utca",XVI
+979,"Budapest, Rózsadomb, Forint utca",II
+980,"Budapest, Erzsébetváros, istván",VII
+981,"Budapest, Terézváros, Podmaniczky",VI
+982,"Budapest, Terézváros, Teréz krt",VI
+983,"Budapest, Belső-Ferencváros, Erkel utca - Lónyay utca",IX
+984,"Budapest, Népszínház negyed, Rákóczí",VIII
+985,"Budapest, Népszínház negyed",VIII
+986,"Budapest, Orbánhegy, Thomán István utca",XII
+987,"Budapest, Lágymányos, Bercsényi u",XI
+988,"Budapest, Törökvész, Rügy",II
+989,"Budapest, Gazdagrét, Csikihegyek utca",XI
+990,"Budapest, Szentimreváros, Bocskai út",XI
+991,"Budapest, Bank negyed",V
+992,"Budapest, Törökőr, Pillango u",XIV
+993,"Budapest, Ligetváros",VII
+994,"Budapest, Ligetváros, István utca",VII
+995,"Budapest, Középső-Ferencváros, Lenhossék",IX
+996,"Budapest, Terézváros, Székely Mihály utca",VI
+997,"Budapest, Vizafogó, Váci ut",XIII
+998,"Budapest, Kelenföld, Mérnök",XI
+999,"Budapest, Kelenföld, Rátz László utca",XI
+1000,"Budapest, Mátyásföld, Zsélyi Aladás",XVI
+1001,"Budapest, Budafok, Háros",XXII
+1002,"Budapest, Újpest, Virág utca",IV
+1003,"Budapest, Corvin negyed, Horvath Mihaly ter",VIII
+1004,"Budapest, Mátyásföld",XVI
+1005,"Budapest, Újlipótváros, Hegedűs Gyula u",XIII
+1006,"Budapest, Csepel-Csillagtelep",XXI
+1007,"Budapest, Gazdagrét, Rétköz",XI
+1008,"Budapest, Herminamező, Nagy Lajos király útja",XIV
+1009,"Budapest, Aquincum, Vízimolnár",III
+1010,"Budapest, Zöldmál, Zöldmáli lejtő",II
+1011,"Budapest, Középső-Ferencváros, Ernő uca",IX
+1012,"Budapest, Középső-Ferencváros, Lenhossék utca",IX
+1013,"Budapest, Terézváros, Jókai utca",VI
+1014,"Budapest, Kispest, Eötvös utca",XIX
+1015,"Budapest, Laposdűlő",X
+1016,"Budapest, Krisztinaváros, Gellérthegy utca",I
+1017,"Budapest, Újlipótváros, Lehel tér",XIII
+1018,"Budapest, Corvin negyed, Leonardo Da Vinci utca",VIII
+1019,"Budapest, Erzsébetváros, Erzsébet Krt",VII
+1020,"Budapest, Óbuda, Szentendrei út",III
+1021,"Budapest, Óbuda, San Marco u",III
+1022,"Budapest, Liptáktelep",XVIII
+1023,"Budapest, Terézváros, Szinyei Merse utca",VI
+1024,"Budapest, Újlipótváros, Csanády utca",XIII
+1025,"Budapest, Újlipótváros, Radnóti Miklós",XIII
+1026,"Budapest, Újpalota, Páskomliget",XV
+1027,"Budapest, Újpest, Rózsa",IV
+1028,"Budapest, Újpest, Lebstück Mária u",IV
+1029,"Budapest, Corvin negyed, Corvin Sétány",VIII
+1030,"Budapest, Lipótváros, Váci utca",V
+1031,"Budapest, Angyalföld, Faludi",XIII
+1032,"Budapest, Angyalföld, Kisgömb utca",XIII
+1033,"Budapest, Zugliget, Sztehlo Gábor utca",XII
+1034,"Budapest, Németvölgy, Kiss Janos altabornagy utca 26. 4/6",XII
+1035,"Budapest, Németvölgy, Hollósy Simon",XII
+1036,"Budapest, Krisztinaváros, Alkotás u",XII
+1037,"Budapest, Kispest, Arany János utca",XIX
+1038,"Budapest, Kispest, Kazinczy utca",XIX
+1039,"Budapest, Lágymányos, Andor",XI
+1040,"Budapest, Cinkota, Olló",XVI
+1041,"Budapest, Mátyásföld, Futórózsa u",XVI
+1042,"Budapest, Óhegy",X
+1043,"Budapest, Herminamező, Nagy Lajos kir u",XIV
+1044,"Budapest, Kiszugló, Szugló utca",XIV
+1045,"Budapest, Nagyzugló, Egressy út",XIV
+1046,"Budapest, Örsöd",XI
+1047,"Budapest, Kelenföldi ltp",XXII
+1048,"Budapest, Madárhegy",XI
+1049,"Budapest, Lágymányosi lakótelep",XI
+1050,"Budapest, Széchenyi-hegy",XII
+1051,"Budapest, Orbánhegy",XII
+1052,"Budapest, Magasút",XII
+1053,"Budapest, Váralja",I
+1054,"Budapest, Víziváros - Váralja",I
+1055,"Budapest, Adyliget - II/A",II
+1056,"Budapest, Újlak",II
+1057,"Budapest, Csatárka",II
+1058,"Budapest, Hűvösvölgy",II
+1059,"Budapest, Rézmál",II
+1060,"Budapest, Zugliget",XII
+1061,"Budapest, Jánoshegy",II
+1062,"Budapest, Rózsadomb",II
+1063,"Budapest, Kurucles",II
+1064,"Budapest, Rózsadomb, Rómer Flóris utca",II
+1065,"Budapest, Mátyáshegy",III
+1066,"Budapest, Remetehegy",III
+1067,"Budapest, Lipótváros, Falk Miksa u",V
+1068,"Budapest, Terézváros (Nagykörúton belül)",VI
+1069,"Budapest, Külső-Terézváros-Diplomatanegyed",VI
+1070,"Budapest, Terézváros (Nagykörúton kívül)",VI
+1071,"Budapest, Terézváros (Nagykörúton belül), Liszt Ferenc tér",VI
+1072,"Budapest, Erzsébetváros (Nagykörúton belül)",VII
+1073,"Budapest, Erzsébetváros (Nagykörúton kívül)",VII
+1074,"Budapest, Józsefváros - Ganznegyed",VIII
+1075,"Budapest, Palota negyed",VIII
+1076,"Budapest, Csarnok negyed",VIII
+1077,"Budapest, Középső-Ferencváros - Malmok",IX
+1078,"Budapest, Ferencváros-Belváros",IX
+1079,"Budapest, Középső-Ferencváros, Bokréta utca",IX
+1080,"Budapest, Ferencváros",IX
+1081,"Budapest, József Attila ltp",IX
+1082,"Budapest, Németvölgy, Márvány utca",XII
+1083,"Budapest, Középső-Ferencváros, Mester utca",IX
+1084,"Budapest, Népszínház negyed, József krt",VIII
+1085,"Budapest, Újlipótváros, visegrádi",XIII
+1086,"Budapest, Angyalföld, Kassák Lajos utca",XIII
+1087,"Budapest, Megyer - Izzó lakótelep",IV
+1088,"Budapest, Krisztinaváros - Váralja",I
+1089,"Budapest, Józsefváros - Corvinnegyed",VIII
+1090,"Budapest, Külső-Erzsébetváros",VII
+1091,"Budapest, Kelenvölgy",XI
+1092,"Budapest, József Attila-lakótelep, Napfény utca",IX
+1093,"Budapest, Belváros, Szt István krt",V
+1094,"Budapest, Lakatos- lakótelep, Dolgozó utca",XVIII
+1095,"Budapest, Gubacs, Tátra tér",XX
+1096,"Budapest, Istvánmező, Hungária krt",XIV
+1097,"Budapest, Albertfalva, Gyékényes",XI
+1098,"Budapest, Krisztinaváros, Márvány utca",XII
+1099,"Budapest, Pasarét, Pasréti",II
+1100,"Budapest, Magdolna negyed, Koszorú",VIII
+1101,"Budapest, Belső-Ferencváros, Corvin-negyed",IX
+1102,"Budapest, Dél-Belváros, Havas utca",V
+1103,"Budapest, Alsórákos, Zsálya utca",XIV
+1104,"Budapest, Palotanegyed",VIII
+1105,"Budapest, Kelenföld, Hengermalom köz",XI
+1106,"Budapest, Víziváros, Kapás utca",II
+1107,"Budapest, Középső-Ferencváros, Páva utca",IX
+1108,"Budapest, Víziváros, Fenyő",I
+1109,"Budapest, József Attila-lakótelep, Toronyház",IX
+1110,"Budapest, Dél-Belváros, Bástya utca",V
+1111,"Budapest, Albertfalva",XI
+1112,"Budapest, Alsórákos, Kőszeg utca",XIV
+1113,"Budapest, Krisztinaváros, Kuny Domokos u",I
+1114,"Budapest, Lakatos- lakótelep, Építő utca",XVIII
+1115,"Budapest, Angyalföld, Danubius utca",XIII
+1116,"Budapest, Angyalföld, Röppentyű utca",XIII
+1117,"Budapest, Százados negyed, Osztály",VIII
+1118,"Budapest, Terézváros, Vörösmarty u",VI
+1119,"Budapest, Vár, Fortuna utca",I
+1120,"Budapest, Újlipótváros, Hegedus Gyula utca",XIII
+1121,"Budapest, Angyalföld, Dévai",XIII
+1122,"Budapest, Angyalföld, Mohács utca",XIII
+1123,"Budapest, Mártonhegy, Nárcisz",XII
+1124,"Budapest, Gellérthegy, Kemenes",XI
+1125,"Budapest, Havanna-lakótelep, Csontváry Koszka Tivadar",XVIII
+1126,"Budapest, Lakatos- lakótelep, Építő u",XVIII
+1127,"Budapest, Miklóstelep",XVIII
+1128,"Budapest, Belső VI",VI
+1129,"Budapest, Belváros, Szervita tér",V
+1130,"Budapest, Terézváros, Székely Mihály",VI
+1131,"Budapest, Belváros, Szent István krt",V
+1132,"Budapest, Erzsébetváros, Vörösmarty utca",VII
+1133,"Budapest, Belső-Ferencváros, Bakáts utca",IX
+1134,"Budapest, Szemlőhegy, Pusztaszeri",II
+1135,"Budapest, Víziváros, Lánchíd utca",I
+1136,"Budapest, Alsórákos, Csertő utca",XIV
+1137,"Budapest, Alsórákos, Léka",XIV
+1138,"Budapest, Nagyzugló, Kerepesi ut",XIV
+1139,"Budapest, Belváros, Balaton utca",V
+1140,"Budapest, Istvánmező, istvánmezei út",XIV
+1141,"Budapest, Erzsébetváros, Betlen gábor u",VII
+1142,"Budapest, Erzsébetváros, utca",VII
+1143,"Budapest, Vizafogó, Viza",XIII
+1144,"Budapest, Alsórákos, Örs Vezér útja",XIV
+1145,"Budapest, Krisztinaváros, Naphegy",I
+1146,"Budapest, Kelenföld, Somogyi út",XI
+1147,"Budapest, Csarnok negyed, Rákóczi Tér",VIII
+1148,"Budapest, Kőbánya-Kertváros, Kobanya",X
+1149,"Budapest, Angyalföld, Vőlegény",XIII
+1150,"Budapest, Szentimreváros, Szüret",XI
+1151,"Budapest, Újpest, Árpád Út",IV
+1152,"Budapest, Víziváros, Henger",II
+1153,"Budapest, Belső-Ferencváros, Liliom u",IX
+1154,"Budapest, Alsórákos, Kerékgyártó utca",XIV
+1155,"Budapest, Nagyzugló, Nagy Lajos kir",XIV
+1156,"Budapest, Pasarét, Szilágyi Erzsébet Fasor",II
+1157,"Budapest, Belső-Ferencváros, Erkel utca",IX
+1158,Budapest,III
+1159,"Budapest, Alsórákos, Zsálya",XIV
+1160,"Budapest, Középső-Ferencváros, Dandar",IX
+1161,"Budapest, Rehabilitációs terület, Ferenc körút",IX
+1162,"Budapest, Belső Ferencváros, Ráday utca",IX
+1163,"Budapest, Kissvábhegy",XII
+1164,"Budapest, Óhegy, Lavotta utca",X
+1165,"Budapest, Országút, Margit krt",II
+1166,"Budapest, Gellért-hegy",I
+1167,"Budapest, Csillaghegy, Óbor",III
+1168,"Budapest, Krisztinaváros, Mikó utca",I
+1169,"Budapest, Terézváros, Eötvös",VI
+1170,"Budapest, Lágymányos, Irinyi u",XI
+1171,"Budapest, Csarnok negyed, Vig utca",VIII
+1172,"Budapest, Krepuska Géza-telep",XVIII
+1173,"Budapest, Víziváros, Batthyány u",I
+1174,"Budapest, Kelenföld, Bártfai",XI
+1175,"Budapest, Víziváros, Bajvívó",II
+1176,"Budapest, Gubacs, Téglagyártó u",XX
+1177,"Budapest, Váralja, Hunyadi János út",I
+1178,"Budapest, Kiszugló, Mogyoródi út",XIV
+1179,"Budapest, Népliget, Kismartoni út",X
+1180,"Budapest, Krisztinaváros, Logodi utca",I
+1181,"Budapest, Belső-Ferencváros, Sobieski János u",IX
+1182,"Budapest, Alsórákos, Dorozsmai utca",XIV
+1183,"Budapest, Liptáktelep, Reviczky Gyula u",XVIII
+1184,"Budapest, Újlipótváros, Tisza utca",XIII
+1185,"Budapest, Újpest, Szent István tér",IV
+1186,"Budapest, Újpest, Munkásotthon u",IV
+1187,"Budapest, Alsórákos, Dorozsmai",XIV
+1188,"Budapest, Rákosfalva, Mirtusz utca",XIV
+1189,"Budapest, Magdolna negyed, Dobozi",VIII
+1190,"Budapest, Újlipótváros, Dózsa György út",XIII
+1191,"Budapest, Ganztelep, Lugos utca",XVIII
+1192,"Budapest, Szemlőhegy",II
+1193,"Budapest, Krisztinaváros, Királyhágó utca",XII
+1194,"Budapest, Kelenföld, halmi",XI
+1195,"Budapest, Orczy negyed, illés utca",VIII
+1196,"Budapest, Újpest, berda jozsef",IV
+1197,"Budapest, Kispest, Batthyány u",XIX
+1198,"Budapest, Kispest, Nagysándor József",XIX
+1199,"Budapest, Népszínház negyed, József utca",VIII
+1200,"Budapest, Kissvábhegy, Tusnádi",XII
+1201,"Budapest, Kiszugló, Bosnyák tér",XIV
+1202,"Budapest, Óbuda, Folyamőr",III
+1203,"Budapest, Újlak, Lajos utca",III
+1204,"Budapest, Rákosfalva, Furedi",XIV
+1205,"Budapest, Ligettelek, Ónodi",X
+1206,"Budapest, Kőbánya-Kertváros, Kobanya kert",X
+1207,"Budapest, Óbuda, Kórház utca",III
+1208,"Budapest, Szent Lőrinc-lakótelep, 18",XVIII
+1209,"Budapest, Magdolna negyed, Koszorú utca",VIII
+1210,"Budapest, Kurucles, labanc",II
+1211,"Budapest, Városliget, Kacsóh Pongrác",XIV
+1212,"Budapest, Rákoshegy, Zrínyi",XVII
+1213,"Budapest, Belső-Ferencváros, Sobieski János utca",IX
+1214,"Budapest, Erzsébetváros, Károly körút",VII
+1215,"Budapest, József Attila-lakótelep, Börzsöny u",IX
+1216,"Budapest, Svábhegy",XII
+1217,"Budapest, Krisztinaváros, Kapitány u",XII
+1218,"Budapest, Őrmező, Círmos utca",XI
+1219,"Budapest, Ligettelek",X
+1220,"Budapest, Krisztinaváros, Márvány",I
+1221,"Budapest, Rákosfalva, vezér",XIV
+1222,"Budapest, Soroksár-Újtelep, Szilágyi Dezső utca",XXIII
+1223,"Budapest, Nagyzugló, torontál utca",XIV
+1224,"Budapest, Nagyzugló, Egressy tér",XIV
+1225,"Budapest, Törökőr, Pillangó park",XIV
+1226,"Budapest, Kelenföld, Tass v",XI
+1227,"Budapest, Belső VI, Nagymező utca",VI
+1228,"Budapest, Szentimreváros, Bartók Béla út",XI
+1229,"Budapest, Soroksár, grassalkovics",XXIII
+1230,"Budapest, Szentimreváros, Kanizsai utca",XI
+1231,"Budapest, Vár, Fillér utca",I
+1232,"Budapest, Angyalföld, Mór utca",XIII
+1233,"Budapest, Középső-Ferencváros, Sobieski János utca",IX
+1234,"Budapest, Újlipótváros, Garam utca",XIII
+1235,"Budapest, Erzsébetváros, Ligetváros",VII
+1236,"Budapest, Belső-Ferencváros, Liliom utca",IX
+1237,"Budapest, Lipótváros, Balassi Bálint utca",V
+1238,"Budapest, Belső-Ferencváros, Tinódi utca",IX
+1239,"Budapest, Vár, Logodi utca",I
+1240,"Budapest, Svábhegy - Istenhegy",XII
+1241,"Budapest, Pálvölgy, Pál-völgyi út",II
+1242,"Budapest, Nagykörúton belüli terület, Paulay Ede utca",VI
+1243,"Budapest, Madárdomb",XVII
+1244,"Budapest, Terézváros, Szondi utca",VI
+1245,"Budapest, Újlipótváros, Robert Karoly krt",XIII
+1246,"Budapest, Corvin negyed, Leonardo Da Vinci",VIII
+1247,"Budapest, Országút, Petrezselyem utca",II
+1248,"Budapest, Vizafogó, Úszódaru",XIII
+1249,"Budapest, Vizafogó, Úszódaru utca",XIII
+1250,"Budapest, Lipótváros, Bajcsy Zsilinszky",V
+1251,"Budapest, Krisztinaváros, Márvány utca",I
+1252,"Budapest, Százados negyed, százados",VIII
+1253,"Budapest, Belső-Ferencváros, Ulloi",IX
+1254,"Budapest, Mátyás-hegy",III
+1255,"Budapest, Országút, Keleti Károly",II
+1256,"Budapest, Gubacs, Közműhely",XX
+1257,"Budapest, Pestszentimre, Fenyőfa utca",XVIII
+1258,"Budapest, Albertfalva, Mezőkövesd utca",XI
+1259,"Budapest, Palotanegyed, Szentkirälyi utca",VIII
+1260,"Budapest, Belső Erzsébetváros",VII
+1261,"Budapest, Hűvösvölgy, Arad",II
+1262,"Budapest, Corvin negyed, Práter",VIII
+1263,"Budapest, Belváros, Vértanúk tere",V
+1264,"Budapest, Középső-Ferencváros, Üllői út",IX
+1265,"Budapest, Kiszugló, pest",XIV
+1266,"Budapest, Lágymányos, Siroki utca",XI
+1267,"Budapest, Belváros, Múzeum",V
+1268,"Budapest, Dél-Belváros, Múzeum körút",V
+1269,"Budapest, Kelenföld, Nádorliget utca",XI
+1270,"Budapest, Erzsébetváros, Nagy Diófa utca",VII
+1271,"Budapest, Szabótelep, Köteles utca",XX
+1272,"Budapest, Középső-Ferencváros, Mihálkovics u",IX
+1273,"Budapest, Kelenföld, Fadrusz",XI
+1274,"Budapest, Krisztinaváros, Zsolt utca",I
+1275,"Budapest, Krisztinaváros, Hajnóczy József",XII
+1276,"Budapest, Corvin negyed, Német utca",VIII
+1277,"Budapest, Népszínház negyed, Népszínház utca",VIII
+1278,"Budapest, Belváros, Semmelweis utca",V
+1279,"Budapest, Albertfalva, Albert utca",XI
+1280,"Budapest, Lipótváros, Balaton",V
+1281,"Budapest, Újlipótváros, Kádár utca",XIII
+1282,"Budapest, Víziváros, Fő utca",II
+1283,"Budapest, Filatorigát",III
+1284,"Budapest, Óbuda, Kiscelli utca",III
+1285,"Budapest, Óbuda, Kanász utca",III
+1286,"Budapest, Óbuda, Flórián tér",III
+1287,"Budapest, Óbuda, Kunigunda útja",III
+1288,"Budapest, Óbuda, utca",III
+1289,"Budapest, Szépilona, Budakeszi út",II
+1290,"Budapest, Hárshegy, Budakeszi út",II
+1291,"Budapest, Terézváros, Eötvös utca",VI
+1292,"Budapest, Terézváros, Rippl Rónai",VI
+1293,"Budapest, Krisztinaváros, mÉszÁros",I
+1294,"Budapest, Békásmegyer, Jendrassik György utca",III
+1295,"Budapest, Belső VI, Hajós utca",VI
+1296,"Budapest, Orbánhegy, Nárcisz",XII
+1297,"Budapest, Orczy negyed, Baross utca",VIII
+1298,"Budapest, Orczy negyed, orczy tér",VIII
+1299,"Budapest, Őrmező, Menyecske utca",XI
+1300,"Budapest, Herminamező, Nagy Lajos király út",XIV
+1301,"Budapest, Nagyzugló, Kerepesi út",XIV
+1302,"Budapest, Nagyzugló, Nagy Lajos utca",XIV
+1303,"Budapest, Rákosfalva",XIV
+1304,"Budapest, Népliget",X
+1305,"Budapest, Nagyzugló, Vezér",XIV
+1306,"Budapest, Gubacs, Téglagyár tér",XX
+1307,"Budapest, Vár, Ostrom u",I
+1308,"Budapest, Víziváros I. ker",I
+1309,Budapest,I
+1310,"Budapest, Külső-Terézváros - Diplomatanegyed, Városligeti",VI
+1311,"Budapest, Józsefváros - Palotanegyed, Bródy Sándor",VIII
+1312,"Budapest, Palotanegyed, Mária",VIII
+1313,"Budapest, Palotanegyed, Somogyi Béla utca",VIII
+1314,"Budapest, Pálvölgy",II
+1315,"Budapest, Józsefváros, Losonci tér",VIII
+1316,"Budapest, Újlipótváros, Pannónia",XIII
+1317,"Budapest, Kelenföld, Fehérvári út",XI
+1318,"Budapest, Krisztinaváros - Naphegy, Naphegy",I
+1319,"Budapest, Rózsadomb, Ady Endre",II
+1320,"Budapest, Belváros, Széchenyi utca",V
+1321,"Budapest, Harsánylejtő, Lestyán",III
+1322,"Budapest, Vizafogó, Kelén utca",XIII
+1323,"Budapest, Belváros, Március 15 tér",V
+1324,"Budapest, Sashegy",XI
+1325,"Budapest, Gazdagrét, Törökugrató utca",XI
+1326,"Budapest, Belváros, Múzeum krt",V
+1327,"Budapest, Dél-Belváros, Belgrád rakpart",V
+1328,"Budapest, Krisztinaváros, Avar utca",I
+1329,"Budapest, Lipótváros, Báthory utca",V
+1330,"Budapest, Víziváros, Bem rakpart",I
+1331,"Budapest, Szent Imre kertváros, Körös u",XVIII
+1332,"Budapest, Aquincum, Nanasi ut",III
+1333,Budapest,XIV
+1334,"Budapest, Óbuda, Raktár",III
+1335,"Budapest, Istvánmező, Cházár András",XIV
+1336,"Budapest, Országút, Retek utca",II
+1337,"Budapest, Terézváros, Rippl Rónai u",VI
+1338,"Budapest, Aquincum, Amfiteátrum utca",III
+1339,"Budapest, Angyalföld, Röppentyü",XIII
+1340,"Budapest, Rózsadomb, Bimbó út",II
+1341,"Budapest, Rózsadomb, Szemlőhegy utca",II
+1342,"Budapest, Józsefváros - Orczynegyed, Diószeghy Sámuel",VIII
+1343,"Budapest, Kelenföld, Kovászna utca",XI
+1344,"Budapest, Sashegy, Zólyomi",XI
+1345,"Budapest, Nagykörúton belüli terület",VII
+1346,"Budapest, Soroksár",XXIII
+1347,"Budapest, Istvánmező, gizella út",XIV
+1348,"Budapest, Herminamező, Stefánia út",XIV
+1349,"Budapest, Erzsébetváros, Damjanich u",VII
+1350,"Budapest, Csarnok negyed, N?met",VIII
+1351,"Budapest, Krepuska Géza-telep, Péteri út",XVIII
+1352,"Budapest, Albertfalva, Mezőkövesd út",XI
+1353,"Budapest, Középső Erzsébetváros, Csengery utca",VII
+1354,"Budapest, Gyárdűlő",X
+1355,"Budapest, Széchenyihegy, Agancs",XII
+1356,"Budapest, Országút, Retek u",II
+1357,"Budapest, Belbuda -Krisztinaváros",XII
+1358,"Budapest, Újlipótváros, Herzen utca",XIII
+1359,"Budapest, Újlipótváros, Kárpát utca Ipoly utca",XIII
+1360,"Budapest, Kissvábhegy, Szent Orbán",XII
+1361,"Budapest, Népszínház negyed, Brauer Sándor",VIII
+1362,"Budapest, Aranyhegy-Ürömhegy-Péterhegy, Szépvölgyi út",III
+1363,"Budapest, Herminamező, Amerikai út",XIV
+1364,"Budapest, Alsórákos, Egressy út",XIV
+1365,"Budapest, Angyalföld, Róbert Károly",XIII
+1366,"Budapest, Újlipótváros, Reitter Ferenc utca",XIII
+1367,"Budapest, Terézváros, Teréz Krt",VI
+1368,"Budapest, Belváros, Stollár Béla utca",V
+1369,"Budapest, Újlipótváros, Tisza",XIII
+1370,"Budapest, Angyalföld, Kassák Lajos",XIII
+1371,"Budapest, Kispest, Rákóczi utca",XIX
+1372,"Budapest, Óbuda, Bogbányi út",III
+1373,"Budapest, Erzsébetváros, Csengery",VII
+1374,"Budapest, Újpest, Berda József",IV
+1375,"Budapest, Lágymányos, Kanizsai utca",XI
+1376,"Budapest, Törökőr, Tábornok",XIV
+1377,"Budapest, Törökőr, Pillangó Park",XIV
+1378,"Budapest, Angyalföld, Huba",XIII
+1379,"Budapest, Angyalföld, Jász",XIII
+1380,"Budapest, Erzsébetváros, Sajó",VII
+1381,"Budapest, Szentimreváros, Dávid Ferenc utca",XI
+1382,"Budapest, Újpalota",XV
+1383,"Budapest, Istvántelek",IV
+1384,"Budapest, Megyer, Erdősor",IV
+1385,"Budapest, Újpest, Závodszky Zoltán utca",IV
+1386,"Budapest, Újpest, Pozsonyi utca",IV
+1387,"Budapest, Újpest, Venetianer",IV
+1388,"Budapest, Újpest, Káposztásmegyeri út",IV
+1389,"Budapest, Újpest, Mártírok útja",IV
+1390,"Budapest, Újpest, Perényi Zsigmond utca",IV
+1391,"Budapest, Erzsébetváros, Akácfa utca",VII
+1392,"Budapest, Palotanegyed, Fiumei út",VIII
+1393,"Budapest, Angyalföld, Kerekes utca",XIII
+1394,"Budapest, Palotanegyed, Alföldi",VIII
+1395,"Budapest, Nagykörúton belüli terület, Ó utca",VI
+1396,"Budapest, Gyárdűlő, Üllői út",X
+1397,"Budapest, Középső-Ferencváros, Üllői",IX
+1398,"Budapest, Külső-Terézváros - Diplomatanegyed, Szondi",VI
+1399,"Budapest, Krisztinaváros, Kuny Domonkos",I
+1400,"Budapest, Magdolna negyed",VIII
+1401,"Budapest, Népszínház negyed, Berzsenyi Dániel utca",VIII
+1402,"Budapest, Józsefváros - Palotanegyed, Kölcsey",VIII
+1403,"Budapest, Józsefváros - Orczynegyed, Dugonics",VIII
+1404,"Budapest, Józsefváros - Corvinnegyed, Illés",VIII
+1405,"Budapest, Magdolna negyed, Tavaszmező",VIII
+1406,"Budapest, Tisztviselőtelep, Orczy út",VIII
+1407,"Budapest, Nagykörúton belül, Akácfa utca",VII
+1408,"Budapest, Erzsébetváros, Dob",VII
+1409,"Budapest, Erzsébetváros, Péterfy Sándor utca",VII
+1410,"Budapest, Belső-Erzsébetváros, Asbóth",VII
+1411,"Budapest, Erzsébetváros, Százház utca",VII
+1412,"Budapest, Középső Erzsébetváros, Alsó erdősor",VII
+1413,"Budapest, Nagykörúton belüli terület, Paulay Ede u",VI
+1414,"Budapest, Terézváros, Délibáb",VI
+1415,"Budapest, Terézváros, Liszt Ferenc tér",VI
+1416,"Budapest, Terézváros, Lovag utca",VI
+1417,"Budapest, Terézváros, Rózsa",VI
+1418,"Budapest, Belváros, V.Molnár utca",V
+1419,"Budapest, Belváros, Belgrád karpart",V
+1420,"Budapest, Belváros, Egyetem tér",V
+1421,"Budapest, Belváros, Galamb u",V
+1422,"Budapest, Hold",V
+1423,"Budapest, Belváros, Kecskeméti u",V
+1424,"Budapest, Belváros, Október 6 utca",V
+1425,"Budapest, Belváros, Mérleg utca",V
+1426,"Budapest, Lipótváros, Arany Janos utca",V
+1427,"Budapest, Belváros, Október 6. utca",V
+1428,"Budapest, Bank negyed, Vigyázó Ferenc utca",V
+1429,"Budapest, Lipótváros, Zoltán utca",V
+1430,"Budapest, Lipótváros, Alkotmány",V
+1431,"Budapest, Dél-Belváros, Váci utca",V
+1432,"Budapest, Diplomatanegyed, Andrássy út",VI
+1433,"Budapest, Erzsébetváros, István",VII
+1434,"Budapest, Istvánmező, Szabó József",XIV
+1435,"Budapest, Víziváros, Varsányi Irén utca",II
+1436,"Budapest, Kaszásdűlő, Veder utca",III
+1437,"Budapest, Újlak, Végvár utca",III
+1438,"Budapest, Vérhalom, Vend utca",II
+1439,"Budapest, Víziváros, Szabó Ilonka utca",I
+1440,"Budapest, Újlipótváros, Visegrádi u",XIII
+1441,"Budapest, Vizafogó, Vizafogó sétány",XIII
+1442,"Budapest, Nagykörúton belüli terület, Wesselényi utca",VII
+1443,"Budapest, Wekerletelep",XIX
+1444,"Budapest, Erzsébetváros, Wöeösmarty",VII
+1445,"Budapest, Vizafogó, Karikas Frigyes",XIII
+1446,"Budapest, Vizafogó, Turóc utca",XIII
+1447,"Budapest, Újlipótváros, Victor Hugó utca",XIII
+1448,"Budapest, Angyalföld, Duna Plázához közel",XIII
+1449,"Budapest, Vizafogó, Kárpát",XIII
+1450,"Budapest, Újlipótváros, Vág utca",XIII
+1451,"Budapest, Vizafogó - Marinapart, Úszódaru utca",XIII
+1452,"Budapest, Vizafogó, Turóc u",XIII
+1453,"Budapest, Újlipótváros, Szent István park",XIII
+1454,"Budapest, Újlipótváros, Hollán Ernő utca",XIII
+1455,"Budapest, Angyalföld, Teve",XIII
+1456,"Budapest, Újlipótváros, Bessenyei utca",XIII
+1457,"Budapest, Újlipótváros, Véső utca",XIII
+1458,"Budapest, Újlipótváros, Visegrádi",XIII
+1459,"Budapest, Angyalföld, Csata u",XIII
+1460,"Budapest, Angyalföld, Gömb u",XIII
+1461,"Budapest, Angyalföld, Tahi",XIII
+1462,"Budapest, Újlipótváros, Jászai Mari",XIII
+1463,"Budapest, Angyalföld, Szent Lászlú út",XIII
+1464,"Budapest, Újlipótváros, Victor Hugo",XIII
+1465,"Budapest, Krisztinaváros, Győri utca",XII
+1466,"Budapest, Kútvölgy, Kikelet",XII
+1467,"Budapest, Orbánhegy, XII. Csemegi u",XII
+1468,"Budapest, Istenhegy, Istenhegyi út",XII
+1469,"Budapest, Normafa, Normafa út",XII
+1470,"Budapest, Kútvölgy, Galgóczy u",XII
+1471,"Budapest, Mártonhegy, Mártonhegyi",XII
+1472,"Budapest, Svábhegy, Mátyás király út",XII
+1473,"Budapest, Mártonhegy, Hangya u",XII
+1474,"Budapest, Széchenyi-hegy, Rácz Aladár út",XII
+1475,"Budapest, Istenhegy, Szendrő u",XII
+1476,"Budapest, Zugliget, Zugligeti út",XII
+1477,"Budapest, Orbánhegy, Kakukk",XII
+1478,"Budapest, Kissvábhegy, Ráth György",XII
+1479,"Budapest, Belbuda -Krisztinaváros, Maros utca",XII
+1480,"Budapest, Kissvábhegy, Óra út",XII
+1481,"Budapest, Alsórákos, Czobor utca",XIV
+1482,"Budapest, Herminamező, Ilka utca",XIV
+1483,"Budapest, Alsórákos, Csertő",XIV
+1484,"Budapest, Nagyzugló, Bánki Donát utca",XIV
+1485,"Budapest, Herminamező, Tábornok utca",XIV
+1486,"Budapest, Herminamező, Gyarmat utca",XIV
+1487,"Budapest, Törökőr, Utász utca",XIV
+1488,"Budapest, Alsórákos, Miskolci",XIV
+1489,"Budapest, Szentimreváros, Budapest Edömér utca",XI
+1490,"Budapest, Madárhegy, Rupphegyi út",XI
+1491,"Budapest, Kelenföld, kondorosi út",XI
+1492,"Budapest, Albertfalva, Csurgói út",XI
+1493,"Budapest, Kelenföld, Bocskai",XI
+1494,"Budapest, Sashegy, Raho u",XI
+1495,"Budapest, Gellérthegy, Kruspér utca",XI
+1496,"Budapest, Kelenföld, Tétényi út",XI
+1497,"Budapest, Gellérthegy, Budafoki",XI
+1498,"Budapest, Gellérthegy, Budaörsi út",XI
+1499,"Budapest, Belbuda",XI
+1500,"Budapest, Kelenvölgy, Zsurló utca",XI
+1501,"Budapest, Kelenföld, Albert",XI
+1502,"Budapest, Gellérthegy, Gombócz Zoltán",XI
+1503,"Budapest, Sasad, Dayka Gábor utca",XI
+1504,"Budapest, Kelenföld, Baranyai utca",XI
+1505,"Budapest, Kelenföld, Fejér Lipót utca",XI
+1506,"Budapest, Krepuska Géza-telep, Krepuska Géza",XVIII
+1507,"Budapest, Liptáktelep, Reviczky",XVIII
+1508,"Budapest, Lónyaytelep, Nefelejcs",XVIII
+1509,"Budapest, Almáskert, Kőrisfa utca",XVIII
+1510,"Budapest, Bélatelep, Gyömrői út",XVIII
+1511,"Budapest, Szent Imre kertváros, Halomi út",XVIII
+1512,"Budapest, Gloriett telep, Goroszló utca",XVIII
+1513,"Budapest, Madárdomb, Vadkacsa u",XVII
+1514,"Budapest, Rákosszentmihály, Csömöri út",XVI
+1515,"Budapest, Mátyásföld, Olga utca",XVI
+1516,"Budapest, Rákosszentmihály, Baross utca",XVI
+1517,"Budapest, Sashalom, Lándzsa utca",XVI
+1518,"Budapest, Rákospalota, Dessewffy Arisztid utca",XV
+1519,"Budapest, Rákospalota, Szentmihályi út",XV
+1520,"Budapest, Rákospalota, Illyés Gyula utca",XV
+1521,"Budapest, Soroksár-Újtelep, Pistahegyi út",XXIII
+1522,"Budapest, Budatétény, Dézsmaház utca",XXII
+1523,"Budapest, Budatétény",XXII
+1524,"Budapest, Csepel-Erdősor, Csikó sétány",XXI
+1525,"Budapest, Belváros",XXI
+1526,"Budapest, Erzsébetfalva, Kossuth Lajos u",XX
+1527,"Budapest, Erzsébetfalva, tÁtra tÉr",XX
+1528,"Budapest, Felsőrákos, Gyakorló köz",X
+1529,"Budapest, Óhegy, Ónodi köz",X
+1530,"Budapest, Albertfalva, építész utca",XI
+1531,"Budapest, Óbuda, Zápor utca",III
+1532,"Budapest, Krisztinaváros, Aladár utca",I
+1533,"Budapest, Törökőr, mexikói út",XIV
+1534,"Budapest, Zugliget, Dániel utca",XII
+1535,"Budapest, Törökőr, Őrnagy",XIV
+1536,"Budapest, Rákosfalva, Szentmihályi utca",XIV
+1537,"Budapest, Árpádföld, thiki",XVI
+1538,"Budapest, Kiszugló, Padlizsán",XIV
+1539,"Budapest, Herminamező, Thököly",XIV
+1540,"Budapest, Alsórákos, Vezér út",XIV
+1541,"Budapest, Kiszugló, Colombus utca",XIV
+1542,"Budapest, Nagyzugló, Ilosvai selymes Péter u",XIV
+1543,"Budapest, Kiszugló, Fogarasi út",XIV
+1544,"Budapest, Belső-Erzsébetváros, Hársfa",VII
+1545,"Budapest, Rózsadomb, Batyu utca",II
+1546,"Budapest, Soroksár, Könyves ?t",XXIII
+1547,"Budapest, Nagytétény - Óhegy",XXII
