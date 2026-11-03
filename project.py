@@ -1,12 +1,24 @@
 import binascii
 import re
+import sqlite3
 
-input_string = input("adj meg egy SQL lekérdezést\n").strip()
+original_input_string = input("adj meg egy SQL lekérdezést\n").strip()
+input_string = original_input_string
+alias_map = {
+    "price": "a1",
+    "size": "a2",
+    "location_str": "b1",
+    "district": "b2",
+    "heating_type": "c1",
+    "condition": "c2"
+}
+
+for real_name, key in alias_map.items():
+    input_string = input_string.replace(real_name, key)
 input_string_array = input_string.split()
 tables = ["A", "B", "C"]
 attributes = ["a1", "a2", "b1", "b2", "c1", "c2"]
 bins = 10
-#a1 = price, a2 = size, b1=location, b2=district, c1 = heating, c2 = condition
 table_parts = []
 restriction_parts = []
 join_parts = []
@@ -102,8 +114,11 @@ if (check()):
     cursor()
     whole_table = wich_table() + restriction() + join()
     print(whole_table)
+    conn = sqlite3.connect("property_database.db")
+    db_cursor = conn.cursor()
+    count_query = original_input_string.replace("SELECT *", "SELECT COUNT(*)")
+    print(count_query)
+    db_cursor.execute(count_query)
+    real_count = db_cursor.fetchone()[0]
+    print("Tényleges sorszám:", real_count)
 
-#SELECT * FROM A JOIN C ON A.id = C.id WHERE c1 == gáz-cirkó
-#SELECT * FROM A WHERE a1 <= 200000
-#SELECT * FROM A WHERE a2 >= 65
-#SELECT * FROM A JOIN B ON A.id = B.id WHERE b2 == I
